@@ -1,22 +1,29 @@
 Introduction
 ============
 
-This repository is designed to hold crowdsourced genomics data for data relating to the UK ash dieback epidemic of 2012. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can clone it and add your own data and push it back to GitHub for inclusion. To clone it you'll need
+This repository is designed to hold crowdsourced genomics data for data relating to the UK ash dieback epidemic of 2012. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can clone it and add your own data and push it back to GitHub for inclusion. To clone it you'll need to get git setup on your machine and be granted membership of our github organization (ash-dieback-crowdsource).
 
 If you want to join in just follow these instructions or get in touch through dan.maclean@tsl.ac.uk
 
 How to use this repository
 --------------------------
+
+##getting access
+
+- First of all, you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). 
+- Then you need a github account, [sign up here](http://github.com)
+- Last you need membership of our github organisation, just email dan.maclean@tsl.ac.uk with your github username and I'll add you.
+
+
 ## contributing data to the repo
-
-First of all, you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). 
-
- - [danmaclean](https://github.com/danmaclean)
-
-
 ###inital setup: getting data on your machine using github clients
 
-github now provide some pretty nice clients 
+github now provide some pretty nice GUI-based clients for using git. They can be found at the following links
+
+- [Windows](http://windows.github.com)
+- [Mac](http://mac.github.com)
+
+The help files on the client pages will give full instructions on how to clone our repo and how to push back. 
 
 ### initial setup: getting the data at your machine via the command-line
 
@@ -38,9 +45,9 @@ whenever you want to add data, first of all you need to get the most recent vers
 
 Now, add anything you'd like to add on your local copy by just copying files/creating folders, and issue
             
-`git
+```git
     git add <whatever-new-file/folder>
-`
+```
 
 you're ready to commit the changes:
             
