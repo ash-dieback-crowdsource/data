@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This repository is designed to hold crowdsourced genomics data from *your new project*. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can fork it and start your own repository for your own projects.
+This repository is designed to hold crowdsourced genomics data for data relating to the UK ash dieback epidemic of 2012. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can clone it and add your own data and push it back to GitHub for inclusion. 
 
 If you want to create a new crowdsourced project just follow these instructions or get in touch through dan.maclean@tsl.ac.uk
 
