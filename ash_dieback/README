@@ -7,16 +7,67 @@ If you want to create a new crowdsourced project just follow these instructions 
 
 How to use this repository
 --------------------------
-Once you've forked your new repository for your new project, you'll need to know how to populate it.
+## contributing data to the repo
+
+First of all, you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). Then, get in touch so that I can give you push/pull access to the repo: [@ehec_data](http://twitter.com/#!/ehec_data), or through github 
+
+ - [Eduardo Pareja-Tobes](https://github.com/eparejatobes)
+ - [Marina Manrique](https://github.com/marina-manrique)
+
+### initial setup: getting the data at your machine
+
+You need to clone the ehec-outbreak-crowdsourced/BGI-data-analysis repo on your local machine, by typing:
+
+```git
+    git clone git@github.com:ehec-outbreak-crowdsourced/BGI-data-analysis.git
+```
+
+After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `BGI-data-analysis` folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
+
+### adding data locally
+
+whenever you want to add data, first of all you need to get the most recent version of the remote copy:
+
+```git
+    git pull
+```
+
+Now, add anything you'd like to add on your local copy by just copying files/creating folders, and issue
+            
+```git
+    git add <whatever-new-file/folder>
+```
+
+you're ready to commit the changes:
+            
+```git
+    git commit -m 'a message explaining briefly the changes introduced'
+```
+
+### pushing your changes to the remote side
+
+you just need to type
+
+```git
+    git push origin master
+```
+        
+We're trying to keep this as simple as possible (no branches, forks, whatever). However, if you're new to this kind of stuff all of this can be rather daunting. The other option is:
+
+## ask for help!
+
+If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send and email to ehec@ohnosequences.com or send a message to any of [@ehec_data](http://twitter.com/ehec_data), [@marina_manrique](http://twitter.com/marina_manrique), [@eparejatobes](http://twitter.com/eparejatobes)
 
 The directory (folder) structure
 -----------------------
 The folders in this structure are designed to be semantically organised, so that you should be able to follow them and find what you want easily and intuitively. They start off like this:
 
 	.
-	|____project_name
-		|____org_1
-		|____org_2
+	|____ash_dieback
+		|____chalara_fraxinea
+		|____h_albidus
+		|____h_pseudoalbidus
+		|____fraxinus_spp
 		|____project.info
 		|____README
 		|____org.README
@@ -31,7 +82,7 @@ The base folder is called `project_name`, and it contains the project level info
 
 ###organism folders
 
-The organism folder contains all information about just one organism, `org_1` or `e_coli` or whatever. It looks like this:
+The organism folder contains all information about just one organism, `h_pseudoalbidus` or `fraxinus_spp` or whatever. It should look like this:
 
 	org_x
 	|____org.info
