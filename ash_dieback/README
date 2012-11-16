@@ -1,28 +1,32 @@
 Introduction
 ============
 
-This repository is designed to hold crowdsourced genomics data for data relating to the UK ash dieback epidemic of 2012. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can clone it and add your own data and push it back to GitHub for inclusion. 
+This repository is designed to hold crowdsourced genomics data for data relating to the UK ash dieback epidemic of 2012. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can clone it and add your own data and push it back to GitHub for inclusion. To clone it you'll need
 
-If you want to create a new crowdsourced project just follow these instructions or get in touch through dan.maclean@tsl.ac.uk
+If you want to join in just follow these instructions or get in touch through dan.maclean@tsl.ac.uk
 
 How to use this repository
 --------------------------
 ## contributing data to the repo
 
-First of all, you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). Then, get in touch so that I can give you push/pull access to the repo: [@ehec_data](http://twitter.com/#!/ehec_data), or through github 
+First of all, you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). 
 
- - [Eduardo Pareja-Tobes](https://github.com/eparejatobes)
- - [Marina Manrique](https://github.com/marina-manrique)
+ - [danmaclean](https://github.com/danmaclean)
 
-### initial setup: getting the data at your machine
 
-You need to clone the ehec-outbreak-crowdsourced/BGI-data-analysis repo on your local machine, by typing:
+###inital setup: getting data on your machine using github clients
+
+github now provide some pretty nice clients 
+
+### initial setup: getting the data at your machine via the command-line
+
+You need to clone the ash-dieback-crowd-source/crowdsrc repo on your local machine, by typing:
 
 ```git
-    git clone git@github.com:ehec-outbreak-crowdsourced/BGI-data-analysis.git
+    git clone git@github.com:ash-dieback-crowd-source/crowdsrc.git
 ```
 
-After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `BGI-data-analysis` folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
+After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `crowdsrc folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
 
 ### adding data locally
 
@@ -56,7 +60,7 @@ We're trying to keep this as simple as possible (no branches, forks, whatever). 
 
 ## ask for help!
 
-If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send and email to ehec@ohnosequences.com or send a message to any of [@ehec_data](http://twitter.com/ehec_data), [@marina_manrique](http://twitter.com/marina_manrique), [@eparejatobes](http://twitter.com/eparejatobes)
+If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send an email to dan.maclean@tsl.ac.uk  and we'll see what we can do.
 
 The directory (folder) structure
 -----------------------
@@ -144,4 +148,12 @@ The .README files and metadata standards
 
 Citations
 ---------
-The idea for and layout of this repository borrows very heavily from the repository created for the [E.coli 0104:H4](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) outbreak of 2011.
+The idea for and layout of this repository borrows very heavily from the repository created for the [E.coli 0104:H4](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) outbreak of 2011, which was managed by
+
+ [@ehec_data](http://twitter.com/#!/ehec_data),
+
+ - [Eduardo Pareja-Tobes](https://github.com/eparejatobes)
+ - [Marina Manrique](https://github.com/marina-manrique)
+
+
+And I stole an awful lot of content from them to bootstrap this into place. Many thanks to them.
