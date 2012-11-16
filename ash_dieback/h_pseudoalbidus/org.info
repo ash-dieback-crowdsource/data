@@ -1,0 +1,21 @@
+
+#metadata file for h_pseudoalbidus
+
+#local name for organism
+organism_identifier: "h pseudoalbidus"
+
+#species scientific name
+species: "Hymenoscyphus pseudoalbidus"
+#from NCBI
+species_taxid: "746836" 
+
+
+#Source collection (if applicable)
+source_collection: ""
+#Publication(s) about the organism (if applicable)
+references: ""
+
+#External links to databases (SRA, GenBank, etc.)
+ext_db: ""
+#External links to strain/germplasm collections via  names/identifiers/accessions.
+organism_links: ""

@@ -1,0 +1,20 @@
+#metadata file for Fraxinus_spp
+
+#local name for organism
+organism_identifier: "ash"
+
+#species scientific name
+species: "Fraxinus spp"
+#from NCBI
+species_taxid: "38871" 
+
+
+#Source collection (if applicable)
+source_collection: ""
+#Publication(s) about the organism (if applicable)
+references: ""
+
+#External links to databases (SRA, GenBank, etc.)
+ext_db: ""
+#External links to strain/germplasm collections via  names/identifiers/accessions.
+organism_links: ""

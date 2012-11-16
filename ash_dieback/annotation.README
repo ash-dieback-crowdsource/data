@@ -1,0 +1,24 @@
+#metadata definition file for annotations generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,sources"
+
+program: ""
+version: ""
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: ""
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: ""
+
+##database or reference sequences being annotated, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: ""
+
+##sources for annotation prior information, eg. EST or HMMs used for gene-callers etc, alignment file for SNP calls etc
+
+sources: ""
+
+

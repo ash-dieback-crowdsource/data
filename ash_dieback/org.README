@@ -1,0 +1,28 @@
+#metadata definition file for organisms in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "organism_identifier,species,species_taxid"
+optional: "references,ext_db,organism_links"
+
+#local name for organism
+organism_identifier: ""
+
+#species scientific name
+species: ""
+#from NCBI
+species_taxid: ""
+
+
+#Source collection (if applicable)
+source_collection: ""
+#Publication(s) about the organism (if applicable)
+references: ""
+
+#External links to databases (SRA, GenBank, etc.)
+ext_db: ""
+#External links to strain/germplasm collections via  names/identifiers/accessions.
+organism_links: ""
