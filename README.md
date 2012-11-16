@@ -38,9 +38,9 @@ whenever you want to add data, first of all you need to get the most recent vers
 
 Now, add anything you'd like to add on your local copy by just copying files/creating folders, and issue
             
-```git
+`git
     git add <whatever-new-file/folder>
-```
+`
 
 you're ready to commit the changes:
             
