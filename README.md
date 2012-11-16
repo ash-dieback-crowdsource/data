@@ -80,7 +80,6 @@ The folders in this structure are designed to be semantically organised, so that
 		|____h_pseudoalbidus
 		|____fraxinus_spp
 		|____project.info
-		|____README
 		|____org.README
 		|____strain.README
 		|____reads.README
@@ -89,20 +88,20 @@ The folders in this structure are designed to be semantically organised, so that
 		|____annotations.README
 		|____project.README
 	
-The base folder is called `project_name`, and it contains the project level information. Immediately inside this folder is a file called `README` (which is the file you are reading), `project.info` (which contains the project level metadata), a load of files ending in `.README` that define the metadata required for datatypes lower in the structure and one folder each for however many organisms you will have in this project (here we have two, `org_1` and `org_2`). The names of the folders aren't important, only what they contain. So if you want to work on E.coli then you could rename one of the folders to `e_coli`.
+The base folder is called `project_name`, and it contains the project level information. Immediately inside this folder is a file called  `project.info` (which contains the project level metadata), a load of files ending in `.README` that define the metadata required for datatypes lower in the structure and one folder each for the organisms in this project.
 
 ###organism folders
 
 The organism folder contains all information about just one organism, `h_pseudoalbidus` or `fraxinus_spp` or whatever. It should look like this:
 
-	org_x
+	h_pseudoalbidus
 	|____org.info
-	|____strain_1
-	|____strain_2
+	|____isolate_1
+	|____isolate_2
 
 Details about the organism are in the org.info metadata file, one of which is required for every organism in the project. `org.README` in the project folder contains details on the required metadata for the org.info file.
 
-The organism folder also holds the strain folders, where `strain_x` is a particular strain or isolate and could be renamed to 0104_H4, K12 or whatever. `strain.README` is a file that specifies the metadata require for each strain.
+The organism folder also holds the strain/isolate folders, where `strain_x` is a particular strain or isolate and could be renamed to 0104_H4, K12 or whatever. `strain.README` is a file that specifies the metadata require for each strain.
 
 ###strain folders
 
@@ -119,10 +118,10 @@ The metadata file `strain.info` contains the metadata for the strain/isolate/eco
 
 
 ###data folders
-The four different types of data folder are able to hold the majority of datasets we expect a genomics project will generate. There is nothing stopping you from creating new ones of your own.
+The four different types of data folder are able to hold the majority of datasets we expect this genomics project will generate. There is nothing stopping you from creating new ones of your own, though you will need to discuss the metadata definitions and requirements with the organisation.
 
 ####reads
-This folder is designed to contain _links_ to the raw read files, e.g fastq files at other locations around the web. These files are too large in general, to be hosted via GitHub, but text links to them aren't. If you want the actual reads you should follow instructions in the `read_set.info` file which should explain how to get them as well as containing the metadata specified in `reads.README` in the project folder. Each read set should have its own folder and its own `read_set.info`.
+This folder is designed to contain files of _links_ to the raw read files, e.g fastq files at other locations such as FTP sites around the web. These files are too large in general, to be hosted via GitHub, but text links to them aren't. If you want the actual reads you should follow instructions in the `read_set.info` file which should explain how to get them as well as containing the metadata specified in `reads.README` in the project folder. Each read set should have its own folder and its own `read_set.info`.
 
 ####assemblies.
 This folder is designed to contain the results of assemblies carried out with reads in the `reads` folder e.g fasta files of contigs or AGP files of assemblies. In most circumstances the fasta files will not be too big for GitHub so can be directly in the repository and not just linked. The assembly could be of genomic or transcriptomic assembly or anything else exotic along those lines. The details of how each of these assemblies was made should go in the `assembly.info` according to the specification in `assembly.README`.
@@ -139,19 +138,19 @@ Extending the structure to hold data types we haven't thought of should be dead 
 ###File address 
 
 With this data structure, each data file has a unique, semantic and (hopefully) logical place and address. For example:
-`project_name/org_1/strain_1/alignments/strain1_vs_strain2/my_bam_file` or `crowd_sourcing/e_coli/k12/reads/bgi_sequenced_100_paired_150_insert/lane1.fq`
+`ash_dieback/h_pseudoalbidus/norwich_1/alignments/norwich_1_vs_exeter_2/my_bam_file.bam`
 
 
 The .info files
 ---------------
 The files ending in `.info` contain metadata describing the data according to the specification in `.README` files. Each `.info` should describe one discrete unit of data, so a `read_set.info` might describe one sequencing run or set of reads from a few lanes on a sequencer for which all the metadata are the same. Different read sets should be in different folders and therefore need different `.info`. For example, 
-`crowd_sourcing/e_coli/k12/reads/bgi_sequenced_100_paired_150_insert/` would be different from 
-`crowd_sourcing/e_coli/k12/reads/tgac_sequenced_150_single/` so would need a different `.info` though all the reads of that type would be in the same folder so would be covered by the same `.info`
+`ash_dieback/chalara_fraxinea/norwich_1/reads/bgi_sequenced_100_paired_150_insert_illumina/` would be different from 
+`ash_dieback/chalara_fraxinea/norwich_1/reads/tgac_sequenced_454/` so would need a different `.info` though all the reads of that type would be in the same folder so would be covered by the same `.info`
 
 
 The .README files and metadata standards
 -----------------
-`.README` files are a place to specify what should be captured by the individual `.info` files and are very project specific, so are kept blank in this empty repository. You'll need to decide what is appropriate at a project level.
+`.README` files are a place to specify what should be captured by the individual `.info` files and are very important. Data files that do not have the appropriate metadata specified in the respective `.README` file will not be nearly as useful as they could be to the project as a whole because other contributors won't know in enough detail what they are and can't make best use of them. Please stick to 
 
 Citations
 ---------
