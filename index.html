@@ -1,0 +1,225 @@
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen"/>
+  <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/script.js"></script>
+
+  <title>Data</title>
+  <meta name="description" content="Repository for crowd-sourced data from genomics analysis of the UK ash dieback (Chalara fraxinea) outbreak 2012">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+</head>
+
+<body>
+
+  <div class="wrapper">
+    <header>
+      <h1 class="title">Data</h1>
+    </header>
+    <div id="container">
+      <p class="tagline">Repository for crowd-sourced data from genomics analysis of the UK ash dieback (Chalara fraxinea) outbreak 2012</p>
+      <div id="main" role="main">
+        <div class="download-bar">
+        <div class="inner">
+          <a href="https://github.com/ash-dieback-crowdsource/data/tarball/master" class="download-button tar"><span>Download</span></a>
+          <a href="https://github.com/ash-dieback-crowdsource/data/zipball/master" class="download-button zip"><span>Download</span></a>
+          <a href="https://github.com/ash-dieback-crowdsource/data" class="code">View Data on GitHub</a>
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          <h1>Introduction</h1>
+
+<p>This repository is designed to hold crowdsourced genomics data for data relating to the UK ash dieback epidemic of 2012. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can clone it and add your own data and push it back to GitHub for inclusion. To clone it you'll need to get git setup on your machine and be granted membership of our github organization (ash-dieback-crowdsource).</p>
+
+<p>If you want to join in just follow these instructions or get in touch through <a href="mailto:dan.maclean@tsl.ac.uk">dan.maclean@tsl.ac.uk</a></p>
+
+<h2>How to use this repository</h2>
+
+<h2>getting access</h2>
+
+<ul>
+<li>First of all, you need to set up git; github help has a pretty good <a href="http://help.github.com/set-up-git-redirect">guide on how to do it</a>. </li>
+<li>Then you need a github account, <a href="http://github.com">sign up here</a>
+</li>
+<li>Last you need membership of our github organisation, just email <a href="mailto:dan.maclean@tsl.ac.uk">dan.maclean@tsl.ac.uk</a> with your github username and I'll add you.</li>
+</ul><h2>contributing data to the repo</h2>
+
+<h3>inital setup: getting data on your machine using github clients</h3>
+
+<p>github now provide some pretty nice GUI-based clients for using git. They can be found at the following links</p>
+
+<ul>
+<li><a href="http://windows.github.com">Windows</a></li>
+<li><a href="http://mac.github.com">Mac</a></li>
+</ul><p>The help files on the client pages will give full instructions on how to clone our repo and how to push back. </p>
+
+<h3>initial setup: getting the data at your machine via the command-line</h3>
+
+<p>You need to clone the ash-dieback-crowd-source/crowdsrc repo on your local machine, by typing:</p>
+
+<pre lang="git"><code>    git clone git@github.com:ash-dieback-crowd-source/crowdsrc.git
+</code></pre>
+
+<p>After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `crowdsrc folder. Note that this is <em>only</em> for first-time setup; you don't need to do this every time you want to add/get data.</p>
+
+<h3>adding data locally</h3>
+
+<p>whenever you want to add data, first of all you need to get the most recent version of the remote copy:</p>
+
+<pre lang="git"><code>    git pull
+</code></pre>
+
+<p>Now, add anything you'd like to add on your local copy by just copying files/creating folders, and issue</p>
+
+<pre lang="git"><code>    git add &lt;whatever-new-file/folder&gt;
+</code></pre>
+
+<p>you're ready to commit the changes:</p>
+
+<pre lang="git"><code>    git commit -m 'a message explaining briefly the changes introduced'
+</code></pre>
+
+<h3>pushing your changes to the remote side</h3>
+
+<p>you just need to type</p>
+
+<pre lang="git"><code>    git push origin master
+</code></pre>
+
+<p>We're trying to keep this as simple as possible (no branches, forks, whatever). However, if you're new to this kind of stuff all of this can be rather daunting. The other option is:</p>
+
+<h2>ask for help!</h2>
+
+<p>If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send an email to <a href="mailto:dan.maclean@tsl.ac.uk">dan.maclean@tsl.ac.uk</a>  and we'll see what we can do.</p>
+
+<h2>The directory (folder) structure</h2>
+
+<p>The folders in this structure are designed to be semantically organised, so that you should be able to follow them and find what you want easily and intuitively. They start off like this:</p>
+
+<pre><code>.
+|____ash_dieback
+    |____chalara_fraxinea
+    |____h_albidus
+    |____h_pseudoalbidus
+    |____fraxinus_spp
+    |____project.info
+    |____org.README
+    |____strain.README
+    |____reads.README
+    |____assembly.README
+    |____alignments.README
+    |____annotations.README
+    |____project.README
+</code></pre>
+
+<p>The base folder is called <code>project_name</code>, and it contains the project level information. Immediately inside this folder is a file called  <code>project.info</code> (which contains the project level metadata), a load of files ending in <code>.README</code> that define the metadata required for datatypes lower in the structure and one folder each for the organisms in this project.</p>
+
+<h3>organism folders</h3>
+
+<p>The organism folder contains all information about just one organism, <code>h_pseudoalbidus</code> or <code>fraxinus_spp</code> or whatever. It should look like this:</p>
+
+<pre><code>h_pseudoalbidus
+|____org.info
+|____isolate_1
+|____isolate_2
+</code></pre>
+
+<p>Details about the organism are in the org.info metadata file, one of which is required for every organism in the project. <code>org.README</code> in the project folder contains details on the required metadata for the org.info file.</p>
+
+<p>The organism folder also holds the strain/isolate folders, where <code>strain_x</code> is a particular strain or isolate and could be renamed to 0104_H4, K12 or whatever. <code>strain.README</code> is a file that specifies the metadata require for each strain.</p>
+
+<h3>strain folders</h3>
+
+<p>These folders are where the actual data are. The enclosing folders exist really to help stop all the data sets from getting mixed up with themselves. Once in the strain folder we find specific datasets. Each strain folder contains two metadata files and 4 sub-folders.</p>
+
+<pre><code>strain_x
+|____alignments
+|____annotations
+|____assemblies
+|____reads
+|____strain.info
+</code></pre>
+
+<p>The metadata file <code>strain.info</code> contains the metadata for the strain/isolate/ecotype analysed in this folder. The metadata are specified in the <code>strain.README</code> file in the project folder. One <code>strain.info</code> is required for every strain folder. Each sub-folder holds all the different datasets for the different types of genomic data in the repository. Just four types of dataset are identified, (alignments, annotations, assemblies and reads) but this could be extended by adding a new folder for a new datatype.</p>
+
+<h3>data folders</h3>
+
+<p>The four different types of data folder are able to hold the majority of datasets we expect this genomics project will generate. There is nothing stopping you from creating new ones of your own, though you will need to discuss the metadata definitions and requirements with the organisation.</p>
+
+<h4>reads</h4>
+
+<p>This folder is designed to contain files of <em>links</em> to the raw read files, e.g fastq files at other locations such as FTP sites around the web. These files are too large in general, to be hosted via GitHub, but text links to them aren't. If you want the actual reads you should follow instructions in the <code>read_set.info</code> file which should explain how to get them as well as containing the metadata specified in <code>reads.README</code> in the project folder. Each read set should have its own folder and its own <code>read_set.info</code>.</p>
+
+<h4>assemblies.</h4>
+
+<p>This folder is designed to contain the results of assemblies carried out with reads in the <code>reads</code> folder e.g fasta files of contigs or AGP files of assemblies. In most circumstances the fasta files will not be too big for GitHub so can be directly in the repository and not just linked. The assembly could be of genomic or transcriptomic assembly or anything else exotic along those lines. The details of how each of these assemblies was made should go in the <code>assembly.info</code> according to the specification in <code>assembly.README</code>.</p>
+
+<h4>alignments</h4>
+
+<p>This folder designed to contain the results of alignments of one data set against another. Usually this will be reads in the reads folder to assemblies in the assemblies folder, but can be some other combination as required. It may contain links to large and unwieldy files, such as BAM, or directly contain text based alignments of reasonable size, e.g SAM or even BLAST output files.  The details of how each of these alignments was made should go in the <code>alignment.info</code> according to the specification in <code>alignment.README</code>.</p>
+
+<h4>annotations</h4>
+
+<p>This folder is designed to contain the results of annotations of assemblies in the assemblies folder. Annotations is used in a broad sense and could include gene calls in GFF format, or just SNP calls in a proprietary text format. It may contain links to very large files stored elsewhere on the web as well as those directly in the repository. As in the other folders, <code>annotation.README</code> in the project folder contains details on the required metadata for the annotation.info file. Every annotation folder should have one <code>annotation.info</code> file.</p>
+
+<h4>other data types - extending the directory structure</h4>
+
+<p>Extending the structure to hold data types we haven't thought of should be dead easy, just add a new folder in the strain folder. Make sure there is a .info file for the new datatype and a metadata definition in a .README file in the project_name folder</p>
+
+<h3>File address</h3>
+
+<p>With this data structure, each data file has a unique, semantic and (hopefully) logical place and address. For example:
+<code>ash_dieback/h_pseudoalbidus/norwich_1/alignments/norwich_1_vs_exeter_2/my_bam_file.bam</code></p>
+
+<h2>The .info files</h2>
+
+<p>The files ending in <code>.info</code> contain metadata describing the data according to the specification in <code>.README</code> files. Each <code>.info</code> should describe one discrete unit of data, so a <code>read_set.info</code> might describe one sequencing run or set of reads from a few lanes on a sequencer for which all the metadata are the same. Different read sets should be in different folders and therefore need different <code>.info</code>. For example, 
+<code>ash_dieback/chalara_fraxinea/norwich_1/reads/bgi_sequenced_100_paired_150_insert_illumina/</code> would be different from 
+<code>ash_dieback/chalara_fraxinea/norwich_1/reads/tgac_sequenced_454/</code> so would need a different <code>.info</code> though all the reads of that type would be in the same folder so would be covered by the same <code>.info</code></p>
+
+<h2>The .README files and metadata standards</h2>
+
+<p><code>.README</code> files are a place to specify what should be captured by the individual <code>.info</code> files and are very important. Data files that do not have the appropriate metadata specified in the respective <code>.README</code> file will not be nearly as useful as they could be to the project as a whole because other contributors won't know in enough detail what they are and can't make best use of them. Please stick to </p>
+
+<h2>Citations</h2>
+
+<p>The idea for and layout of this repository borrows very heavily from the repository created for the <a href="https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki">E.coli 0104:H4</a> outbreak of 2011, which was managed by</p>
+
+<p><a href="http://twitter.com/#!/ehec_data">@ehec_data</a>,</p>
+
+<ul>
+<li><a href="https://github.com/eparejatobes">Eduardo Pareja-Tobes</a></li>
+<li><a href="https://github.com/marina-manrique">Marina Manrique</a></li>
+</ul><p>And I stole an awful lot of content from them to bootstrap this into place. Many thanks to them.</p>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="owner">
+      <p><a href="https://github.com/ash-dieback-crowdsource" class="avatar"><img src="https://secure.gravatar.com/avatar/a72b032d39e730b577a0c6995537ab0d?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="48" height="48"/></a> <a href="https://github.com/ash-dieback-crowdsource">ash-dieback-crowdsource</a> maintains <a href="https://github.com/ash-dieback-crowdsource/data">Data</a></p>
+
+
+      </div>
+      <div class="creds">
+        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br/>theme by <a href="http://twitter.com/jonrohan/">Jon Rohan</a></small>
+      </div>
+    </footer>
+  </div>
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="https://github.com/ash-dieback-crowdsource/data/tarball/master" class="tar">tar</a><a href="https://github.com/ash-dieback-crowdsource/data/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+  
+</body>
+</html>
