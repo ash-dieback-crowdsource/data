@@ -27,13 +27,13 @@ The help files on the client pages will give full instructions on how to clone o
 
 ### initial setup: getting the data at your machine via the command-line
 
-You need to clone the ash-dieback-crowd-source/crowdsrc repo on your local machine, by typing:
+You need to clone the ash-dieback-crowd-source/data repo on your local machine, by typing:
 
 ```git
-    git clone git@github.com:ash-dieback-crowd-source/crowdsrc.git
+    git clone git@github.com:ash-dieback-crowd-source/data.git
 ```
 
-After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `crowdsrc folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
+After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `data folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
 
 ### adding data locally
 
