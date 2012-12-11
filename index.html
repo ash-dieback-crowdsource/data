@@ -105,7 +105,8 @@
     |____chalara_fraxinea
     |____h_albidus
     |____h_pseudoalbidus
-    |____fraxinus_spp
+    |____fraxinus_excelsior
+    |____mixed_material
     |____project.info
     |____org.README
     |____strain.README
@@ -120,7 +121,7 @@
 
 <h3>organism folders</h3>
 
-<p>The organism folder contains all information about just one organism, <code>h_pseudoalbidus</code> or <code>fraxinus_spp</code> or whatever. It should look like this:</p>
+<p>The organism folder contains all information about just one organism, <code>h_pseudoalbidus</code> or <code>fraxinus_excelsior</code> or whatever. It should look like this:</p>
 
 <pre><code>h_pseudoalbidus
 |____org.info
@@ -129,6 +130,8 @@
 </code></pre>
 
 <p>Details about the organism are in the org.info metadata file, one of which is required for every organism in the project. <code>org.README</code> in the project folder contains details on the required metadata for the org.info file.</p>
+
+<p>The one exception to this is the <code>mixed_material</code> folder, which is a bit different as it is intended for data from non-purified samples like infected leaf or branch material.</p>
 
 <p>The organism folder also holds the strain/isolate folders, where <code>strain_x</code> is a particular strain or isolate and could be renamed to 0104_H4, K12 or whatever. <code>strain.README</code> is a file that specifies the metadata require for each strain.</p>
 
@@ -141,6 +144,7 @@
 |____annotations
 |____assemblies
 |____reads
+|____sequences
 |____strain.info
 </code></pre>
 
@@ -165,6 +169,10 @@
 <h4>annotations</h4>
 
 <p>This folder is designed to contain the results of annotations of assemblies in the assemblies folder. Annotations is used in a broad sense and could include gene calls in GFF format, or just SNP calls in a proprietary text format. It may contain links to very large files stored elsewhere on the web as well as those directly in the repository. As in the other folders, <code>annotation.README</code> in the project folder contains details on the required metadata for the annotation.info file. Every annotation folder should have one <code>annotation.info</code> file.</p>
+
+<h4>sequences</h4>
+
+<p>This folder is designed to contain any other non-read or non-assembly sequence that have been generated e.g by PCR. These should be provided in some common sequence format like FASTA and described in a <code>sequence.info</code> file.</p>
 
 <h4>other data types - extending the directory structure</h4>
 
@@ -194,7 +202,7 @@
 <ul>
 <li><a href="https://github.com/eparejatobes">Eduardo Pareja-Tobes</a></li>
 <li><a href="https://github.com/marina-manrique">Marina Manrique</a></li>
-</ul><p>And I stole an awful lot of content from them to bootstrap this into place. Many thanks to them.</p>
+</ul><p>And I stole an awful lot of content from them to bootstrap this into place. Many,many,many thanks to them.</p>
       </section>
     </div>
 
