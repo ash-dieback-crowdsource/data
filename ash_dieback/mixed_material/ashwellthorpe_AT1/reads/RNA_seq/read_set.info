@@ -8,12 +8,14 @@
 required: "local_name,platform,read_length,molecule_type"
 optional: "paired_end, mate_pairs, insert_size, left_orientation, right_orientation"
 
-local_name: ""
-platform: ""
-read_length: ""
+local_name: "AT_1"
+platform: "Illumina GAII"
+read_length: "76"
 #DNA or RNA was sampled
-molecule_type: ""
+molecule_type: "RNA"
 ##which pairing strategy (if any was used)
 paired_end: "true"
 mate_pairs: "false"
 insert_size: "200"
+left_orientation: FWD
+right_orientation: REV

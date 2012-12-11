@@ -1,0 +1,20 @@
+#metadata definition file for annotations generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "local_id,description"
+optional: "left_primer, right_primer, db_links"
+
+local_id: "AT3_calmodulins"
+description: "From infected ash branch pith. DNA extracted from pith."
+
+left_primer: "GAGTTCAAGGAGGCCTTCTCCC"
+right_primer: "CATCTTTCTGGCCATCATGG"
+
+
+
+
+

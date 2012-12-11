@@ -1,0 +1,22 @@
+
+#metadata  file for mixed material
+#multi organism sample. Can't assign single species to sample
+#local name for organism
+organism_identifier: "mixed material"
+
+
+#species scientific name
+species: "unknown"
+#from NCBI
+species_taxid: "unknown" 
+
+
+#Source collection (if applicable)
+source_collection: ""
+#Publication(s) about the organism (if applicable)
+references: ""
+
+#External links to databases (SRA, GenBank, etc.)
+ext_db: ""
+#External links to strain/germplasm collections via  names/identifiers/accessions.
+organism_links: ""

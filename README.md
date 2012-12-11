@@ -78,7 +78,8 @@ The folders in this structure are designed to be semantically organised, so that
 		|____chalara_fraxinea
 		|____h_albidus
 		|____h_pseudoalbidus
-		|____fraxinus_spp
+		|____fraxinus_excelsior
+		|____mixed_material
 		|____project.info
 		|____org.README
 		|____strain.README
@@ -92,7 +93,7 @@ The base folder is called `project_name`, and it contains the project level info
 
 ###organism folders
 
-The organism folder contains all information about just one organism, `h_pseudoalbidus` or `fraxinus_spp` or whatever. It should look like this:
+The organism folder contains all information about just one organism, `h_pseudoalbidus` or `fraxinus_excelsior` or whatever. It should look like this:
 
 	h_pseudoalbidus
 	|____org.info
@@ -100,6 +101,8 @@ The organism folder contains all information about just one organism, `h_pseudoa
 	|____isolate_2
 
 Details about the organism are in the org.info metadata file, one of which is required for every organism in the project. `org.README` in the project folder contains details on the required metadata for the org.info file.
+
+The one exception to this is the `mixed_material` folder, which is a bit different as it is intended for data from non-purified samples like infected leaf or branch material.
 
 The organism folder also holds the strain/isolate folders, where `strain_x` is a particular strain or isolate and could be renamed to 0104_H4, K12 or whatever. `strain.README` is a file that specifies the metadata require for each strain.
 
@@ -112,6 +115,7 @@ These folders are where the actual data are. The enclosing folders exist really 
 	|____annotations
 	|____assemblies
 	|____reads
+	|____sequences
 	|____strain.info
 
 The metadata file `strain.info` contains the metadata for the strain/isolate/ecotype analysed in this folder. The metadata are specified in the `strain.README` file in the project folder. One `strain.info` is required for every strain folder. Each sub-folder holds all the different datasets for the different types of genomic data in the repository. Just four types of dataset are identified, (alignments, annotations, assemblies and reads) but this could be extended by adding a new folder for a new datatype.
@@ -131,6 +135,9 @@ This folder designed to contain the results of alignments of one data set agains
 
 ####annotations
 This folder is designed to contain the results of annotations of assemblies in the assemblies folder. Annotations is used in a broad sense and could include gene calls in GFF format, or just SNP calls in a proprietary text format. It may contain links to very large files stored elsewhere on the web as well as those directly in the repository. As in the other folders, `annotation.README` in the project folder contains details on the required metadata for the annotation.info file. Every annotation folder should have one `annotation.info` file.
+
+####sequences
+This folder is designed to contain any other non-read or non-assembly sequence that have been generated e.g by PCR. These should be provided in some common sequence format like FASTA and described in a `sequence.info` file.
 
 ####other data types - extending the directory structure
 Extending the structure to hold data types we haven't thought of should be dead easy, just add a new folder in the strain folder. Make sure there is a .info file for the new datatype and a metadata definition in a .README file in the project_name folder
@@ -162,4 +169,4 @@ The idea for and layout of this repository borrows very heavily from the reposit
  - [Marina Manrique](https://github.com/marina-manrique)
 
 
-And I stole an awful lot of content from them to bootstrap this into place. Many thanks to them.
+And I stole an awful lot of content from them to bootstrap this into place. Many,many,many thanks to them.
