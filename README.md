@@ -10,9 +10,9 @@ How to use this repository
 
 ##getting access
 
-- First of all, you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). 
-- Then you need a github account, [sign up here](http://github.com)
-- Last you need membership of our github organisation, just email openashdieback@gmail.com with your github username and we'll add you.
+- First of all, you need a github account, [sign up here](http://github.com)
+- Then you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). Don't miss the opportunity to use a client program for this, it makes things a _lot_ easier. If there is a link to a client at the top of the [guide](http://help.github.com/set-up-git-redirect) do use that.
+- Last you need membership of our github organisation, just email openashdieback@gmail.com with your github username and we'll add you. You should now be able to clone the repository to your local machine.
 
 
 ## contributing data to the repo
