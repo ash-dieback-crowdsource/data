@@ -3,7 +3,7 @@ Introduction
 
 This repository is designed to hold crowdsourced genomics data for data relating to the UK ash dieback epidemic of 2012. It is a generic data structure designed to hold multiple instances of genomics data and links to external sources of data too large to store on GitHub. You can clone it and add your own data and push it back to GitHub for inclusion. To clone it you'll need to get git setup on your machine and be granted membership of our github organization (ash-dieback-crowdsource).
 
-If you want to join in just follow these instructions or get in touch through openashdieback@gmail.com
+If you want to join in just follow these instructions or get in touch through oadb@tsl.ac.uk
 
 How to use this repository
 --------------------------
@@ -12,7 +12,7 @@ How to use this repository
 
 - First of all, you need a github account, [sign up here](http://github.com)
 - Then you need to set up git; github help has a pretty good [guide on how to do it](http://help.github.com/set-up-git-redirect). Don't miss the opportunity to use a client program for this, it makes things a _lot_ easier. If there is a link to a client at the top of the [guide](http://help.github.com/set-up-git-redirect) do use that.
-- Last you need membership of our github organisation, just email openashdieback@gmail.com with your github username and we'll add you. You should now be able to clone the repository to your local machine.
+- Last you need membership of our github organisation, just email oadb@tsl.ac.uk with your github username and we'll add you. You should now be able to clone the repository to your local machine.
 
 
 ## contributing data to the repo
@@ -67,7 +67,7 @@ We're trying to keep this as simple as possible (no branches, forks, whatever). 
 
 ## ask for help!
 
-If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send an email to openashdieback@gmail.com  and we'll see what we can do.
+If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send an email to oadb@tsl.ac.uk  and we'll see what we can do.
 
 The directory (folder) structure
 -----------------------
