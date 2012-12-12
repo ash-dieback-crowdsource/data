@@ -8,16 +8,16 @@ metadata definition file for assemblies generated in the ash dieback project
 required: "program,version,os,run_parameters,reads"
 optional: "scaffolds"
 
-program: ""
-version: ""
+program: "trinity"
+version: "5-19-2011"
 #os the analysis ran on, one of linux, osx, windows will be sufficient
-os: ""
+os: "linux"
 ##program options used, command line options will do here (take out filenames and program name etc)
-run_parameters: ""
+run_parameters: "Trinity.pl --seqType fq --left lane4_NoIndex_R1.fastq --right lane4_NoIndex_R2.fastq --output lane4_RNAseq_Trinity --run_butterfly"
 
 
 ##reads used in the assembly, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-reads: ""
+reads: "AT1_RNAseq"
 
 ##information on any scaffold sequence used in the assembly that are not part of the reads. If possible, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
 scaffolds: ""

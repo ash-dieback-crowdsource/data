@@ -8,7 +8,7 @@
 required: "local_name,platform,read_length,molecule_type"
 optional: "paired_end, mate_pairs, insert_size, left_orientation, right_orientation"
 
-local_name: "AT_1"
+local_name: "AT1"
 platform: "Illumina GAII"
 read_length: "76"
 #DNA or RNA was sampled
