@@ -13,7 +13,7 @@ strain_identifier: "AT_1"
 geographical_location: "52.538387,1.152577"
 
 #Date of collection
-collection_date: "Nov-2012"
+collection_date: 
 
 #Name of collector
 collector_name: "Diane Saunders, Kentaro Yoshida"
