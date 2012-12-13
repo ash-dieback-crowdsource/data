@@ -8,7 +8,7 @@
 required: "program,version,os,run_parameters,target,query"
 optional: ""
 
-program: "BLASTP"
+program: "BLASTX"
 version: ""
 #os the analysis ran on, one of linux, osx, windows will be sufficient
 os: "osx"
@@ -19,4 +19,4 @@ run_parameters: "Default"
 target: "custom eukaryote database (available request)"
 
 ##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-query: "AT1 transcripts"
+query: "AT1_trinity.fasta"
