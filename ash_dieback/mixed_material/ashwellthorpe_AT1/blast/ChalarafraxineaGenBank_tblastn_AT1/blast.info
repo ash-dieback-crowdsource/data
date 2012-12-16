@@ -1,0 +1,22 @@
+#metadata definition file for blast generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "BLASTN"
+version: ""
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "osx"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "Default: blastall -p blastn -d AT1_trinity.fasta -i Chalarafraxinea_116.fan -o Chalarafraxinea_116_blastn_AT1"
+
+##database or reference sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: "Chalarafraxinea_116.fan"
+
+##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+query: "AT1_trinity.fasta"
