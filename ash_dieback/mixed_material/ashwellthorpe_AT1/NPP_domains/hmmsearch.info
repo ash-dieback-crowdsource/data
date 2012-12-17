@@ -11,7 +11,7 @@ optional: ""
 program: "hmmsearch"
 version: "3.0"
 #os the analysis ran on, one of linux, osx, windows will be sufficient
-os: "osx"
+os: "linux"
 ##program options used, command line options will do here (take out filenames and program name etc)
 run_parameters: "hmmsearch -o hmmsearch.out --cpu 16 npp1.hmm best_candidates.eclipsed_orfs_removed.pep"
 
