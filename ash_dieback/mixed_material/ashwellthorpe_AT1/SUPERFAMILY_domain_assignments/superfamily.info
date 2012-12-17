@@ -21,3 +21,4 @@ target: "SUPERFAMILY 1.75 (see supfam.cs.bris.ac.uk)"
 ##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
 query: best_candidates.eclipsed_orfs_removed.pep (see Likely Coding Sequences)"
 
+## I've added AT1_SF_run_with_pngs.tbz2 which is a html file, with links to SCOP and PNG plots of domain boundaries. WARNING When un-tarbz2ed the file (amongst the mess of others) AT1_SF_run_with_pngs.html will require ~6GB of free RAM to open in Firefox (other browsers such as Chrome might well consume more RAM).
