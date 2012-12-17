@@ -1,0 +1,18 @@
+#metadata definition file for blast generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "muscle"
+version: "v3.8.31"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "muscle -in PfamA_seed_and_AT1_NPP.fa -out PfamA_seed_and_AT1_NPP_aligned.fa"
+
+##Aligned the AT1 NPP sequences from "NPP_domains" (directory in repository) with those from the Pfam A seed alignment (http://pfam.sanger.ac.uk/family/PF05630/alignment/seed/html) using muscle; the 3 from AT1 align well.
