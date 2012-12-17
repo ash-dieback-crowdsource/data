@@ -9,7 +9,7 @@ required: "program,version,os,run_parameters,target,query"
 optional: ""
 
 program: "FastQC"
-version: ""
+version: "0.10.1"
 #os the analysis ran on, one of linux, osx, windows will be sufficient
 os: "osx"
 ##program options used, command line options will do here (take out filenames and program name etc)
