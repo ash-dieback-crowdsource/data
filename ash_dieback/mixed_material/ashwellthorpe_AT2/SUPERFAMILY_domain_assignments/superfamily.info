@@ -1,0 +1,24 @@
+#metadata definition file for blast generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "superfamily.pl"
+version: "1.75"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "osx"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "Default i.e. superfamily.pl AT2.fa (renamed best_candidates.eclipsed_orfs_removed.pep for AT2)"
+
+##database or reference sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: "SUPERFAMILY 1.75 (see supfam.cs.bris.ac.uk)"
+
+##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+query: best_candidates.eclipsed_orfs_removed.pep (see Likely Coding Sequences)"
+
+## I've added AT2_SF_run_with_pngs.tbz2 which is a html file, with links to SCOP and PNG plots of domain boundaries. WARNING When un-tarbz2ed the file (amongst the mess of others) AT2_SF_run_with_pngs.html will require ~6GB of free RAM to open in Firefox (other browsers such as Chrome might well consume more RAM).
