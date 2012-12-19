@@ -15,5 +15,5 @@ os: "linux"
 ##program options used, command line options will do here (take out filenames and program name etc)
 run_parameters: "Default"
 
-## run on the trinity output for AT1: "AT2_trinity.fasta"
+## run on the trinity output for AT2: "AT2_trinity.fasta"
 
