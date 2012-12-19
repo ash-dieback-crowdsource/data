@@ -1,0 +1,77 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.0 (March 2010); http://hmmer.org/
+# Copyright (C) 2010 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  npp1.hmm
+# target sequence database:        best_candidates.eclipsed_orfs_removed.pep
+# output directed to file:         hmmsearch.out
+# number of worker threads:        16
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       NPP1  [M=208]
+Accession:   PF05630.6
+Description: Necrosis inducing protein (NPP1)
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+    3.9e-59  201.9   0.0    4.5e-59  201.7   0.0    1.0  1  m.4072   g.4072  ORF g.4072 m.4072 type:complete len:241 (-)
+    7.8e-56  191.1   0.0      9e-56  190.9   0.0    1.0  1  m.94690  g.94690  ORF g.94690 m.94690 type:5prime_partial le
+
+
+Domain annotation for each sequence (and alignments):
+>> m.4072  g.4072  ORF g.4072 m.4072 type:complete len:241 (-) comp21993_c0_seq1:108-830(-)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  201.7   0.0   1.3e-63   4.5e-59       4     208 .]      50     238 ..      47     238 .. 0.96
+
+  Alignments for each domain:
+  == domain 1    score: 201.7 bits;  conditional E-value: 1.3e-63
+    NPP1   4 alalkfqPvldiDtdgCyptpAvdkdgkvsgGLkptgsisggCrdkskLdnsqtYaRskcnngkcailYayYfekDqalsglgghrhdwEhvvvwvdnaas.n 105
+             ++++ +qP l++  +gC+p+pAv+++g++ gGL+++gs +g+C +++    +q+Y+R+  +ng++a++Y++Yf+kD+++sgl ghrhdwE+v+vw+++ ++ n
+  m.4072  50 EVYKAYQPLLKV-NNGCVPFPAVSANGDTGGGLQTSGSSNGKCGSST----GQVYVRRGESNGRTALMYSWYFPKDSPSSGL-GHRHDWEAVIVWLQSGTAtN 146
+             56789*******.******************************5555....5**************************9995.6**************88889 PP
+
+    NPP1 106 sdqvlavsasahgkyktkpassvrldgshpkivyhkdgvgthalrfaeakdeiendkgkwftqplvsweklpsearekLenadfgsanvplkdsnfeekLeka 208
+              +++lav  sahg+++ +  +s +ldg  p i+y + ++ +hal f++ k+          +qpl+ we+lp+ ar++L n+df +anvp+kd+nf+++L ka
+  m.4072 147 RENILAVCPSAHGSFECS--KSPNLDGVTPLIKYESIFPVNHALGFTNIKGG---------KQPLIAWESLPEPARTALINTDFRDANVPFKDANFNNNLGKA 238
+             9***************99..99******************************.........***************************************986 PP
+
+>> m.94690  g.94690  ORF g.94690 m.94690 type:5prime_partial len:246 (-) comp97523_c0_seq1:126-863(-)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  190.9   0.0   2.7e-60     9e-56       4     208 .]      55     243 ..      52     243 .. 0.96
+
+  Alignments for each domain:
+  == domain 1    score: 190.9 bits;  conditional E-value: 2.7e-60
+     NPP1   4 alalkfqPvldiDtdgCyptpAvdkdgkvsgGLkptgsisggCrdkskLdnsqtYaRskcnngkcailYayYfekDqalsglgghrhdwEhvvvwvdnaas. 104
+              +++  +qP ld+  +gC+p+pAvd++g++++GL+ +g  + gC++++     q+YaR++ +n+++ai+Y++Y++kD++++g  gh+hdwE vvvw+++ +s 
+  m.94690  55 QVYEAYQPFLDV-INGCVPFPAVDASGNTNAGLDLSGGDDEGCSSSTG----QIYARATAYNNMYAIMYSWYMPKDSPSRG-LGHQHDWEGVVVWLSSGTSt 150
+              67789*******.******************************66655....**************************998.56**************9999 PP
+
+     NPP1 105 nsdqvlavsasahgkyktkpassvrldgshpkivyhkdgvgthalrfaeakdeiendkgkwftqplvsweklpsearekLenadfgsanvplkdsnfeekLe 206
+              +++++lav  sahg+++ +  ++ rl+g+ p i+y++ ++ +h++ +a + +          +qplv we+l+s+ +++L+n+dfgsa+vp++d+nf ++L+
+  m.94690 151 DAGNILAVCPSAHGDWNCS--RNFRLSGTGPLISYFSIWPVNHQMGMAIDVGG---------QQPLVAWESLSSAQQSALQNTDFGSATVPFRDANFMQNLA 241
+              99***************99..9****************************999.........9**************************************8 PP
+
+     NPP1 207 ka 208
+              +a
+  m.94690 242 AA 243
+              75 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (208 nodes)
+Target sequences:                      67222  (22253895 residues)
+Passed MSV filter:                      1884  (0.0280265); expected 1344.4 (0.02)
+Passed bias filter:                     1336  (0.0198744); expected 1344.4 (0.02)
+Passed Vit filter:                        74  (0.00110083); expected 67.2 (0.001)
+Passed Fwd filter:                         2  (2.97522e-05); expected 0.7 (1e-05)
+Initial search space (Z):              67222  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 2.38u 0.03s 00:00:02.40 Elapsed: 00:00:00.32
+# Mc/sec: 14465.03
+//
