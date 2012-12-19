@@ -15,4 +15,4 @@ os: "linux"
 ##program options used, command line options will do here (take out filenames and program name etc)
 run_parameters: "muscle -in PfamA_seed_and_AT1_NPP.fa -out PfamA_seed_and_AT1_NPP_aligned.fa"
 
-##Aligned the AT1 NPP sequences from "NPP_domains" (directory in repository) with those from the Pfam A seed alignment (http://pfam.sanger.ac.uk/family/PF05630/alignment/seed/html) using muscle; the 3 from AT1 align well.
+##Aligned the AT1 NPP1 like sequences from "NPP1_domains" (directory in repository) with those from the Pfam A seed alignment (http://pfam.sanger.ac.uk/family/PF05630/alignment/seed/html) using muscle; the 3 from AT1 align well.
