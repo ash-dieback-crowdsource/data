@@ -18,8 +18,8 @@ run_parameters: "muscle -in JH_run_out_and_AT1_AT2_NPP_domains.fa  -out JH_run_o
 ## Aligned the AT1 and AT2 NPP sequences from "NPP_domains" (directories in repository) using muscle.  This 
 alignment was then converted to stockholm format and used as the input alignment for an iterative jackhmmer search 
 http://hmmer.janelia.org against UniProt, at the 12th iteration the search converged and no more sequences could be 
-added.  This search retrieved 770 sequences that where similar to the AT1 and AT2 NPP containing sequences.  Using 
-the Taxonomy restriction only the full length unaligned 79 Helotiales sequences where then retrieved.  These where 
+added.  This search retrieved 770 sequences that were similar to the AT1 and AT2 NPP containing sequences.  Using 
+the Taxonomy restriction only the full length unaligned 79 Helotiales sequences where then retrieved.  These were 
 then added to the 5 input AT1 and AT2 sequences and aligned with muscle.  The resulting alignment has 84 sequences, 
 79 from other Helotiales.  Some of these sequences introduce gaps, due to insertions, but many regions align very 
 well.  This alignment can be found in the file JH_run_out_and_AT1_AT2_NPP_domains_aligned.fa.  
