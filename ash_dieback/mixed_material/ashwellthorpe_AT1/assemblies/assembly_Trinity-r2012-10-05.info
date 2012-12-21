@@ -1,0 +1,38 @@
+metadata definition file for assemblies generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,reads"
+optional: "scaffolds"
+
+program: "trinity"
+version: "Trinity-r2012-10-05"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "--seqType fq --left lane4_NoIndex_R1.fastq --right lane4_NoIndex_R2.fastq --output lane4_RNAseq_Trinity --JM 96G --CPU 16 --bflyCPU 16" (Note running butterfly is now default)
+
+
+##reads used in the assembly, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+reads: "ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_001.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_002.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_003.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_004.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_005.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_006.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_007.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R1_008.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_001.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_002.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_003.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_004.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_005.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_006.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_007.fastq.gz
+ftp-oadb.tsl.ac.uk/public/mixed_material/ashwellthorpe_AT1/RNA_seq/lane4_NoIndex_L004_R2_008.fastq.gz"
+
+##information on any scaffold sequence used in the assembly that are not part of the reads. If possible, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+scaffolds: ""
