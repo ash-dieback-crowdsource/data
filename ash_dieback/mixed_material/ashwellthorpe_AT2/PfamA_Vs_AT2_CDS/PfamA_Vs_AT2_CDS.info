@@ -1,0 +1,20 @@
+#metadata definition file for blast generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "hmmsearch"
+version: "3.0"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "hmmsearch --cpu 8 --tblout PfamA_out.tab --cut_ga Pfam-A.hmm best_candidates.eclipsed_orfs_removed.pep"
+
+##ORFs: "best_candidates.eclipsed_orfs_removed.pep (see Likely Coding Sequences for AT2 Trinity-r2012-10-05 assembly)"
+
+##HMM library: Pfam-A HMMs (ftp://ftp.sanger.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz)

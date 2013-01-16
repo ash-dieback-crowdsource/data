@@ -1,0 +1,20 @@
+#metadata definition file for blast generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "signalP"
+version: "4.1"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "type euk, "
+
+## run on "data/ash_dieback/mixed_material/ashwellthorpe_AT2/likely_coding_sequences/longest_orfs.pep"
+## output "longest_orfs_all.signalp" results from analysis
+## output "longest_predicted_secreted_orfs.pep" list of sequences with secretion signals
