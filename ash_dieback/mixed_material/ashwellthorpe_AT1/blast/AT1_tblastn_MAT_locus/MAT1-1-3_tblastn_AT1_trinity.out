@@ -1,0 +1,331 @@
+TBLASTN 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= gi|402695432|gb|AFQ90563.1| MAT1-1-3 [Hymenoscyphus
+pseudoalbidus]
+         (344 letters)
+
+Database: AT1_trinity.fasta 
+           52,626 sequences; 50,203,423 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+comp18181_c0_seq1_FPKM_all:4.959_FPKM_rel:4.959_len:978_path:[0]       79   4e-15
+comp8448_c0_seq2_FPKM_all:19.812_FPKM_rel:11.092_len:893_path:[0...    39   0.005
+comp8448_c0_seq1_FPKM_all:19.484_FPKM_rel:10.774_len:894_path:[0...    39   0.005
+comp32448_c0_seq1_FPKM_all:2.567_FPKM_rel:2.567_len:346_path:[0]       37   0.030
+comp21085_c0_seq1_FPKM_all:4.129_FPKM_rel:4.129_len:885_path:[0,...    30   2.8  
+comp4134_c0_seq3_FPKM_all:34.836_FPKM_rel:18.416_len:1352_path:[...    30   2.8  
+comp4134_c0_seq1_FPKM_all:33.353_FPKM_rel:17.077_len:1364_path:[...    30   2.8  
+comp3715_c0_seq1_FPKM_all:55.214_FPKM_rel:55.214_len:3816_path:[0]     30   2.8  
+comp4896_c0_seq2_FPKM_all:35.628_FPKM_rel:18.005_len:3477_path:[...    29   6.3  
+comp4896_c0_seq1_FPKM_all:36.945_FPKM_rel:19.317_len:3476_path:[...    29   6.3  
+comp10716_c0_seq1_FPKM_all:16.499_FPKM_rel:16.499_len:1418_path:...    29   6.3  
+comp11437_c0_seq2_FPKM_all:12.366_FPKM_rel:8.136_len:2309_path:[...    28   8.2  
+comp11437_c0_seq1_FPKM_all:15.743_FPKM_rel:8.033_len:1267_path:[...    28   8.2  
+comp32257_c0_seq1_FPKM_all:2.581_FPKM_rel:2.581_len:397_path:[0]       28   8.2  
+comp1856_c0_seq2_FPKM_all:103.995_FPKM_rel:53.131_len:3254_path:...    28   8.2  
+comp1856_c0_seq1_FPKM_all:105.066_FPKM_rel:53.375_len:3202_path:...    28   8.2  
+
+>comp18181_c0_seq1_FPKM_all:4.959_FPKM_rel:4.959_len:978_path:[0]
+          Length = 978
+
+ Score = 79.3 bits (194), Expect = 4e-15
+ Identities = 53/209 (25%), Positives = 92/209 (44%), Gaps = 7/209 (3%)
+ Frame = -1
+
+Query: 140 ASHDASDETASATGKAVKIPKPANAWILYRQSKHRMVADENPGAHTSDIC-----MWKQE 194
+           A  D   E  S     +++P+P NA+ILYR+  H  +  +NP  H + I      MW +E
+Sbjct: 948 APADNDTEPTSDNTPNLRVPRPPNAFILYRKHHHASIVAQNPSVHNNKISQIIGKMWSEE 769
+
+Query: 195 SMQVKNFWHRKAAHEKAMHALRYPNYRVRPRRSSQIRRRARKVTEVRIDGPMVSSMPAAP 254
+           + +V N++  +A   K  HA++YPNY+ +PR+ S+ +RR  K           +++ A  
+Sbjct: 768 TDEVTNYFKAQADQAKVEHAIKYPNYQYQPRKPSEKKRRMTK--------KKAATLAANA 613
+
+Query: 255 TEVQINGHLVSPITSAPQNEEDNEVTLLSSTAPAHLDQGANDIDALLSLDPVYQNDMENI 314
+           TE   + H  S  + A   +    +   +        + AN+I A+        +  EN+
+Sbjct: 612 TEAMTSSHKDSESSGADLTQSSLPLNRKTKNRVVKQTKTANNIAAIAQAIETRFDIAENV 433
+
+Query: 315 MADM--SKAADDMQFNFNLDFERFDNEFN 341
+              +  + A D  +    +    FD   N
+Sbjct: 432 NVRVINNLATDSFELPDVIGVNDFDTAVN 346
+
+
+>comp8448_c0_seq2_FPKM_all:19.812_FPKM_rel:11.092_len:893_path:[0,
+           401,447]
+          Length = 893
+
+ Score = 39.3 bits (90), Expect = 0.005
+ Identities = 18/26 (69%), Positives = 18/26 (69%)
+ Frame = +2
+
+Query: 27  RTQFLQLWTHHTQLLKQGKFIFFLTE 52
+           R QF QLW  HTQLLKQGKFI    E
+Sbjct: 602 RLQFSQLWAFHTQLLKQGKFILLPRE 679
+
+
+>comp8448_c0_seq1_FPKM_all:19.484_FPKM_rel:10.774_len:894_path:[0,
+           941,447]
+          Length = 894
+
+ Score = 39.3 bits (90), Expect = 0.005
+ Identities = 18/26 (69%), Positives = 18/26 (69%)
+ Frame = +3
+
+Query: 27  RTQFLQLWTHHTQLLKQGKFIFFLTE 52
+           R QF QLW  HTQLLKQGKFI    E
+Sbjct: 603 RLQFSQLWAFHTQLLKQGKFILLPRE 680
+
+
+>comp32448_c0_seq1_FPKM_all:2.567_FPKM_rel:2.567_len:346_path:[0]
+          Length = 346
+
+ Score = 36.6 bits (83), Expect = 0.030
+ Identities = 18/44 (40%), Positives = 24/44 (54%), Gaps = 5/44 (11%)
+ Frame = -3
+
+Query: 157 KIPKPANAWILYRQSKHRMVADENPGAHTSDIC-----MWKQES 195
+           KIP+P NA+ILYRQ     V  +NPG    +I       W+ +S
+Sbjct: 140 KIPRPRNAFILYRQHYQAQVVAQNPGLANPEISKIIGEQWRDQS 9
+
+
+>comp21085_c0_seq1_FPKM_all:4.129_FPKM_rel:4.129_len:885_path:[0,
+           885,788]
+          Length = 885
+
+ Score = 30.0 bits (66), Expect = 2.8
+ Identities = 21/66 (31%), Positives = 30/66 (45%), Gaps = 11/66 (16%)
+ Frame = +2
+
+Query: 71  DTEAKHYRLGPIKDQYDFATTSG-SLMVYYKEKCPL----------QAAMPITTMPIINP 119
+           D   K    GP+KD Y F +T+G S M+     CPL          + A+ +     +N 
+Sbjct: 320 DATGKAAEFGPLKDGYMFESTTGLSRMLLKSPPCPLLETLGKKLAFEIAVGLNGRVWVNA 499
+
+Query: 120 TSVSVI 125
+           TS S+I
+Sbjct: 500 TSPSII 517
+
+
+>comp4134_c0_seq3_FPKM_all:34.836_FPKM_rel:18.416_len:1352_path:[0,
+            460,488,2957,1269]
+          Length = 1352
+
+ Score = 30.0 bits (66), Expect = 2.8
+ Identities = 16/56 (28%), Positives = 27/56 (48%)
+ Frame = +1
+
+Query: 115  PIINPTSVSVIQREVLRSLPTVPNNASHDASDETASATGKAVKIPKPANAWILYRQ 170
+            P + P     +Q ++ + LP  P  ASHD+  E+      A K P+P +  +  R+
+Sbjct: 1066 PKLLPIRQPPLQTDLNKPLPPSPRPASHDSDPESIFDKESAGKTPEPPSTSVSIRR 1233
+
+
+>comp4134_c0_seq1_FPKM_all:33.353_FPKM_rel:17.077_len:1364_path:[0,
+            3101,488,2957,1269]
+          Length = 1364
+
+ Score = 30.0 bits (66), Expect = 2.8
+ Identities = 16/56 (28%), Positives = 27/56 (48%)
+ Frame = +1
+
+Query: 115  PIINPTSVSVIQREVLRSLPTVPNNASHDASDETASATGKAVKIPKPANAWILYRQ 170
+            P + P     +Q ++ + LP  P  ASHD+  E+      A K P+P +  +  R+
+Sbjct: 1078 PKLLPIRQPPLQTDLNKPLPPSPRPASHDSDPESIFDKESAGKTPEPPSTSVSIRR 1245
+
+
+>comp3715_c0_seq1_FPKM_all:55.214_FPKM_rel:55.214_len:3816_path:[0]
+          Length = 3816
+
+ Score = 30.0 bits (66), Expect = 2.8
+ Identities = 46/187 (24%), Positives = 70/187 (37%), Gaps = 7/187 (3%)
+ Frame = +3
+
+Query: 126 QREVLRSLPTVPNNASHDASDETASATGKAVKIPKPANAWILYRQSKHRMVADENPGAHT 185
+           +  V+ S PTV +NA   A       + KAV+     N+W     S         P A  
+Sbjct: 669 KENVVESTPTVESNAWDTAETPAWDTSSKAVETTTEENSW---DTSAGATTTAAAPAAPA 839
+
+Query: 186 SDICMWKQESMQVKNFWHRKAA----HEKAMHALRYPNYR-VRPRRSSQIRRRARKVTEV 240
+           S I         VK  W    A     +KA   +  P    V+P+   ++     +V   
+Sbjct: 840 SSII-----PDGVKKSWASIFAPAPVPKKAPEPVEKPAPEPVKPQEPVEVPSNEPEVVNP 1004
+
+Query: 241 RIDGPM--VSSMPAAPTEVQINGHLVSPITSAPQNEEDNEVTLLSSTAPAHLDQGANDID 298
+               P+  +   PA PT ++     ++P  S  +  EDN   +  ++APA     A+   
+Sbjct: 1005SEPVPVEPIEESPAVPTTIEEPESAITP--SKDELTEDNLEQVPDTSAPAPTATAAS--T 1172
+
+Query: 299 ALLSLDP 305
+           A  S DP
+Sbjct: 1173AASSWDP 1193
+
+
+>comp4896_c0_seq2_FPKM_all:35.628_FPKM_rel:18.005_len:3477_path:[0,
+            396,3633]
+          Length = 3477
+
+ Score = 28.9 bits (63), Expect = 6.3
+ Identities = 18/64 (28%), Positives = 30/64 (46%), Gaps = 5/64 (7%)
+ Frame = -1
+
+Query: 130  LRSLPTVPNNASHDASDETASATGKAVKIPKPANAW--ILYRQSKHRMVADENPGA---H 184
+            L ++P  P     +   E+ASAT     +P+P   +  + YRQ  ++     +PG     
+Sbjct: 3312 LITIPGPPTLQRQEPPTESASATANRSPVPRPTLPYYRLSYRQLPYKRTGQYSPGTALHR 3133
+
+Query: 185  TSDI 188
+            TSD+
+Sbjct: 3132 TSDL 3121
+
+
+>comp4896_c0_seq1_FPKM_all:36.945_FPKM_rel:19.317_len:3476_path:[0,
+            3633]
+          Length = 3476
+
+ Score = 28.9 bits (63), Expect = 6.3
+ Identities = 18/64 (28%), Positives = 30/64 (46%), Gaps = 5/64 (7%)
+ Frame = -1
+
+Query: 130  LRSLPTVPNNASHDASDETASATGKAVKIPKPANAW--ILYRQSKHRMVADENPGA---H 184
+            L ++P  P     +   E+ASAT     +P+P   +  + YRQ  ++     +PG     
+Sbjct: 3311 LITIPGPPTLQRQEPPTESASATANRSPVPRPTLPYYRLSYRQLPYKRTGQYSPGTALHR 3132
+
+Query: 185  TSDI 188
+            TSD+
+Sbjct: 3131 TSDL 3120
+
+
+>comp10716_c0_seq1_FPKM_all:16.499_FPKM_rel:16.499_len:1418_path:[0,
+           388]
+          Length = 1418
+
+ Score = 28.9 bits (63), Expect = 6.3
+ Identities = 17/51 (33%), Positives = 26/51 (50%)
+ Frame = +1
+
+Query: 240 VRIDGPMVSSMPAAPTEVQINGHLVSPITSAPQNEEDNEVTLLSSTAPAHL 290
+           V +DGP+  S+ A  + V  +GHLV      P+    +  T +S  AP H+
+Sbjct: 586 VGVDGPLDRSVLARISIVNFHGHLVYDSFVKPEEFVTDWRTPVSGIAPRHM 738
+
+
+>comp11437_c0_seq2_FPKM_all:12.366_FPKM_rel:8.136_len:2309_path:[0,
+           1238]
+          Length = 2309
+
+ Score = 28.5 bits (62), Expect = 8.2
+ Identities = 13/40 (32%), Positives = 25/40 (62%), Gaps = 2/40 (5%)
+ Frame = -2
+
+Query: 199 KNFWHRKAAHEKAMHALRYPNYR--VRPRRSSQIRRRARK 236
+           +N+W RK A+ +A    R+P ++    P R S+++R+ R+
+Sbjct: 829 ENWWQRKQAN*RARKPRRFPTHQNPRSPNRLSKLQRKERR 710
+
+
+>comp11437_c0_seq1_FPKM_all:15.743_FPKM_rel:8.033_len:1267_path:[0,
+           2309]
+          Length = 1267
+
+ Score = 28.5 bits (62), Expect = 8.2
+ Identities = 13/40 (32%), Positives = 25/40 (62%), Gaps = 2/40 (5%)
+ Frame = -1
+
+Query: 199 KNFWHRKAAHEKAMHALRYPNYR--VRPRRSSQIRRRARK 236
+           +N+W RK A+ +A    R+P ++    P R S+++R+ R+
+Sbjct: 829 ENWWQRKQAN*RARKPRRFPTHQNPRSPNRLSKLQRKERR 710
+
+
+>comp32257_c0_seq1_FPKM_all:2.581_FPKM_rel:2.581_len:397_path:[0]
+          Length = 397
+
+ Score = 28.5 bits (62), Expect = 8.2
+ Identities = 17/53 (32%), Positives = 27/53 (50%), Gaps = 1/53 (1%)
+ Frame = +1
+
+Query: 104 PLQAAMPITTMPIINPTSVSVIQREVLRSLPTVP-NNASHDASDETASATGKA 155
+           P ++  P+ T+P++ P SVS  +R    S P  P  +A+   S  T   +G A
+Sbjct: 55  PKRSESPVNTVPVMVPRSVSR*RRSKSLSTPATPAPSAARTPSSVTPPVSGTA 213
+
+
+>comp1856_c0_seq2_FPKM_all:103.995_FPKM_rel:53.131_len:3254_path:[0,
+            3200,1699]
+          Length = 3254
+
+ Score = 28.5 bits (62), Expect = 8.2
+ Identities = 36/157 (22%), Positives = 60/157 (38%), Gaps = 17/157 (10%)
+ Frame = +3
+
+Query: 203  HRKAAHEKAMHALRYPNYRVRPRRSSQIRRRARKVTEVRIDGPMVSSMPAAPTEVQINGH 262
+            H++    K+ H +     ++    + Q R R+  V    +D     + P +      + H
+Sbjct: 1815 HQRNDSSKSSHRISRDRDQIHYDPTPQSRNRSGSVQGRAVDFDQPRASPFSKATATPSSH 1994
+
+Query: 263  LVSP-ITSAPQNEEDNEVTLLSSTAPAHLD----------QGANDIDALLS-----LDPV 306
+              S  +TS    +    V LLS+TAPA  D          +G +D DA  +      D  
+Sbjct: 1995 SPSTSVTSIGPRKPSVGVGLLSATAPATQDKDRLSVMSKGRGRSDSDASQASMGDFYDAY 2174
+
+Query: 307  YQNDMENIMADMSKAADDMQFNFNLDFER-FDNEFNY 342
+            Y+    +  A   + A    F  +L  +   DN FN+
+Sbjct: 2175 YRQSTISHRASAYQPARPESFTADLSNQSVLDNGFNF 2285
+
+
+>comp1856_c0_seq1_FPKM_all:105.066_FPKM_rel:53.375_len:3202_path:[0,
+            1699]
+          Length = 3202
+
+ Score = 28.5 bits (62), Expect = 8.2
+ Identities = 36/157 (22%), Positives = 60/157 (38%), Gaps = 17/157 (10%)
+ Frame = +2
+
+Query: 203  HRKAAHEKAMHALRYPNYRVRPRRSSQIRRRARKVTEVRIDGPMVSSMPAAPTEVQINGH 262
+            H++    K+ H +     ++    + Q R R+  V    +D     + P +      + H
+Sbjct: 1763 HQRNDSSKSSHRISRDRDQIHYDPTPQSRNRSGSVQGRAVDFDQPRASPFSKATATPSSH 1942
+
+Query: 263  LVSP-ITSAPQNEEDNEVTLLSSTAPAHLD----------QGANDIDALLS-----LDPV 306
+              S  +TS    +    V LLS+TAPA  D          +G +D DA  +      D  
+Sbjct: 1943 SPSTSVTSIGPRKPSVGVGLLSATAPATQDKDRLSVMSKGRGRSDSDASQASMGDFYDAY 2122
+
+Query: 307  YQNDMENIMADMSKAADDMQFNFNLDFER-FDNEFNY 342
+            Y+    +  A   + A    F  +L  +   DN FN+
+Sbjct: 2123 YRQSTISHRASAYQPARPESFTADLSNQSVLDNGFNF 2233
+
+
+  Database: AT1_trinity.fasta
+    Posted date:  Jan 28, 2013  9:30 AM
+  Number of letters in database: 50,203,423
+  Number of sequences in database:  52,626
+  
+Lambda     K      H
+   0.318    0.130    0.382 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 52626
+Number of Hits to DB: 18,991,155
+Number of extensions: 268257
+Number of successful extensions: 1626
+Number of sequences better than 10.0: 16
+Number of HSP's gapped: 1622
+Number of HSP's successfully gapped: 16
+Length of query: 344
+Length of database: 16,734,474
+Length adjustment: 101
+Effective length of query: 243
+Effective length of database: 11,419,248
+Effective search space: 2774877264
+Effective search space used: 2774877264
+Neighboring words threshold: 13
+Window for multiple hits: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.7 bits)
+S2: 36 (18.5 bits)

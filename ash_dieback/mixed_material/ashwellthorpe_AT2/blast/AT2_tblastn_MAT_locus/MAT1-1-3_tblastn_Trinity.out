@@ -1,0 +1,235 @@
+TBLASTN 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= gi|402695432|gb|AFQ90563.1| MAT1-1-3 [Hymenoscyphus
+pseudoalbidus]
+         (344 letters)
+
+Database: Trinity.fasta 
+           84,081 sequences; 71,517,401 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+comp26888_c0_seq1_FPKM_all:6.859_FPKM_rel:6.859_len:1288_path:[0]      80   3e-15
+comp25204_c0_seq1_FPKM_all:6.499_FPKM_rel:6.499_len:844_path:[0]       65   1e-10
+comp53717_c0_seq1_FPKM_all:2.919_FPKM_rel:2.919_len:316_path:[0]       37   0.040
+comp15343_c0_seq1_FPKM_all:14.436_FPKM_rel:14.436_len:2327_path:...    30   3.7  
+comp11002_c0_seq6_FPKM_all:23.338_FPKM_rel:6.727_len:1169_path:[...    30   3.7  
+comp11002_c0_seq5_FPKM_all:23.567_FPKM_rel:6.804_len:1170_path:[...    30   3.7  
+comp11002_c0_seq3_FPKM_all:20.845_FPKM_rel:5.634_len:1034_path:[...    30   3.7  
+comp11002_c0_seq2_FPKM_all:20.583_FPKM_rel:5.545_len:1033_path:[...    30   3.7  
+comp10628_c1_seq1_FPKM_all:20.295_FPKM_rel:20.295_len:3863_path:...    30   3.7  
+comp27276_c0_seq1_FPKM_all:8.181_FPKM_rel:8.181_len:1074_path:[0]      29   8.3  
+
+>comp26888_c0_seq1_FPKM_all:6.859_FPKM_rel:6.859_len:1288_path:[0]
+          Length = 1288
+
+ Score = 80.1 bits (196), Expect = 3e-15
+ Identities = 57/227 (25%), Positives = 98/227 (43%), Gaps = 15/227 (6%)
+ Frame = -1
+
+Query: 130  LRSLPTVPNN--------ASHDASDETASATGKAVKIPKPANAWILYRQSKHRMVADENP 181
+            L +LP  P+         A  D   E  S     +++P+P NA+ILYR+  H  +  +NP
+Sbjct: 1234 LSALPPFPDQTIMTNDVVAPADNDTEPTSDNTPNLRVPRPPNAFILYRKHHHASIVAQNP 1055
+
+Query: 182  GAHTSDIC-----MWKQESMQVKNFWHRKAAHEKAMHALRYPNYRVRPRRSSQIRRRARK 236
+              H + I      MW +E+ +V N++  +A   K  HA++YPNY+ +PR+ S+ +RR  K
+Sbjct: 1054 SVHNNKISQIIGKMWSEETDEVTNYFKAQADQAKVEHAIKYPNYQYQPRKPSEKKRRMTK 875
+
+Query: 237  VTEVRIDGPMVSSMPAAPTEVQINGHLVSPITSAPQNEEDNEVTLLSSTAPAHLDQGAND 296
+                       +++ A  TE   + H  S  + A   +    +   +        + AN+
+Sbjct: 874  --------KKAATLAANATEAMTSSHKDSESSGADLTQSSLPLNRKTKNRVVKQTKTANN 719
+
+Query: 297  IDALLSLDPVYQNDMENIMADM--SKAADDMQFNFNLDFERFDNEFN 341
+            I A+        +  EN+   +  + A D  +    +    FD   N
+Sbjct: 718  IAAIAQAIETRFDIAENVNVRVINNLATDSFELPDVIGVNDFDTAVN 578
+
+
+>comp25204_c0_seq1_FPKM_all:6.499_FPKM_rel:6.499_len:844_path:[0]
+          Length = 844
+
+ Score = 64.7 bits (156), Expect = 1e-10
+ Identities = 33/52 (63%), Positives = 36/52 (69%)
+ Frame = +1
+
+Query: 1   MNSMNSAHPIQNIMSGALLLVVPEADRTQFLQLWTHHTQLLKQGKFIFFLTE 52
+           +NSM    PI +I+ G L  VV EADR QF QLW  HTQLLKQGKFI FL E
+Sbjct: 481 INSMKFTDPITSILPGELQAVVVEADRIQFSQLWALHTQLLKQGKFILFLGE 636
+
+
+>comp53717_c0_seq1_FPKM_all:2.919_FPKM_rel:2.919_len:316_path:[0]
+          Length = 316
+
+ Score = 36.6 bits (83), Expect = 0.040
+ Identities = 18/44 (40%), Positives = 24/44 (54%), Gaps = 5/44 (11%)
+ Frame = +3
+
+Query: 157 KIPKPANAWILYRQSKHRMVADENPGAHTSDIC-----MWKQES 195
+           KIP+P NA+ILYRQ     V  +NPG    +I       W+ +S
+Sbjct: 180 KIPRPRNAFILYRQHYQAQVVAQNPGLANPEISKIIGEQWRDQS 311
+
+
+>comp15343_c0_seq1_FPKM_all:14.436_FPKM_rel:14.436_len:2327_path:[0,
+            173,1309]
+          Length = 2327
+
+ Score = 30.0 bits (66), Expect = 3.7
+ Identities = 16/56 (28%), Positives = 27/56 (48%)
+ Frame = +1
+
+Query: 115  PIINPTSVSVIQREVLRSLPTVPNNASHDASDETASATGKAVKIPKPANAWILYRQ 170
+            P + P     +Q ++ + LP  P  ASHD+  E+      A K P+P +  +  R+
+Sbjct: 1006 PKLLPIRQPPLQTDLNKPLPPSPRPASHDSDPESIFDKESAGKTPEPPSTSVSIRR 1173
+
+
+>comp11002_c0_seq6_FPKM_all:23.338_FPKM_rel:6.727_len:1169_path:[0,
+           2044,2159,741,1052,1057]
+          Length = 1169
+
+ Score = 30.0 bits (66), Expect = 3.7
+ Identities = 21/66 (31%), Positives = 30/66 (45%), Gaps = 11/66 (16%)
+ Frame = -2
+
+Query: 71  DTEAKHYRLGPIKDQYDFATTSG-SLMVYYKEKCPL----------QAAMPITTMPIINP 119
+           D   K    GP+KD Y F +T+G S M+     CPL          + A+ +     +N 
+Sbjct: 658 DATGKAAEFGPLKDGYMFESTTGLSRMLLKSPPCPLLETLGKKLAFEIAVGLNGRVWVNA 479
+
+Query: 120 TSVSVI 125
+           TS S+I
+Sbjct: 478 TSPSII 461
+
+
+>comp11002_c0_seq5_FPKM_all:23.567_FPKM_rel:6.804_len:1170_path:[0,
+           2043,2044,2159,741,1052,1057]
+          Length = 1170
+
+ Score = 30.0 bits (66), Expect = 3.7
+ Identities = 21/66 (31%), Positives = 30/66 (45%), Gaps = 11/66 (16%)
+ Frame = -2
+
+Query: 71  DTEAKHYRLGPIKDQYDFATTSG-SLMVYYKEKCPL----------QAAMPITTMPIINP 119
+           D   K    GP+KD Y F +T+G S M+     CPL          + A+ +     +N 
+Sbjct: 659 DATGKAAEFGPLKDGYMFESTTGLSRMLLKSPPCPLLETLGKKLAFEIAVGLNGRVWVNA 480
+
+Query: 120 TSVSVI 125
+           TS S+I
+Sbjct: 479 TSPSII 462
+
+
+>comp11002_c0_seq3_FPKM_all:20.845_FPKM_rel:5.634_len:1034_path:[0,
+           2043,2044,2159,1233]
+          Length = 1034
+
+ Score = 30.0 bits (66), Expect = 3.7
+ Identities = 21/66 (31%), Positives = 30/66 (45%), Gaps = 11/66 (16%)
+ Frame = -1
+
+Query: 71  DTEAKHYRLGPIKDQYDFATTSG-SLMVYYKEKCPL----------QAAMPITTMPIINP 119
+           D   K    GP+KD Y F +T+G S M+     CPL          + A+ +     +N 
+Sbjct: 659 DATGKAAEFGPLKDGYMFESTTGLSRMLLKSPPCPLLETLGKKLAFEIAVGLNGRVWVNA 480
+
+Query: 120 TSVSVI 125
+           TS S+I
+Sbjct: 479 TSPSII 462
+
+
+>comp11002_c0_seq2_FPKM_all:20.583_FPKM_rel:5.545_len:1033_path:[0,
+           2044,2159,1233]
+          Length = 1033
+
+ Score = 30.0 bits (66), Expect = 3.7
+ Identities = 21/66 (31%), Positives = 30/66 (45%), Gaps = 11/66 (16%)
+ Frame = -1
+
+Query: 71  DTEAKHYRLGPIKDQYDFATTSG-SLMVYYKEKCPL----------QAAMPITTMPIINP 119
+           D   K    GP+KD Y F +T+G S M+     CPL          + A+ +     +N 
+Sbjct: 658 DATGKAAEFGPLKDGYMFESTTGLSRMLLKSPPCPLLETLGKKLAFEIAVGLNGRVWVNA 479
+
+Query: 120 TSVSVI 125
+           TS S+I
+Sbjct: 478 TSPSII 461
+
+
+>comp10628_c1_seq1_FPKM_all:20.295_FPKM_rel:20.295_len:3863_path:[3589
+            ,6127]
+          Length = 3863
+
+ Score = 30.0 bits (66), Expect = 3.7
+ Identities = 46/187 (24%), Positives = 70/187 (37%), Gaps = 7/187 (3%)
+ Frame = -1
+
+Query: 126  QREVLRSLPTVPNNASHDASDETASATGKAVKIPKPANAWILYRQSKHRMVADENPGAHT 185
+            +  V+ S PTV +NA   A       + KAV+     N+W     S         P A  
+Sbjct: 3170 KENVVESTPTVESNAWDTAETPAWDTSSKAVETTTEENSW---DTSAGATTTAAAPAAPA 3000
+
+Query: 186  SDICMWKQESMQVKNFWHRKAA----HEKAMHALRYPNYR-VRPRRSSQIRRRARKVTEV 240
+            S I         VK  W    A     +KA   +  P    V+P+   ++     +V   
+Sbjct: 2999 SSII-----PDGVKKSWASIFAPAPVPKKAPEPVEKPAPEPVKPQEPVEVPSNEPEVVNP 2835
+
+Query: 241  RIDGPM--VSSMPAAPTEVQINGHLVSPITSAPQNEEDNEVTLLSSTAPAHLDQGANDID 298
+                P+  +   PA PT ++     ++P  S  +  EDN   +  ++APA     A+   
+Sbjct: 2834 SEPVPVEPIEESPAVPTTIEEPESAITP--SKDELTEDNLEQVPDTSAPAPTATAAS--T 2667
+
+Query: 299  ALLSLDP 305
+            A  S DP
+Sbjct: 2666 AASSWDP 2646
+
+
+>comp27276_c0_seq1_FPKM_all:8.181_FPKM_rel:8.181_len:1074_path:[0]
+          Length = 1074
+
+ Score = 28.9 bits (63), Expect = 8.3
+ Identities = 17/51 (33%), Positives = 26/51 (50%)
+ Frame = +1
+
+Query: 240 VRIDGPMVSSMPAAPTEVQINGHLVSPITSAPQNEEDNEVTLLSSTAPAHL 290
+           V +DGP+  S+ A  + V  +GHLV      P+    +  T +S  AP H+
+Sbjct: 565 VGVDGPLDRSVLARISIVNFHGHLVYDSFVKPEEFVTDWRTPVSGIAPRHM 717
+
+
+  Database: Trinity.fasta
+    Posted date:  Jan 28, 2013  9:36 AM
+  Number of letters in database: 71,517,401
+  Number of sequences in database:  84,081
+  
+Lambda     K      H
+   0.318    0.130    0.382 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 84081
+Number of Hits to DB: 26,448,350
+Number of extensions: 360992
+Number of successful extensions: 2004
+Number of sequences better than 10.0: 10
+Number of HSP's gapped: 2000
+Number of HSP's successfully gapped: 10
+Length of query: 344
+Length of database: 23,839,133
+Length adjustment: 103
+Effective length of query: 241
+Effective length of database: 15,178,790
+Effective search space: 3658088390
+Effective search space used: 3658088390
+Neighboring words threshold: 13
+Window for multiple hits: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.7 bits)
+S2: 36 (18.5 bits)
