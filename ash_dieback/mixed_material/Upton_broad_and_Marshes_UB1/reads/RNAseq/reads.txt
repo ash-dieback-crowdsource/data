@@ -1,0 +1,2 @@
+ftp-oadb.tsl.ac.uk/mixed_material/Upton_broad_and_Marshes_UB1/reads/RNAseq/TSL_ID153_lane2/lane2_NoIndex_R1.fastq
+ftp-oadb.tsl.ac.uk/mixed_material/Upton_broad_and_Marshes_UB1/reads/RNAseq/TSL_ID153_lane2/lane2_NoIndex_R1.fastq

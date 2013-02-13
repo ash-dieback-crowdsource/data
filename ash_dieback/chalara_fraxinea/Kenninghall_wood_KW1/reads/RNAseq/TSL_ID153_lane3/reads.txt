@@ -1,0 +1,2 @@
+ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID153_lane3/lane3_NoIndex_R1.fastq
+ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID153_lane3/lane3_NoIndex_R2.fastq

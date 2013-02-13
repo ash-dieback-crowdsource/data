@@ -1,0 +1,2 @@
+ftp-oadb.tsl.ac.uk/mixed_material/Holt_Country_Park_HP1/reads/RNAseq/TSL_ID153_lane1/lane1_NoIndex_R1.fastq
+ftp-oadb.tsl.ac.uk/mixed_material/Holt_Country_Park_HP1/reads/RNAseq/TSL_ID153_lane1/lane1_NoIndex_R2.fastq

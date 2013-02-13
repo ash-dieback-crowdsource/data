@@ -1,1 +1,1 @@
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/read_set_2/lib2570.fastq.tar.gz
+ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/gDNA/read_set_2/lib2570.fastq.tar.gz
