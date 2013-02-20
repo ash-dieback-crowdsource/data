@@ -1,0 +1,24 @@
+#metadata definition file for annotations generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,sources"
+
+program: "The Chalara fraxinea secretome was defined using Pexfinder. Transmembrane domain containing proteins and proteins with mitochondrial signal peptides were removed using TMHMM and TargetP, repectively"
+version: "SignalP2, TargetP 1.1 and TMHMM 2.0c"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: ""
+
+##database or reference sequences being annotated, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: "ash_dieback/chalara_fraxinea/Kenninghall_wood_KW1/annotations/Gene_predictions/TGAC_Chalara_fraxinea_ass_s1v1_ann_v1.1/Chalara_fraxinea_ass_s1v1_ann_v1.1.protein.faa"
+
+##sources for annotation prior information, eg. EST or HMMs used for gene-callers etc, alignment file for SNP calls etc
+
+sources: ""
+
+
