@@ -14,7 +14,7 @@ os: "linux"
 run_parameters: Tophat "-r 200"
 
 ##database or reference sequences being annotated, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-Expression analysis: ""
+Expression analysis: "data/ash_dieback/fraxinus_excelsior/annotations/gene_expression_analysis/"
 
 ##sources for annotation prior information, eg. EST or HMMs used for gene-callers etc, alignment file for SNP calls etc
 
