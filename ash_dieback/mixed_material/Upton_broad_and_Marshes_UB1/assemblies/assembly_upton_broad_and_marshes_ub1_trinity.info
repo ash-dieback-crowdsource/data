@@ -1,0 +1,24 @@
+metadata definition file for assemblies generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,reads"
+optional: "scaffolds"
+
+program: "trinity"
+version: "Trinity-r2013-02-25"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "--seqType fq --left lane1_NoIndex_R1.fastq --right lane1_NoIndex_R2.fastq --output holt_country_park_trinity --JM 96G --CPU 50--bflyCPU 50" 
+
+
+##reads used in the assembly, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+reads: "ftp-oadb.tsl.ac.uk/public/mixed_material/Upton_broad_and_Marshes_UB1/reads/RNAseq/TSL_ID153_lane1/lane2_NoIndex_R1.fastq
+ftp-oadb.tsl.ac.uk/public/mixed_material/Upton_broad_and_Marshes_UB1/reads/RNAseq/TSL_ID153_lane2/lane2_NoIndex_R2.fastq"
+
+##information on any scaffold sequence used in the assembly that are not part of the reads. If possible, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+scaffolds: ""
