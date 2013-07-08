@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 227 - 1850" locus_tag="CHAFR746836_0038550.1" class="clusterblast-orf" points="296,35 301,30 325,30 325,40 301,40 296,35 " id="clusterblast-1_q49_3_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 2628 - 3596" locus_tag="CHAFR746836_0038560.1" class="clusterblast-orf" points="339,40 352,40 357,35 352,30 339,30 339,40 " id="clusterblast-1_q49_3_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5587 - 7498" locus_tag="CHAFR746836_0038570.1" class="clusterblast-orf" points="393,35 398,30 427,30 427,40 398,40 393,35 " id="clusterblast-1_q49_3_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 7719 - 10993" locus_tag="CHAFR746836_0038580.1" class="clusterblast-orf" points="431,40 486,40 491,35 486,30 431,30 431,40 " id="clusterblast-1_q49_3_3"  />
+</g>
+<g class="clusterblast-cluster" description="Cordyceps militaris CM01 unplaced genomic scaffold CCM S0000..." label="JH126400.1_c5"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+JH126400.1_c5</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Cordyceps militaris CM01 unplaced genomic scaffold CCM S0000...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="mitochondrial_DnaJ_chaperone_(Mdj1),_putative[br]Location: 3535657 - 3537372" locus_tag="CCM_03042" id="clusterblast-1_h49_3_0" points="10,90 36,90 41,85 36,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="DnaJ_domain_protein[br]Location: 3537894 - 3538720" locus_tag="CCM_03043" id="clusterblast-1_h49_3_1" points="50,85 55,80 65,80 65,90 55,90 50,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="amino_acid_transporter[br]Location: 3540223 - 3542151" locus_tag="CCM_03044" id="clusterblast-1_h49_3_2" points="92,90 122,90 127,85 122,80 92,80 92,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="formate_dehydrogenase[br]Location: 3542612 - 3544390" locus_tag="CCM_03045" id="clusterblast-1_h49_3_3" points="136,85 141,80 168,80 168,90 141,90 136,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="secretory_lipase,_putative[br]Location: 3548293 - 3549516" locus_tag="CCM_03046" id="clusterblast-1_h49_3_4" points="239,85 244,80 261,80 261,90 244,90 239,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Protein_kinase-like_domain[br]Location: 3550071 - 3551285" locus_tag="CCM_03047" id="clusterblast-1_h49_3_5" points="271,85 276,80 293,80 293,90 276,90 271,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Cytochrome_P450[br]Location: 3552203 - 3554216" locus_tag="CCM_03048" id="clusterblast-1_h49_3_6" points="309,85 314,80 346,80 346,90 314,90 309,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="gibberellin_3-beta_hydroxylase,_putative[br]Location: 3554571 - 3555730" locus_tag="CCM_03049" id="clusterblast-1_h49_3_7" points="352,85 357,80 373,80 373,90 357,90 352,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="aristolochene_synthase,_putative[br]Location: 3556961 - 3557703&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038560.1&lt;/b&gt;&lt;br&gt;Percentage identity: 52%&lt;br&gt;Percentage coverage: 74%&lt;br&gt;BLAST bit score: 240&lt;br&gt;E-value: 8e-77" locus_tag="CCM_03050" id="clusterblast-1_h49_3_8" points="396,85 401,80 409,80 409,90 401,90 396,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="NAD(P)-binding_domain[br]Location: 3558468 - 3559497&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038580.1&lt;/b&gt;&lt;br&gt;Percentage identity: 50%&lt;br&gt;Percentage coverage: 35%&lt;br&gt;BLAST bit score: 286&lt;br&gt;E-value: 4e-87" locus_tag="CCM_03051" id="clusterblast-1_h49_3_9" points="423,90 437,90 442,85 437,80 423,80 423,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="benzoate_4-monooxygenase_cytochrome_P450[br]Location: 3559748 - 3561895" locus_tag="CCM_03052" id="clusterblast-1_h49_3_10" points="446,85 451,80 485,80 485,90 451,90 446,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="transferase_family_protein[br]Location: 3571862 - 3573487" locus_tag="CCM_03053" id="clusterblast-1_h49_3_11" points="666,90 690,90 695,85 690,80 666,80 666,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450,_putative[br]Location: 3573734 - 3575577" locus_tag="CCM_03054" id="clusterblast-1_h49_3_12" points="700,85 705,80 733,80 733,90 705,90 700,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="O-acetylhomoserine/O-acetylserine_sulfhydrylase[br]Location: 3576055 - 3578020" locus_tag="CCM_03055" id="clusterblast-1_h49_3_13" points="742,90 773,90 778,85 773,80 742,80 742,90 " class="clusterblast-orf"  />
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5400 - 7279" locus_tag="CHAFR746836_0015100.1" class="clusterblast-orf" points="75,35 80,30 99,30 99,40 80,40 75,35 " id="clusterblast-1_q34_2_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 13745 - 15770" locus_tag="CHAFR746836_0015110.1" class="clusterblast-orf" points="181,40 202,40 207,35 202,30 181,30 181,40 " id="clusterblast-1_q34_2_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 17291 - 22939" locus_tag="CHAFR746836_0015120.1" class="clusterblast-orf" points="226,35 231,30 299,30 299,40 231,40 226,35 " id="clusterblast-1_q34_2_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 27044 - 51976" locus_tag="CHAFR746836_0015130.1" class="clusterblast-orf" points="351,40 665,40 670,35 665,30 351,30 351,40 " id="clusterblast-1_q34_2_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 53293 - 55207" locus_tag="CHAFR746836_0015140.1" class="clusterblast-orf" points="687,35 692,30 711,30 711,40 692,40 687,35 " id="clusterblast-1_q34_2_4"  />
+</g>
+<g class="clusterblast-cluster" description="Aspergillus niger ATCC 1015, whole genome shotgun sequen..." label="ACJE01000021.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+ACJE01000021.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Aspergillus niger ATCC 1015, whole genome shotgun sequen...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 555494 - 556036" locus_tag="ASPNIDRAFT_38502" id="clusterblast-1_h34_2_0" points="10,90 11,90 16,85 11,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 548799 - 552936" locus_tag="ASPNIDRAFT_47658" id="clusterblast-1_h34_2_1" points="49,90 97,90 102,85 97,80 49,80 49,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hypothetical_protein[br]Location: 542323 - 547678&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0015120.1&lt;/b&gt;&lt;br&gt;Percentage identity: 50%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 1434&lt;br&gt;E-value: 0.0" locus_tag="ASPNIDRAFT_52773" id="clusterblast-1_h34_2_2" points="116,85 121,80 185,80 185,90 121,90 116,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="non-ribosomal_peptide_synthetase[br]Location: 517116 - 536436&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0015130.1&lt;/b&gt;&lt;br&gt;Percentage identity: 39%&lt;br&gt;Percentage coverage: 49%&lt;br&gt;BLAST bit score: 2669&lt;br&gt;E-value: 0.0" locus_tag="ASPNIDRAFT_52774" id="clusterblast-1_h34_2_3" points="260,90 502,90 507,85 502,80 260,80 260,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 514316 - 516011" locus_tag="ASPNIDRAFT_122060" id="clusterblast-1_h34_2_4" points="521,85 526,80 543,80 543,90 526,90 521,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 510811 - 513267" locus_tag="ASPNIDRAFT_177222" id="clusterblast-1_h34_2_5" points="556,85 561,80 588,80 588,90 561,90 556,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 507208 - 508639" locus_tag="ASPNIDRAFT_208318" id="clusterblast-1_h34_2_6" points="615,85 620,80 634,80 634,90 620,90 615,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 505244 - 506408" locus_tag="ASPNIDRAFT_208321" id="clusterblast-1_h34_2_7" points="644,85 649,80 659,80 659,90 649,90 644,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 502591 - 504512" locus_tag="ASPNIDRAFT_208323" id="clusterblast-1_h34_2_8" points="668,85 673,80 693,80 693,90 673,90 668,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 499690 - 502282" locus_tag="ASPNIDRAFT_52779" id="clusterblast-1_h34_2_9" points="697,90 725,90 730,85 725,80 697,80 697,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 495947 - 498503" locus_tag="ASPNIDRAFT_47664" id="clusterblast-1_h34_2_10" points="745,85 750,80 778,80 778,90 750,90 745,85 " class="clusterblast-orf"  />
+</g>
+</svg>

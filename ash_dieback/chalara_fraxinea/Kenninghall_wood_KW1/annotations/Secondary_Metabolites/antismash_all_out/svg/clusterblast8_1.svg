@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7069 - 8172" locus_tag="CHAFR746836_0067810.1" class="clusterblast-orf" points="249,40 262,40 267,35 262,30 249,30 249,40 " id="clusterblast-1_q8_1_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 9727 - 13318" locus_tag="CHAFR746836_0067820.1" class="clusterblast-orf" points="293,35 298,30 354,30 354,40 298,40 293,35 " id="clusterblast-1_q8_1_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 14449 - 16282" locus_tag="CHAFR746836_0067830.1" class="clusterblast-orf" points="373,40 399,40 404,35 399,30 373,30 373,40 " id="clusterblast-1_q8_1_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 18109 - 19056" locus_tag="CHAFR746836_0067840.1" class="clusterblast-orf" points="435,35 440,30 451,30 451,40 440,40 435,35 " id="clusterblast-1_q8_1_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 20406 - 24215" locus_tag="CHAFR746836_0067850.1" class="clusterblast-orf" points="474,35 479,30 538,30 538,40 479,40 474,35 " id="clusterblast-1_q8_1_4"  />
+</g>
+<g class="clusterblast-cluster" description="Glomerella graminicola M1.001 genomic scaffold supercont1.26..." label="GG697356.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GG697356.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Glomerella graminicola M1.001 genomic scaffold supercont1.26...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 563664 - 566963" locus_tag="GLRG_06965" id="clusterblast-1_h8_1_0" points="10,85 15,80 65,80 65,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="methyltransferase_domain-containing_protein[br]Location: 560972 - 562184" locus_tag="GLRG_06964" id="clusterblast-1_h8_1_1" points="90,90 106,90 111,85 106,80 90,80 90,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="ARP2/3_complex_16_kDa_subunit[br]Location: 560014 - 560724" locus_tag="GLRG_06963" id="clusterblast-1_h8_1_2" points="115,85 120,80 127,80 127,90 120,90 115,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="V-type_ATPase[br]Location: 557508 - 559365" locus_tag="GLRG_06962" id="clusterblast-1_h8_1_3" points="138,85 143,80 169,80 169,90 143,90 138,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 555803 - 556979" locus_tag="GLRG_06961" id="clusterblast-1_h8_1_4" points="178,85 183,80 198,80 198,90 183,90 178,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 549979 - 551526" locus_tag="GLRG_06960" id="clusterblast-1_h8_1_5" points="270,90 291,90 296,85 291,80 270,80 270,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="YggS_family_pyridoxal_phosphate_enzyme[br]Location: 547391 - 548399" locus_tag="GLRG_06959" id="clusterblast-1_h8_1_6" points="323,85 328,80 340,80 340,90 328,90 323,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="L-aminoadipate-semialdehyde_dehydrogenase[br]Location: 542932 - 546821&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067820.1&lt;/b&gt;&lt;br&gt;Percentage identity: 71%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 1749&lt;br&gt;E-value: 0.0" locus_tag="GLRG_06958" id="clusterblast-1_h8_1_7" points="349,85 354,80 415,80 415,90 354,90 349,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hypothetical_protein[br]Location: 538798 - 540675&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067830.1&lt;/b&gt;&lt;br&gt;Percentage identity: 58%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 677&lt;br&gt;E-value: 0.0" locus_tag="GLRG_06957" id="clusterblast-1_h8_1_8" points="453,90 480,90 485,85 480,80 453,80 453,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="hypothetical_protein[br]Location: 536554 - 537530&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067840.1&lt;/b&gt;&lt;br&gt;Percentage identity: 53%&lt;br&gt;Percentage coverage: 104%&lt;br&gt;BLAST bit score: 286&lt;br&gt;E-value: 1e-94" locus_tag="GLRG_06956" id="clusterblast-1_h8_1_9" points="506,85 511,80 523,80 523,90 511,90 506,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 527694 - 530399" locus_tag="GLRG_06955" id="clusterblast-1_h8_1_10" points="627,90 667,90 672,85 667,80 627,80 627,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="ribosomal_protein_L24[br]Location: 525942 - 526519" locus_tag="GLRG_06954" id="clusterblast-1_h8_1_11" points="692,85 697,80 702,80 702,90 697,90 692,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_c_oxidase_assembly_protein[br]Location: 523552 - 524556" locus_tag="GLRG_06953" id="clusterblast-1_h8_1_12" points="725,85 730,80 742,80 742,90 730,90 725,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="amine_oxidase[br]Location: 521455 - 523149" locus_tag="GLRG_06952" id="clusterblast-1_h8_1_13" points="749,85 754,80 778,80 778,90 754,90 749,85 " class="clusterblast-orf"  />
+</g>
+</svg>

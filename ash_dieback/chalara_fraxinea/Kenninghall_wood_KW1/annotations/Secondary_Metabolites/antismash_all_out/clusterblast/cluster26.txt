@@ -1,0 +1,310 @@
+ClusterBlast scores for scaffold_1553.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0094200.1	121516	123190	+	unannotated orf	
+CHAFR746836_0094210.1	131375	131963	-	unannotated orf	
+CHAFR746836_0094220.1	132355	132981	-	unannotated orf	
+CHAFR746836_0094230.1	139202	140282	-	unannotated orf	
+CHAFR746836_0094240.1	142899	147562	-	unannotated orf	
+CHAFR746836_0094250.1	149403	151141	+	unannotated orf	
+CHAFR746836_0094260.1	153173	156458	-	unannotated orf	
+CHAFR746836_0094270.1	158921	161095	+	unannotated orf	
+CHAFR746836_0094280.1	163204	166182	-	unannotated orf	
+CHAFR746836_0094290.1	167736	168967	+	unannotated orf	
+CHAFR746836_0094300.1	169074	170389	-	unannotated orf	
+CHAFR746836_0094310.1	171033	171342	-	unannotated orf	
+CHAFR746836_0094320.1	175775	177555	-	unannotated orf	
+CHAFR746836_0094330.1	180145	180857	+	unannotated orf	
+CHAFR746836_0094340.1	181484	185078	+	unannotated orf	
+
+
+Significant hits: 
+1. DQ351275.1_c1	Streptomyces sp. NRRL 30748 meridamycin biosynthetic gene cluster and flanking regions.
+2. EQ999982.1_c2	Ajellomyces dermatitidis ER-3 genomic scaffold supercont1.10, whole genome shotgun sequence.
+3. GG749542.1_c1	Ajellomyces dermatitidis ATCC 18188 genomic scaffold supercont1.136, whole genome shotgun sequence.
+4. FQ790272.1_c1	Botryotinia fuckeliana isolate T4 SuperContig_48_1 genomic supercontig, whole genome.
+5. NC_005125.1_c4	Gloeobacter violaceus PCC 7421, complete genome.
+6. NC_012669.1_c1	Beutenbergia cavernae DSM 12333, complete genome.
+
+
+Details:
+
+>>
+1. DQ351275.1_c1
+Source: Streptomyces sp. NRRL 30748 meridamycin biosynthetic gene cluster and flanking regions.
+Type: nrps-t1pks
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 121
+
+Table of genes, locations, strands and annotations of subject cluster:
+ABC87494.1	ABC87494.1	1240	2805	-	purine_synthase
+ABC87495.1	ABC87495.1	2802	3458	-	purine_synthase
+ABC87496.1	ABC87496.1	3860	4702	+	ion_transport_protein
+ABC87497.1	ABC87497.1	4765	6618	-	membrane_protein
+ABC87498.1	ABC87498.1	6853	7737	-	succinyl-CoA_synthetase_alpha_chain
+ABC87499.1	ABC87499.1	7759	8877	-	succinyl-CoA_synthetase_beta_chain
+ABC87500.1	ABC87500.1	9295	10935	+	beta-1,4-endo_glucanase
+ABC87501.1	ABC87501.1	11012	12352	-	argininosuccinate_synthase
+ABC87502.1	ABC87502.1	12652	14784	-	mycodextranase
+ABC87503.1	ABC87503.1	14894	16492	-	alpha-1,_4-glucosidase
+ABC87504.1	ABC87504.1	16523	17398	-	sugar_transporter_intracellular_portion
+ABC87505.1	ABC87505.1	17395	18417	-	sugar_transporter_intracellular_portion
+ABC87506.1	ABC87506.1	18356	19786	-	sugar_transporter_extracellular_portion
+ABC87507.1	ABC87507.1	19917	20915	-	LacI_family_transcription_regulator
+ABC87508.1	ABC87508.1	21568	26286	+	NRPS_for_pipecolate_incorporation
+ABC87509.1	ABC87509.1	26259	43397	+	polyketide_synthase
+ABC87510.1	ABC87510.1	43455	64763	+	polyketide_synthase
+ABC87511.1	ABC87511.1	64760	88666	+	polyketide_synthase
+ABC87512.1	ABC87512.1	88050	98327	+	polyketide_synthase
+ABC87513.1	ABC87513.1	98368	99561	+	cytochrome_P450_monooxygenase
+ABC87514.1	ABC87514.1	99711	100367	-	unknown
+ABC87515.1	ABC87515.1	100253	100789	-	unknown
+ABC87516.1	ABC87516.1	101189	102673	-	drug_efflux_transporter
+ABC87517.1	ABC87517.1	102792	103271	-	drug_resistance_related_regulator
+ABC87518.1	ABC87518.1	103353	104297	-	regulatory_protein
+ABC87519.1	ABC87519.1	104252	105247	+	membrane_protein
+ABC87520.1	ABC87520.1	105357	106181	-	unknown
+ABC87521.1	ABC87521.1	106294	107343	-	unknown
+ABC87522.1	ABC87522.1	107413	107820	-	resistance_related_regulator
+ABC87523.1	ABC87523.1	107905	109398	-	putative_drug_efflux_transporter
+ABC87524.1	ABC87524.1	109395	110036	-	drug_resistance_related_regulator
+ABC87525.1	ABC87525.1	110126	111172	-	LysR_family_regulator
+ABC87526.1	ABC87526.1	111037	111693	+	unknown
+ABC87527.1	ABC87527.1	111822	113201	+	FAD-dependent_monooxygenase
+ABC87528.1	ABC87528.1	113251	113658	-	unknown
+ABC87529.1	ABC87529.1	113891	116341	-	unknown
+ABC87530.1	ABC87530.1	116429	116831	+	methyl_transferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0094290.1	ABC87509.1	32	56	37.5335120643	3e-07	
+CHAFR746836_0094300.1	ABC87510.1	32	65	64.2424242424	2e-10	
+
+
+
+>>
+2. EQ999982.1_c2
+Source: Ajellomyces dermatitidis ER-3 genomic scaffold supercont1.10, whole genome shotgun sequence.
+Type: lant
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1866
+
+Table of genes, locations, strands and annotations of subject cluster:
+BDCG_08268	EEQ84999.1	2834610	2836379	+	acyl_CoA_binding_protein
+BDCG_08269	EEQ85000.1	2838034	2839586	-	conserved_hypothetical_protein
+BDCG_08270	EEQ85001.1	2840579	2842033	+	conserved_hypothetical_protein
+BDCG_08271	EEQ85002.1	2842413	2843175	-	NADH-ubiquinone_oxidoreductase_19_kDa_subunit
+BDCG_08272	EEQ85003.1	2843974	2846425	+	conserved_hypothetical_protein
+BDCG_08273	EEQ85004.1	2847102	2848020	-	prefoldin_subunit_5
+BDCG_08274	EEQ85005.1	2848338	2850181	-	prolyl-tRNA_synthetase
+BDCG_08275	EEQ85006.1	2850883	2854427	+	CCAAT-box-binding_transcription_factor
+BDCG_08276	EEQ85007.1	2854786	2856587	-	lanthionine_synthetase_C_family_protein
+BDCG_08277	EEQ85008.1	2857386	2858273	+	predicted_protein
+BDCG_08278	EEQ85009.1	2858813	2859264	-	predicted_protein
+BDCG_08279	EEQ85010.1	2859807	2860688	+	conserved_hypothetical_protein
+BDCG_08280	EEQ85011.1	2862224	2864033	-	RNA_export_mediator_Gle1
+BDCG_08281	EEQ85012.1	2864364	2865890	-	predicted_protein
+BDCG_08282	EEQ85013.1	2868273	2872842	+	cell_wall_biogenesis_protein_phosphatase_Ssd1
+BDCG_08283	EEQ85014.1	2874373	2876303	-	ubiquitin_conjugating_enzyme_E2
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0094240.1	BDCG_08282	66	1633	101.721664275	0.0	
+CHAFR746836_0094250.1	BDCG_08280	40	233	57.6512455516	2e-67	
+
+
+
+>>
+3. GG749542.1_c1
+Source: Ajellomyces dermatitidis ATCC 18188 genomic scaffold supercont1.136, whole genome shotgun sequence.
+Type: lant
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1864
+
+Table of genes, locations, strands and annotations of subject cluster:
+BDDG_09329	EGE86384.1	19975	21911	+	ubiquitin_carrier_protein
+BDDG_09330	EGE86385.1	23406	27978	-	cell_wall_biogenesis_protein_phosphatase_Ssd1
+BDDG_09331	EGE86386.1	28147	29094	+	hypothetical_protein
+BDDG_09332	EGE86387.1	30328	31855	+	hypothetical_protein
+BDDG_09333	EGE86388.1	32186	33995	+	RNA_export_mediator_Gle1
+BDDG_09334	EGE86389.1	35526	36404	-	hypothetical_protein
+BDDG_09335	EGE86390.1	36946	37397	+	hypothetical_protein
+BDDG_09336	EGE86391.1	38202	38825	-	hypothetical_protein
+BDDG_09337	EGE86392.1	39553	41338	+	lanthionine_synthetase_C_family_protein
+BDDG_09338	EGE86393.1	41696	45238	-	CCAAT-box-binding_transcription_factor
+BDDG_09339	EGE86394.1	45600	47782	+	prolyl-tRNA_synthetase
+BDDG_09340	EGE86395.1	48100	49018	+	prefoldin_subunit_5
+BDDG_09341	EGE86396.1	49695	52145	-	hypothetical_protein
+BDDG_09342	EGE86397.1	54471	55233	+	NADH-ubiquinone_oxidoreductase_20.8_kDa_subunit
+BDDG_09343	EGE86398.1	55613	57058	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0094240.1	BDDG_09330	65	1631	102.941176471	0.0	
+CHAFR746836_0094250.1	BDDG_09333	40	233	57.6512455516	2e-67	
+
+
+
+>>
+4. FQ790272.1_c1
+Source: Botryotinia fuckeliana isolate T4 SuperContig_48_1 genomic supercontig, whole genome.
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 567
+
+Table of genes, locations, strands and annotations of subject cluster:
+CCD44942.1	CCD44942.1	356991	358694	+	similar_to_flavin-containing_monooxygenase
+CCD44943.1	CCD44943.1	358926	360896	-	similar_to_Glucose-methanol-choline
+CCD44944.1	CCD44944.1	361032	362352	+	similar_to_short-chain_dehydrogenase/reductase
+CCD44945.1	CCD44945.1	362684	367868	-	similar_to_ABC_transporter
+CCD44946.1	CCD44946.1	368704	371235	+	similar_to_protease_S8_tripeptidyl_peptidase_I
+CCD44947.1	CCD44947.1	371683	373692	-	similar_to_serine_carboxypeptidase_(CpdS)
+CCD44948.1	CCD44948.1	374394	375721	+	similar_to_oxidoreductase_family_protein
+CCD44949.1	CCD44949.1	377152	377337	+	predicted_protein
+CCD44950.1	CCD44950.1	377997	386280	-	BcPKS17,_polyketide_synthase
+CCD44951.1	CCD44951.1	386831	387646	-	similar_to_oxydoreductase
+CCD44952.1	CCD44952.1	389245	390246	+	similar_to_oxidoreductase
+CCD44953.1	CCD44953.1	390488	391829	-	similar_to_fungal_specific_transcription_factor
+CCD44954.1	CCD44954.1	391878	392570	-	similar_to_transcription_factor_Cys6
+CCD44955.1	CCD44955.1	394560	395508	-	hypothetical_secreted_protein
+CCD44956.1	CCD44956.1	395782	396106	+	predicted_protein
+CCD44957.1	CCD44957.1	396765	397577	+	hypothetical_protein
+CCD44958.1	CCD44958.1	399476	400272	-	hypothetical_protein
+CCD44959.1	CCD44959.1	401679	403310	+	hypothetical_secreted_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0094200.1	CCD44950.1	32	314	104.488330341	2e-91	
+CHAFR746836_0094260.1	CCD44943.1	32	253	70.0529100529	2e-71	
+
+
+
+>>
+5. NC_005125.1_c4
+Source: Gloeobacter violaceus PCC 7421, complete genome.
+Type: t1pks-t4pks-t2pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 330
+
+Table of genes, locations, strands and annotations of subject cluster:
+gvip388	NP_925758.1	2990743	2992755	+	elongation_factor_G
+glr2813	NP_925759.1	2992921	2993472	+	protease
+glr2814	NP_925760.1	2993959	2994378	+	hypothetical_protein
+gsr2815	NP_925761.1	2994671	2994913	+	hypothetical_protein
+glr2816	NP_925762.1	2995015	2995695	+	O-methyltransferase
+glr2817	NP_925763.1	2996055	2996612	+	hydroxylase
+gll2818	NP_925764.1	2996646	2997146	-	gluconokinase
+gll2819	NP_925765.1	2997200	2997745	-	hypothetical_protein
+glr2820	NP_925766.1	2997833	2998837	+	UDP-glucose_4-epimerase
+glr2821	NP_925767.1	2999221	3002802	+	WD_repeat-containing_protein
+gll2822	NP_925768.1	3002869	3004458	-	hypothetical_protein
+gll2823	NP_925769.1	3004501	3005502	-	hypothetical_protein
+gll2824	NP_925770.1	3005543	3007081	-	cholesterol_oxidase
+gll2825	NP_925771.1	3007113	3008102	-	quinone_oxidoreductase
+gll2826	NP_925772.1	3008150	3009055	-	hypothetical_protein
+gll2827	NP_925773.1	3009060	3010334	-	hypothetical_protein
+gll2828	NP_925774.1	3010360	3011031	-	hypothetical_protein
+gll2829	NP_925775.1	3011066	3014665	-	polyketide_synthase
+gll2830	NP_925776.1	3014653	3014979	-	polyketide_synthase
+gll2831	NP_925777.1	3014976	3016643	-	hypothetical_protein
+gll2832	NP_925778.1	3016690	3019299	-	hypothetical_protein
+gll2833	NP_925779.1	3019311	3020066	-	oxidoreductase
+gll2834	NP_925780.1	3020114	3020998	-	alpha-acetolactate_decarboxylase
+gll2835	NP_925781.1	3021141	3021965	-	decarboxylase
+gll2836	NP_925782.1	3022041	3023033	-	alcohol_dehydrogenase
+gsl2837	NP_925783.1	3023073	3023309	-	hypothetical_protein
+gll2838	NP_925784.1	3023392	3024141	-	short_chain_dehydrogenase
+gll2839	NP_925785.1	3024193	3027372	-	RND_multidrug_efflux_transporter
+gll2840	NP_925786.1	3027409	3028641	-	hypothetical_protein
+gll2841	NP_925787.1	3028663	3029646	-	oxidoreductase
+glr2842	NP_925788.1	3030417	3030845	+	hypothetical_protein
+gsr2843	NP_925789.1	3030846	3031037	+	hypothetical_protein
+glr2844	NP_925790.1	3031051	3032046	+	pyruvate_dehydrogenase_E1_alpha-subunit
+glr2845	NP_925791.1	3032099	3032455	+	aspartate_alpha-decarboxylase
+glr2846	NP_925792.1	3032535	3033518	+	pyruvate_dehydrogenase_E1_beta-subunit
+gsr2847	NP_925793.1	3033519	3033779	+	hypothetical_protein
+glr2848	NP_925794.1	3033832	3037839	+	glycolipid_synthase
+glr2849	NP_925795.1	3037935	3040349	+	hypothetical_protein
+glr2850	NP_925796.1	3040687	3041460	+	thioesterase
+glr2851	NP_925797.1	3041447	3042253	+	hypothetical_protein
+gll2852	NP_925798.1	3042296	3043468	-	beta-ketoacyl_synthase
+gll2853	NP_925799.1	3043489	3044889	-	beta-ketoacyl_synthase
+gsl2854	NP_925800.1	3044938	3045201	-	acyl_carrier_protein
+gll2855	NP_925801.1	3045309	3045779	-	MarR_family_transcriptional_regulator
+gll2856	NP_925802.1	3045772	3046677	-	LysR_family_transcriptional_regulator
+gsl2857	NP_925803.1	3047009	3047305	-	hypothetical_protein
+gll2858	NP_925804.1	3047343	3048149	-	oxidoreductase
+glr2859	NP_925805.1	3048442	3049443	+	oxidoreductase
+gll2860	NP_925806.1	3049469	3050434	-	LysR_family_transcriptional_regulator
+gll2861	NP_925807.1	3050703	3051389	-	hypothetical_protein
+glr2862	NP_925808.1	3051586	3054594	+	hypothetical_protein
+glr2863	NP_925809.1	3054669	3055064	+	hypothetical_protein
+gvip389	NP_925810.1	3055116	3056096	-	acetyl-CoA_carboxylase_carboxyltransferase
+glr2865	NP_925811.1	3056204	3057385	+	glycosyltransferase
+gvip390	NP_925812.1	3057506	3058357	-	delta_9_acyl-lipid_desaturase
+gll2867	NP_925813.1	3058545	3059708	-	hypothetical_protein
+gll2868	NP_925814.1	3061025	3062791	-	HlyB/MsbA_family_ABC_transporter
+gll2869	NP_925815.1	3062802	3063701	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0094290.1	glr2820	38	206	92.2252010724	3e-61	
+CHAFR746836_0094300.1	gll2825	31	124	101.212121212	4e-31	
+
+
+
+>>
+6. NC_012669.1_c1
+Source: Beutenbergia cavernae DSM 12333, complete genome.
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 323
+
+Table of genes, locations, strands and annotations of subject cluster:
+Bcav_3470	YP_002883474.1	3865670	3866404	-	hypothetical_protein
+Bcav_3471	YP_002883475.1	3866391	3866939	-	RNA_polymerase,_sigma-24_subunit,_ECF_subfamily
+Bcav_3472	YP_002883476.1	3866981	3867451	-	peptidase_C60_sortase_A_and_B
+Bcav_3473	YP_002883477.1	3867670	3868491	-	lipoprotein
+Bcav_3474	YP_002883478.1	3868680	3869324	+	beta-Ig-H3/fasciclin
+Bcav_3475	YP_002883479.1	3869445	3869780	+	acetyltransferase
+Bcav_3476	YP_002883480.1	3869785	3870744	+	Pirin_domain_protein
+Bcav_3477	YP_002883481.1	3870880	3871149	+	hypothetical_protein
+Bcav_3478	YP_002883482.1	3871180	3872067	-	protein_of_unknown_function_DUF6_transmembrane
+Bcav_3479	YP_002883483.1	3872064	3872993	-	Auxin_Efflux_Carrier
+Bcav_3480	YP_002883484.1	3873053	3873883	-	Endonuclease/exonuclease/phosphatase
+Bcav_3481	YP_002883485.1	3873880	3874281	-	methionine-R-sulfoxide_reductase
+Bcav_3482	YP_002883486.1	3874420	3875811	+	protein_of_unknown_function_DUF1212
+Bcav_3483	YP_002883487.1	3875849	3876805	+	D-isomer_specific_2-hydroxyacid_dehydrogenase
+Bcav_3484	YP_002883488.1	3876964	3878232	-	hypothetical_protein
+Bcav_3485	YP_002883489.1	3878577	3880487	-	DEAD/DEAH_box_helicase_domain_protein
+Bcav_3486	YP_002883490.1	3880725	3881186	-	hypothetical_protein
+Bcav_3487	YP_002883491.1	3881196	3882692	-	NmrA_family_protein
+Bcav_3488	YP_002883492.1	3882742	3883644	-	UbiA_prenyltransferase
+Bcav_3489	YP_002883493.1	3883641	3884036	-	lycopene_cyclase_domain_protein
+Bcav_3490	YP_002883494.1	3884033	3884377	-	lycopene_cyclase_domain_protein
+Bcav_3491	YP_002883495.1	3884374	3886029	-	phytoene_desaturase
+Bcav_3492	YP_002883496.1	3886073	3886984	-	Squalene/phytoene_synthase
+Bcav_3493	YP_002883497.1	3887017	3888018	+	PfkB_domain_protein
+Bcav_3494	YP_002883498.1	3888018	3888854	+	Survival_protein_SurE
+Bcav_3495	YP_002883499.1	3889051	3890019	+	UDP-glucose_4-epimerase
+Bcav_3496	YP_002883500.1	3890155	3891057	-	cation_diffusion_facilitator_family_transporter
+Bcav_3497	YP_002883501.1	3891057	3891422	-	transcriptional_regulator,_ArsR_family
+Bcav_3498	YP_002883502.1	3891568	3893250	+	extracellular_solute-binding_protein_family_5
+Bcav_3499	YP_002883503.1	3893247	3894317	+	binding-protein-dependent_transport_systems
+Bcav_3500	YP_002883504.1	3894314	3895171	+	binding-protein-dependent_transport_systems
+Bcav_3501	YP_002883505.1	3895168	3896817	+	ABC_transporter_related
+Bcav_3502	YP_002883506.1	3896928	3897716	+	sortase_family_protein
+Bcav_3503	YP_002883507.1	3897814	3898500	+	twin-arginine_translocation_pathway_signal
+Bcav_3504	YP_002883508.1	3898510	3899121	+	twin-arginine_translocation_pathway_signal
+Bcav_3505	YP_002883509.1	3899186	3899551	-	protein_of_unknown_function_DUF1025
+Bcav_3506	YP_002883510.1	3899682	3900761	-	protein_of_unknown_function_DUF1006
+Bcav_3507	YP_002883511.1	3901012	3901488	+	transcriptional_regulator,_MerR_family
+Bcav_3508	YP_002883512.1	3901485	3902516	+	aldo/keto_reductase
+Bcav_3509	YP_002883513.1	3902930	3903454	-	GCN5-related_protein_N-acetyltransferase
+Bcav_3510	YP_002883514.1	3903562	3904317	+	short-chain_dehydrogenase/reductase_SDR
+Bcav_3511	YP_002883515.1	3904321	3905280	-	5'-3'_exonuclease
+Bcav_3512	YP_002883516.1	3905377	3905775	+	protein_of_unknown_function_DUF1469
+Bcav_3513	YP_002883517.1	3905772	3906080	+	hypothetical_protein
+Bcav_3514	YP_002883518.1	3906237	3906425	+	hypothetical_protein
+Bcav_3515	YP_002883519.1	3906529	3907641	-	phosphoribosylformylglycinamidine_cyclo-ligase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0094230.1	Bcav_3504	42	95	52.4844720497	9e-22	
+CHAFR746836_0094230.1	Bcav_3503	34	77	50.9316770186	1e-15	
+CHAFR746836_0094290.1	Bcav_3495	32	151	91.6890080429	8e-41	
+

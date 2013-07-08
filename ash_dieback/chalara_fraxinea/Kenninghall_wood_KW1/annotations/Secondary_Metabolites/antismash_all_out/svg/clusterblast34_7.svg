@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5400 - 7279" locus_tag="CHAFR746836_0015100.1" class="clusterblast-orf" points="10,35 15,30 38,30 38,40 15,40 10,35 " id="clusterblast-1_q34_7_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 13745 - 15770" locus_tag="CHAFR746836_0015110.1" class="clusterblast-orf" points="138,40 164,40 169,35 164,30 138,30 138,40 " id="clusterblast-1_q34_7_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 17291 - 22939" locus_tag="CHAFR746836_0015120.1" class="clusterblast-orf" points="193,35 198,30 280,30 280,40 198,40 193,35 " id="clusterblast-1_q34_7_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 27044 - 51976" locus_tag="CHAFR746836_0015130.1" class="clusterblast-orf" points="343,40 723,40 728,35 723,30 343,30 343,40 " id="clusterblast-1_q34_7_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 53293 - 55207" locus_tag="CHAFR746836_0015140.1" class="clusterblast-orf" points="748,35 753,30 778,30 778,40 753,40 748,35 " id="clusterblast-1_q34_7_4"  />
+</g>
+<g class="clusterblast-cluster" description="Glarea lozoyensis 74030 Seq110, whole genome shotgun seq..." label="AGUE01000110.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+AGUE01000110.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Glarea lozoyensis 74030 Seq110, whole genome shotgun seq...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="putative_Metal_resistance_protein_YCF1[br]Location: 315642 - 319329&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0015120.1&lt;/b&gt;&lt;br&gt;Percentage identity: 54%&lt;br&gt;Percentage coverage: 39%&lt;br&gt;BLAST bit score: 672&lt;br&gt;E-value: 0.0" locus_tag="M7I_4533" id="clusterblast-1_h34_7_0" points="103,85 108,80 159,80 159,90 108,90 103,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="putative_HC-toxin_synthetase[br]Location: 334869 - 345330&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0015130.1&lt;/b&gt;&lt;br&gt;Percentage identity: 45%&lt;br&gt;Percentage coverage: 23%&lt;br&gt;BLAST bit score: 1590&lt;br&gt;E-value: 0.0" locus_tag="M7I_4535" id="clusterblast-1_h34_7_1" points="399,90 555,90 560,85 555,80 399,80 399,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Allantoate_permease[br]Location: 346785 - 348687" locus_tag="M7I_4536" id="clusterblast-1_h34_7_2" points="583,85 588,80 612,80 612,90 588,90 583,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_N-acetylated-alpha-linked_acidic[br]Location: 352848 - 353313" locus_tag="M7I_4537" id="clusterblast-1_h34_7_3" points="676,90 678,90 683,85 678,80 676,80 676,90 " class="clusterblast-orf"  />
+</g>
+</svg>

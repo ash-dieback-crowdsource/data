@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5189 - 6389" locus_tag="CHAFR746836_0080190.1" class="clusterblast-orf" points="274,35 279,30 294,30 294,40 279,40 274,35 " id="clusterblast-1_q11_5_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7072 - 8707" locus_tag="CHAFR746836_0080200.1" class="clusterblast-orf" points="306,35 311,30 334,30 334,40 311,40 306,35 " id="clusterblast-1_q11_5_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 9665 - 11576" locus_tag="CHAFR746836_0080210.1" class="clusterblast-orf" points="350,35 355,30 383,30 383,40 355,40 350,35 " id="clusterblast-1_q11_5_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 12176 - 14455" locus_tag="CHAFR746836_0080220.1" class="clusterblast-orf" points="393,40 428,40 433,35 428,30 393,30 393,40 " id="clusterblast-1_q11_5_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 16174 - 17543" locus_tag="CHAFR746836_0080230.1" class="clusterblast-orf" points="462,40 481,40 486,35 481,30 462,30 462,40 " id="clusterblast-1_q11_5_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 17828 - 19091" locus_tag="CHAFR746836_0080240.1" class="clusterblast-orf" points="490,35 495,30 512,30 512,40 495,40 490,35 " id="clusterblast-1_q11_5_5"  />
+</g>
+<g class="clusterblast-cluster" description="Cordyceps militaris CM01 unplaced genomic scaffold CCM S0000..." label="JH126399.1_c7"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+JH126399.1_c7</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Cordyceps militaris CM01 unplaced genomic scaffold CCM S0000...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="homeoprotein[br]Location: 6193555 - 6195548" locus_tag="CCM_01917" id="clusterblast-1_h11_5_0" points="10,90 39,90 44,85 39,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="haloacid_dehalogenase-like_hydrolase,_putative[br]Location: 6197165 - 6201793" locus_tag="CCM_01918" id="clusterblast-1_h11_5_1" points="71,90 146,90 151,85 146,80 71,80 71,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="CFEM_domain-containing_protein[br]Location: 6203352 - 6204618" locus_tag="CCM_01919" id="clusterblast-1_h11_5_2" points="178,90 194,90 199,85 194,80 178,80 178,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="ATP-dependent_bile_acid_permease[br]Location: 6204942 - 6210764" locus_tag="CCM_01920" id="clusterblast-1_h11_5_3" points="205,85 210,80 305,80 305,90 210,90 205,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="polyketide_synthase,_putative[br]Location: 6211521 - 6218454" locus_tag="CCM_01921" id="clusterblast-1_h11_5_4" points="318,85 323,80 437,80 437,90 323,90 318,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Fungal_transcriptional_regulatory_protein[br]Location: 6219787 - 6220898" locus_tag="CCM_01922" id="clusterblast-1_h11_5_5" points="460,85 465,80 479,80 479,90 465,90 460,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hydroxyindole_O-methyltransferase,_putative[br]Location: 6222197 - 6223525&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0080240.1&lt;/b&gt;&lt;br&gt;Percentage identity: 31%&lt;br&gt;Percentage coverage: 55%&lt;br&gt;BLAST bit score: 84&lt;br&gt;E-value: 1e-16" locus_tag="CCM_01923" id="clusterblast-1_h11_5_6" points="501,85 506,80 524,80 524,90 506,90 501,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="conidial_pigment_biosynthesis_oxidase[br]Location: 6224000 - 6226174" locus_tag="CCM_01924" id="clusterblast-1_h11_5_7" points="532,90 564,90 569,85 564,80 532,80 532,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="carboxylesterase_family_protein[br]Location: 6227178 - 6228996" locus_tag="CCM_01925" id="clusterblast-1_h11_5_8" points="587,90 613,90 618,85 613,80 587,80 587,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="short_chain_dehydrogenase/reductase[br]Location: 6230579 - 6231627" locus_tag="CCM_01926" id="clusterblast-1_h11_5_9" points="645,85 650,80 663,80 663,90 650,90 645,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="MFS_transporter,_putative[br]Location: 6232248 - 6234158&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0080200.1&lt;/b&gt;&lt;br&gt;Percentage identity: 31%&lt;br&gt;Percentage coverage: 70%&lt;br&gt;BLAST bit score: 178&lt;br&gt;E-value: 4e-47" locus_tag="CCM_01927" id="clusterblast-1_h11_5_10" points="674,90 702,90 707,85 702,80 674,80 674,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 6236515 - 6238290" locus_tag="CCM_01928" id="clusterblast-1_h11_5_11" points="747,85 752,80 778,80 778,90 752,90 747,85 " class="clusterblast-orf"  />
+</g>
+</svg>

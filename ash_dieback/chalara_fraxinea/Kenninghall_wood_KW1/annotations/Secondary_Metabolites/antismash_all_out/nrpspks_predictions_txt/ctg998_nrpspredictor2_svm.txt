@@ -1,0 +1,2 @@
+#sequence-id<tab>8A-signature<tab>stachelhaus-code<tab>3class-pred<tab>large-class-pred<tab>small-class-pred<tab>single-class-pred<tab>nearest stachelhaus code<tab>NRPS1pred-large-class-pred<tab>NRPS2pred-large-class-pred<tab>outside applicability domain?<tab>coords<tab>pfam-score
+CHAFR746836_0027800.1_A1	SALTLDFCISECSLLLAGELHMYGPTECTVGCCF	DFSSLAMVGK	hydrophobic-aliphatic	N/A	N/A	tyr	val	N/A	N/A	1	0:0	0.000000e+00

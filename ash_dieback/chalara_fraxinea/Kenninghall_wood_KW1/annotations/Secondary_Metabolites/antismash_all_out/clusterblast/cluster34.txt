@@ -1,0 +1,1487 @@
+ClusterBlast scores for scaffold_497.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0015100.1	5400	7279	-	unannotated orf	
+CHAFR746836_0015110.1	13745	15770	+	unannotated orf	
+CHAFR746836_0015120.1	17291	22939	-	unannotated orf	
+CHAFR746836_0015130.1	27044	51976	+	unannotated orf	
+CHAFR746836_0015140.1	53293	55207	-	unannotated orf	
+
+
+Significant hits: 
+1. DS499594.1_c3	Aspergillus fumigatus A1163 scf_000001 genomic scaffold, whole genome shotgun sequence.
+2. ACJE01000021.1_c1	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+3. DF126468.1_c1	Aspergillus kawachii IFO 4308 DNA, contig: scaffold00022, whole genome shotgun sequence.
+4. GL698712.1_c2	Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_002, whole genome shotgun sequence.
+5. GL698485.1_c1	Metarhizium acridum CQMa 102 unplaced genomic scaffold Scf_016, whole genome shotgun sequence.
+6. AP007174.1_c3	Aspergillus oryzae RIB40 DNA, SC103.
+7. AGUE01000110.1_c1	Glarea lozoyensis 74030 Seq110, whole genome shotgun sequence.
+8. DF126472.1_c3	Aspergillus kawachii IFO 4308 DNA, contig: scaffold00026, whole genome shotgun sequence.
+9. AM270193.1_c2	Aspergillus niger contig An09c0040, genomic contig.
+10. ACJE01000014.1_c1	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+11. ACJE01000001.1_c3	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+12. CACQ02005057.1_c1	Colletotrichum higginsianum IMI 349063 WGS project CACQ00000000 data, contig cont1.533, whole genome shotgun sequence.
+13. GL698783.1_c1	Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_073, whole genome shotgun sequence.
+14. ABDF02000075.1_c1	Trichoderma virens Gv29-8 TRIVIscaffold_75, whole genome shotgun sequence.
+15. AGUE01000179.1_c1	Glarea lozoyensis 74030 Seq179, whole genome shotgun sequence.
+16. HM622670.1_c1	Aspergillus sp. MF297-2 notoamide biosynthetic gene locus, partial sequence.
+17. ACJE01000015.1_c10	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+18. DS995763.1_c1	Trichophyton equinum CBS 127.97 supercont1.46 genomic scaffold, whole genome shotgun sequence.
+19. GG698489.1_c1	Trichophyton tonsurans CBS 112818 genomic scaffold supercont1.13, whole genome shotgun sequence.
+20. FP929139.1_c6	Leptosphaeria maculans v23.1.3 lm_SuperContig_0_v2 genomic supercontig, whole genome.
+21. GL636512.1_c1	Coccidioides posadasii str. Silveira unplaced genomic scaffold supercont2.27, whole genome shotgun sequence.
+22. AP007169.1_c4	Aspergillus oryzae RIB40 DNA, SC038.
+23. GL698757.1_c1	Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_047, whole genome shotgun sequence.
+24. GL698753.1_c1	Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_043, whole genome shotgun sequence.
+25. AM270164.1_c1	Aspergillus niger contig An08c0090, genomic contig.
+26. GL698498.1_c1	Metarhizium acridum CQMa 102 unplaced genomic scaffold Scf_029, whole genome shotgun sequence.
+27. ABDF02000064.1_c1	Trichoderma virens Gv29-8 TRIVIscaffold_64, whole genome shotgun sequence.
+28. ACJE01000005.1_c2	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+29. DF126466.1_c2	Aspergillus kawachii IFO 4308 DNA, contig: scaffold00020, whole genome shotgun sequence.
+30. AM270104.1_c1	Aspergillus niger contig An05c0040, genomic contig.
+31. DS499599.1_c3	Aspergillus fumigatus A1163 scf_000006 genomic scaffold, whole genome shotgun sequence.
+32. JH126400.1_c6	Cordyceps militaris CM01 unplaced genomic scaffold CCM_S00002, whole genome shotgun sequence.
+33. GG698483.1_c2	Trichophyton tonsurans CBS 112818 genomic scaffold supercont1.7, whole genome shotgun sequence.
+34. DS499597.1_c2	Aspergillus fumigatus A1163 scf_000004 genomic scaffold, whole genome shotgun sequence.
+35. HQ591508.1_c1	Penicillium aethiopicum strain IBT 5753 hypothetical protein genes, complete cds; tryptoquialanine biosynthetic gene cluster, complete sequence; and hypothetical protein, putative RTA1-like transmembrane protein, putative Zn2Cys6 transcription factor, and hypothetical proteins genes, complete cds.
+36. DS995723.1_c2	Trichophyton equinum CBS 127.97 supercont1.6 genomic scaffold, whole genome shotgun sequence.
+37. ABDG02000023.1_c4	Trichoderma atroviride IMI 206040 TRIATcontig_23, whole genome shotgun sequence.
+38. DQ019316.1_c1	Gibberella zeae aldehyde dehydrogenase (ALD), heterokaryon incompatibility protein (HET), non-ribosomal peptide synthetase (NPS), monocarboxylate transporter like-protein (MCT), and K+ channel protein (KAT) genes, complete cds; PKS gene cluster, complete sequence; and polyketide synthase (PKS13), bZIP domain-containing transcription factor (ZEB2), protein kinase Eg2-like protein (STK), and Ca2+ ATPase (ACA) genes, complete cds.
+39. ABDF02000001.1_c1	Trichoderma virens Gv29-8 TRIVIscaffold_1, whole genome shotgun sequence.
+40. JN182229.1_c1	Periglandula ipomoeae strain lasaF13 lysergyl peptide synthetase subunit 1 LPS1 (lpsA), putative oxygenase (easH), putative FAD-containing monooxygenase (easO), dimethylallyl tryptophan synthase (dmaW), agroclavine dehydrogenase (easG), dimethylallyltryptophan N-methyltransferase (easF), chanoclavine-I synthase oxidoreductase protein (easE), chanoclavine-I dehydrogenase (easD), chanoclavine synthase catalase protein (easC), elymoclavine monooxygenase (cloA), lysergyl peptide synthetase subunit 2 LPS2 (lpsB), chanoclavine-I aldehyde oxidoreductase (easA), lysergyl peptide synthetase subunit 3 LPS3 (lpsC), and putative alpha/beta hydrolase fold protein (easP) genes, complete cds.
+41. ABDF02000005.1_c1	Trichoderma virens Gv29-8 TRIVIscaffold_5, whole genome shotgun sequence.
+42. GL985063.1_c1	Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaffold_8, whole genome shotgun sequence.
+43. AFQF01003360.1_c1	Fusarium oxysporum Fo5176 contig03537, whole genome shotgun sequence.
+44. AP007151.1_c4	Aspergillus oryzae RIB40 DNA, SC005.
+45. BX284762.1_c1	Neurospora crassa DNA linkage group II BAC contig B13B3.
+46. GL891305.1_c1	Neurospora tetrasperma FGSC 2508 unplaced genomic scaffold NEUTE1scaffold_4, whole genome shotgun sequence.
+47. ABDG02000023.1_c1	Trichoderma atroviride IMI 206040 TRIATcontig_23, whole genome shotgun sequence.
+48. GL985101.1_c1	Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaffold_46, whole genome shotgun sequence.
+49. GL890999.1_c3	Neurospora tetrasperma FGSC 2509 unplaced genomic scaffold NEUTE2scaffold_1, whole genome shotgun sequence.
+50. GL891382.1_c3	Neurospora tetrasperma FGSC 2508 unplaced genomic scaffold NEUTE1scaffold_81, whole genome shotgun sequence.
+
+
+Details:
+
+>>
+1. DS499594.1_c3
+Source: Aspergillus fumigatus A1163 scf_000001 genomic scaffold, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 4217
+
+Table of genes, locations, strands and annotations of subject cluster:
+AFUB_009720	EDP56264.1	2728665	2731141	+	RNase_L_inhibitor_of_the_ABC_superfamily,
+AFUB_009730	EDP56265.1	2731897	2734448	-	formin_binding_protein_(FNB3),_putative
+AFUB_009740	EDP56266.1	2734768	2736695	+	conserved_hypothetical_protein
+AFUB_009750	EDP56267.1	2737611	2738529	+	integral_membrane_protein,_Mpv17/PMP22_family,
+AFUB_009760	EDP56268.1	2739275	2740690	+	phosphoglycerate_kinase_PgkA,_putative
+AFUB_009770	EDP56269.1	2741238	2741707	-	26_proteasome_complex_subunit_Sem1,_putative
+AFUB_009780	EDP56270.1	2742713	2745250	+	conserved_hypothetical_protein
+AFUB_009790	EDP56271.1	2746314	2748233	+	MFS_multidrug_transporter,_putative
+AFUB_009800	EDP56272.1	2748720	2767908	-	nonribosomal_peptide_synthase_Pes1
+AFUB_009810	EDP56273.1	2773451	2778675	+	ABC_multidrug_transporter,_putative
+AFUB_009820	EDP56274.1	2779284	2783344	-	conserved_hypothetical_protein
+AFUB_009830	EDP56275.1	2783832	2785090	-	DNA_repair_protein_RAD51,_putative
+AFUB_009840	EDP56276.1	2786023	2786760	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AFUB_009810	51	1518	99.2073976222	0.0	
+CHAFR746836_0015130.1	AFUB_009800	40	2699	48.812978106	0.0	
+
+
+
+>>
+2. ACJE01000021.1_c1
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 4103
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASPNIDRAFT_47664	EHA17883.1	495947	498503	+	hypothetical_protein
+ASPNIDRAFT_52779	EHA17884.1	499690	502282	-	hypothetical_protein
+ASPNIDRAFT_208323	EHA17885.1	502591	504512	+	hypothetical_protein
+ASPNIDRAFT_208321	EHA17886.1	505244	506408	+	hypothetical_protein
+ASPNIDRAFT_208318	EHA17887.1	507208	508639	+	hypothetical_protein
+ASPNIDRAFT_177222	EHA17888.1	510811	513267	+	hypothetical_protein
+ASPNIDRAFT_122060	EHA17889.1	514316	516011	+	hypothetical_protein
+ASPNIDRAFT_52774	EHA17890.1	517116	536436	-	non-ribosomal_peptide_synthetase
+ASPNIDRAFT_52773	EHA17891.1	542323	547678	+	hypothetical_protein
+ASPNIDRAFT_47658	EHA17892.1	548799	552936	-	hypothetical_protein
+ASPNIDRAFT_38502	EHA17893.1	555494	556036	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	ASPNIDRAFT_52773	50	1434	100.396301189	0.0	
+CHAFR746836_0015130.1	ASPNIDRAFT_52774	39	2669	49.4724347138	0.0	
+
+
+
+>>
+3. DF126468.1_c1
+Source: Aspergillus kawachii IFO 4308 DNA, contig: scaffold00022, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 4039
+
+Table of genes, locations, strands and annotations of subject cluster:
+AKAW_07639	GAA89525.1	364464	365221	+	similar_to_An08g02360
+AKAW_07640	GAA89526.1	366113	367378	+	DNA_repair_protein_RAD51
+AKAW_07641	GAA89527.1	367752	371895	+	hypothetical_protein
+AKAW_07642	GAA89528.1	373187	378004	-	ABC_multidrug_transporter
+AKAW_07643	GAA89529.1	384481	403807	+	nonribosomal_peptide_synthase_Pes1
+AKAW_07644	GAA89530.1	404715	406584	-	MSF_drug_transporter
+AKAW_07645	GAA89531.1	407582	410051	-	mitochondrial_outer_membrane_protein_Iml2
+AKAW_07646	GAA89532.1	410965	411536	+	hypothetical_protein
+AKAW_07647	GAA89533.1	412343	413770	-	phosphoglycerate_kinase_PgkA
+AKAW_07648	GAA89534.1	414575	415495	-	integral_membrane_protein,_Mpv17/PMP22_family
+AKAW_07649	GAA89535.1	416753	418439	-	similar_to_An08g02230
+AKAW_07650	GAA89536.1	418750	421339	+	formin_binding_protein
+AKAW_07651	GAA89537.1	422383	424943	-	RNase_L_inhibitor_of_the_ABC_superfamily
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AKAW_07642	51	1383	92.0079260238	0.0	
+CHAFR746836_0015130.1	AKAW_07643	39	2656	49.3141651279	0.0	
+
+
+
+>>
+4. GL698712.1_c2
+Source: Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_002, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 3414
+
+Table of genes, locations, strands and annotations of subject cluster:
+MAA_01635	EFZ02053.1	70220	71493	+	hypothetical_protein
+MAA_01636	EFZ02054.1	72648	79533	-	fatty_acid_synthase_subunit_beta_dehydratase
+MAA_01637	EFZ02055.1	80567	81445	+	hypothetical_protein
+MAA_01638	EFZ02056.1	81767	87157	-	ABC_multidrug_transporter,_putative
+MAA_01639	EFZ02057.1	88498	105090	+	peptide_synthetase
+MAA_01640	EFZ02058.1	106196	109958	-	CHIP6_protein
+MAA_01641	EFZ02059.1	111829	113156	+	Ankyrin
+MAA_01642	EFZ02060.1	114812	119605	-	fatty_acid_synthase_subunit_alpha_reductase
+MAA_01643	EFZ02061.1	120848	122032	+	cytochrome_P450_3A31
+MAA_01644	EFZ02062.1	123420	124430	+	RTA1_domain_protein,_putative
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	MAA_01638	41	1159	100.396301189	0.0	
+CHAFR746836_0015130.1	MAA_01639	37	2255	44.9617515168	0.0	
+
+
+
+>>
+5. GL698485.1_c1
+Source: Metarhizium acridum CQMa 102 unplaced genomic scaffold Scf_016, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 3294
+
+Table of genes, locations, strands and annotations of subject cluster:
+MAC_02878	EFY90992.1	43069	49515	-	fatty_acid_synthase_subunit_beta_dehydratase
+MAC_02879	EFY90993.1	50940	51803	+	hypothetical_protein
+MAC_02880	EFY90994.1	52110	57534	-	multidrug_resistance_protein_MDR,_putative
+MAC_02881	EFY90995.1	58828	75428	+	peptide_synthetase
+MAC_02882	EFY90996.1	76334	80086	-	glycosyltransferase
+MAC_02883	EFY90997.1	81921	83262	+	Ankyrin
+MAC_02884	EFY90998.1	85222	90018	-	fatty_acid_synthase_subunit_alpha_reductase
+MAC_02885	EFY90999.1	90779	92416	+	cytochrome_P450_3A31
+MAC_02886	EFY91000.1	93825	96439	+	RTA1_domain_protein,_putative
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	MAC_02880	38	1035	102.377807133	0.0	
+CHAFR746836_0015130.1	MAC_02881	37	2259	45.238723292	0.0	
+
+
+
+>>
+6. AP007174.1_c3
+Source: Aspergillus oryzae RIB40 DNA, SC103.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2652
+
+Table of genes, locations, strands and annotations of subject cluster:
+AO090103000347	BAE65786.1	897675	902974	-	
+AO090103000348	BAE65787.1	905342	908189	+	
+AO090103000351	BAE65788.1	913936	914367	+	
+AO090103000352	BAE65789.1	915215	916019	+	
+AO090103000353	BAE65790.1	916110	917777	-	
+AO090103000354	BAE65791.1	917852	918412	-	
+AO090103000355	BAE65792.1	920082	935773	+	
+AO090103000356	BAE65793.1	936497	941135	+	
+AO090103000359	BAE65794.1	943831	944844	+	
+AO090103000360	BAE65795.1	945831	946972	+	
+AO090103000361	BAE65796.1	948513	950495	-	
+AO090103000362	BAE65797.1	951716	952170	-	
+AO090103000363	BAE65798.1	952615	953968	-	
+AO090103000364	BAE65799.1	954644	955834	-	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AO090103000356	33	768	100.72655218	0.0	
+CHAFR746836_0015130.1	AO090103000355	34	1884	45.7399103139	0.0	
+
+
+
+>>
+7. AGUE01000110.1_c1
+Source: Glarea lozoyensis 74030 Seq110, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2262
+
+Table of genes, locations, strands and annotations of subject cluster:
+M7I_4533	EHK99656.1	315642	319329	-	putative_Metal_resistance_protein_YCF1
+M7I_4535	EHK99657.1	334869	345330	+	putative_HC-toxin_synthetase
+M7I_4536	EHK99658.1	346785	348687	-	putative_Allantoate_permease
+M7I_4537	EHK99659.1	352848	353313	+	putative_N-acetylated-alpha-linked_acidic
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	M7I_4533	54	672	39.8282694848	0.0	
+CHAFR746836_0015130.1	M7I_4535	45	1590	23.4370878396	0.0	
+
+
+
+>>
+8. DF126472.1_c3
+Source: Aspergillus kawachii IFO 4308 DNA, contig: scaffold00026, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2248
+
+Table of genes, locations, strands and annotations of subject cluster:
+AKAW_08297	GAA90183.1	184661	185924	-	NAD_dependent_epimerase/dehydratase
+AKAW_08298	GAA90184.1	188943	189845	+	capsule_polysaccharide_biosynthesis_protein
+AKAW_08299	GAA90185.1	190244	196721	-	malonyl_CoA-acyl_carrier_protein_transacylase
+AKAW_08300	GAA90186.1	198104	198991	-	glutathione_S-transferase
+AKAW_08301	GAA90187.1	199436	204624	-	multidrug_resistance_protein
+AKAW_08302	GAA90188.1	205524	214045	+	nonribosomal_peptide_synthase
+AKAW_08303	GAA90189.1	215558	216647	+	sphingoid_long-chain_base_transporter
+AKAW_08304	GAA90190.1	216998	217855	-	similar_to_An09g01670
+AKAW_08305	GAA90191.1	218279	218604	-	hypothetical_protein
+AKAW_08306	GAA90192.1	218985	220894	-	MFS_multidrug_transporter
+AKAW_08307	GAA90193.1	222167	223712	-	histidine_acid_phosphatase
+AKAW_08308	GAA90194.1	224191	227255	+	similar_to_An09g01620
+AKAW_08309	GAA90195.1	227417	230345	-	UbiA_prenyltransferase_family_protein
+AKAW_08310	GAA90196.1	232210	234268	+	kelch_repeat_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AKAW_08301	37	1011	99.8678996037	0.0	
+CHAFR746836_0015130.1	AKAW_08302	32	1237	32.4320759694	0.0	
+
+
+
+>>
+9. AM270193.1_c2
+Source: Aspergillus niger contig An09c0040, genomic contig.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2236
+
+Table of genes, locations, strands and annotations of subject cluster:
+An09g01560	CAK49077.1	165914	167515	-	
+An09g01570	CAK49078.1	168129	168986	-	hypothetical_protein
+An09g01580	CAK49079.1	169416	171467	-	
+An09g01590	CAK49080.1	171602	172557	-	hypothetical_protein
+An09g01600	CAK49081.1	172962	173656	+	
+An09g01610	CAK49082.1	173770	175020	+	hypothetical_protein
+An09g01620	CAK49083.1	175205	177536	-	
+An09g01630	CAK49084.1	178070	179399	+	unnamed
+An09g01640	CAK49085.1	179658	180061	-	unnamed
+An09g01650	CAK49086.1	180895	182811	+	
+An09g01660	CAK49087.1	183211	183455	+	
+An09g01670	CAK49088.1	183985	184839	+	
+An09g01680	CAK49089.1	185257	186328	-	
+An09g01690	CAK49090.1	187231	196470	-	
+An09g01700	CAK49091.1	197398	202586	+	
+An09g01710	CAK49092.1	203010	203906	+	tRNA-Ala
+An09g01730	CAK49093.1	204310	205058	-	hypothetical_protein
+An09g01740	CAK49094.1	205455	210707	+	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	An09g01700	39	1067	99.3394980185	0.0	
+CHAFR746836_0015130.1	An09g01690	31	1169	32.2078607228	0.0	
+
+
+
+>>
+10. ACJE01000014.1_c1
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2161
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASPNIDRAFT_45631	EHA21432.1	4453	7958	+	hypothetical_protein
+ASPNIDRAFT_118601	EHA21433.1	12862	27463	-	hypothetical_protein
+ASPNIDRAFT_214611	EHA21434.1	35827	40610	+	hypothetical_protein
+ASPNIDRAFT_55102	EHA21435.1	41264	42943	+	hypothetical_protein
+ASPNIDRAFT_45625	EHA21436.1	44509	45926	-	hypothetical_protein
+ASPNIDRAFT_193869	EHA21437.1	46245	47250	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	ASPNIDRAFT_214611	38	1019	99.4055482166	0.0	
+CHAFR746836_0015130.1	ASPNIDRAFT_118601	33	1142	27.6839883936	0.0	
+
+
+
+>>
+11. ACJE01000001.1_c3
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+Type: nrps-t1pks
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1748
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASPNIDRAFT_188861	EHA28218.1	376771	378397	-	hypothetical_protein
+ASPNIDRAFT_43467	EHA28219.1	380795	382007	+	hypothetical_protein
+ASPNIDRAFT_43466	EHA28220.1	382719	384571	-	hypothetical_protein
+ASPNIDRAFT_203129	EHA28221.1	385258	386775	+	histidine_acid_phosphatase
+ASPNIDRAFT_188346	EHA28222.1	388068	389984	+	hypothetical_protein
+ASPNIDRAFT_43463	EHA28223.1	390364	390689	+	hypothetical_protein
+ASPNIDRAFT_189162	EHA28224.1	392447	393485	-	hypothetical_protein
+ASPNIDRAFT_212679	EHA28225.1	395131	402976	-	hypothetical_protein
+ASPNIDRAFT_188758	EHA28226.1	404538	409729	+	hypothetical_protein
+ASPNIDRAFT_54405	EHA28227.1	410153	411049	+	hydrolase
+ASPNIDRAFT_43457	EHA28228.1	412589	419065	+	hypothetical_protein
+ASPNIDRAFT_127101	EHA28229.1	419522	420037	-	hypothetical_protein
+ASPNIDRAFT_50208	EHA28230.1	422430	423218	-	catalytic_protein
+ASPNIDRAFT_189181	EHA28231.1	423549	424931	-	hypothetical_protein
+ASPNIDRAFT_212676	EHA28232.1	425340	426595	+	hypothetical_protein
+ASPNIDRAFT_188806	EHA28233.1	426831	428595	-	hypothetical_protein
+ASPNIDRAFT_189194	EHA28234.1	428988	430552	-	FAD/FMN-containing_dehydrogenase
+ASPNIDRAFT_188800	EHA28235.1	431104	432435	+	hypothetical_protein
+ASPNIDRAFT_43449	EHA28236.1	432622	434402	-	monooxygenase
+ASPNIDRAFT_56946	EHA28237.1	435137	443051	+	hypothetical_protein
+ASPNIDRAFT_132962	EHA28238.1	443729	445192	-	hypothetical_protein
+ASPNIDRAFT_43447	EHA28239.1	446415	447455	-	hypothetical_protein
+ASPNIDRAFT_43446	EHA28240.1	447733	448156	+	hypothetical_protein
+ASPNIDRAFT_43445	EHA28241.1	448420	449104	-	hypothetical_protein
+ASPNIDRAFT_188912	EHA28242.1	449431	451197	+	hypothetical_protein
+ASPNIDRAFT_132654	EHA28243.1	452404	454031	-	hypothetical_protein
+ASPNIDRAFT_188817	EHA28244.1	454699	462946	+	hypothetical_protein
+ASPNIDRAFT_43441	EHA28245.1	463565	464451	-	hypothetical_protein
+ASPNIDRAFT_188504	EHA28246.1	464982	466761	+	hypothetical_protein
+ASPNIDRAFT_50199	EHA28247.1	468578	469697	+	hypothetical_protein
+ASPNIDRAFT_124698	EHA28248.1	470661	471813	+	hypothetical_protein
+ASPNIDRAFT_132453	EHA28249.1	472544	474243	-	hypothetical_protein
+ASPNIDRAFT_188253	EHA28250.1	475257	480312	+	hypothetical_protein
+ASPNIDRAFT_188540	EHA28251.1	481378	483513	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	ASPNIDRAFT_188758	39	1052	99.8018494055	0.0	
+CHAFR746836_0015130.1	ASPNIDRAFT_212679	37	696	14.0464257452	0.0	
+
+
+
+>>
+12. CACQ02005057.1_c1
+Source: Colletotrichum higginsianum IMI 349063 WGS project CACQ00000000 data, contig cont1.533, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1611
+
+Table of genes, locations, strands and annotations of subject cluster:
+CH063_02722	CCF41961.1	2	3090	+	hypothetical_protein
+CH063_02723	CCF41962.1	4440	12218	+	peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	CH063_02722	35	640	71.0039630119	0.0	
+CHAFR746836_0015130.1	CH063_02723	33	971	26.8266948035	0.0	
+
+
+
+>>
+13. GL698783.1_c1
+Source: Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_073, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1481
+
+Table of genes, locations, strands and annotations of subject cluster:
+MAA_10407	EFY94123.1	4548	4950	+	NADPH-dependent_alpha-keto_amide_reductase,
+MAA_10408	EFY94124.1	6142	7827	-	aldehyde_dehydrogenase,_putative
+MAA_10409	EFY94125.1	8680	13740	-	ABC_transporter
+MAA_10410	EFY94126.1	17229	26837	+	non-ribosomal_peptide_synthetase
+MAA_10411	EFY94127.1	28090	29131	+	hypothetical_protein
+MAA_10412	EFY94128.1	30098	32149	-	UDP-galactopyranose_mutase
+MAA_10413	EFY94129.1	33975	34442	-	hypothetical_protein
+MAA_10414	EFY94130.1	34770	35468	-	hypothetical_protein
+MAA_10415	EFY94131.1	36547	37029	-	hypothetical_protein
+MAA_10416	EFY94132.1	37791	39895	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	MAA_10409	45	433	32.6287978864	4e-127	
+CHAFR746836_0015130.1	MAA_10410	32	1048	27.9213927724	0.0	
+
+
+
+>>
+14. ABDF02000075.1_c1
+Source: Trichoderma virens Gv29-8 TRIVIscaffold_75, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1479
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIVIDRAFT_70149	EHK21128.1	167249	169350	+	glycoside_hydrolase_family_71_protein
+TRIVIDRAFT_202300	EHK21089.1	169958	171041	-	hypothetical_protein
+TRIVIDRAFT_51604	EHK21090.1	171401	172224	+	hypothetical_protein
+TRIVIDRAFT_51661	EHK21091.1	174384	175401	-	hypothetical_protein
+TRIVIDRAFT_70145	EHK21092.1	177332	178664	+	hypothetical_protein
+TRIVIDRAFT_23442	EHK21093.1	179879	185682	+	hypothetical_protein
+TRIVIDRAFT_202307	EHK21094.1	186255	191218	-	hypothetical_protein
+TRIVIDRAFT_192417	EHK21095.1	192249	196846	+	hypothetical_protein
+TRIVIDRAFT_51630	EHK21096.1	198005	199659	+	hypothetical_protein
+TRIVIDRAFT_223368	EHK21097.1	199941	200483	+	hypothetical_protein
+TRIVIDRAFT_223369	EHK21098.1	200783	208190	+	non-ribosomal_peptide_synthetase
+TRIVIDRAFT_112807	EHK21099.1	208930	211667	-	hypothetical_protein
+TRIVIDRAFT_153345	EHK21100.1	215349	216350	-	hypothetical_protein
+TRIVIDRAFT_192420	EHK21101.1	217689	219715	-	hypothetical_protein
+TRIVIDRAFT_51664	EHK21102.1	220372	220764	-	hypothetical_protein
+TRIVIDRAFT_192422	EHK21103.1	221248	223223	-	hypothetical_protein
+TRIVIDRAFT_137343	EHK21104.1	224668	225519	+	hypothetical_protein
+TRIVIDRAFT_70133	EHK21105.1	226217	227220	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TRIVIDRAFT_192417	33	762	102.443857332	0.0	
+CHAFR746836_0015130.1	TRIVIDRAFT_202307	31	717	21.3136375626	0.0	
+
+
+
+>>
+15. AGUE01000179.1_c1
+Source: Glarea lozoyensis 74030 Seq179, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1292
+
+Table of genes, locations, strands and annotations of subject cluster:
+M7I_6478	EHK97745.1	35260	37724	+	hypothetical_protein
+M7I_6479	EHK97746.1	47307	49112	-	putative_ABC_transporter_C_family_member_5
+M7I_6480	EHK97747.1	51099	52045	-	putative_Multidrug_resistance-associated_protein
+M7I_6481	EHK97748.1	54229	63907	-	putative_HC-toxin_synthetase
+M7I_6482	EHK97749.1	73074	73807	-	putative_HC-toxin_synthetase
+M7I_6483	EHK97750.1	78647	85024	+	putative_Phthiocerol_synthesis_polyketide
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	M7I_6479	41	358	34.4782034346	3e-108	
+CHAFR746836_0015120.1	M7I_6480	31	82	13.606340819	1e-15	
+CHAFR746836_0015130.1	M7I_6481	34	852	20.1398048008	0.0	
+
+
+
+>>
+16. HM622670.1_c1
+Source: Aspergillus sp. MF297-2 notoamide biosynthetic gene locus, partial sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1140
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADM34133.1	ADM34133.1	1	731	-	capsule_polysaccharide_biosynthesis_protein
+ADM34134.1	ADM34134.1	1293	2491	-	NmrA_family_protein
+ADM34135.1	ADM34135.1	3486	4829	+	FAD_binding_domain_protein
+ADM34136.1	ADM34136.1	5819	7168	+	aromatic_prenyl-transferase
+ADM34137.1	ADM34137.1	8012	10036	+	oxidoreductase
+ADM34138.1	ADM34138.1	10787	17509	+	non-ribosomal_peptide_synthetase
+ADM34139.1	ADM34139.1	17924	19354	-	aromatic_prenyl-transferase
+ADM34140.1	ADM34140.1	19899	21799	-	P450
+ADM34141.1	ADM34141.1	22422	24257	+	P450
+ADM34142.1	ADM34142.1	24803	26225	+	FAD_binding_domain_protein
+ADM34143.1	ADM34143.1	26390	27502	-	hypothetical_protein
+ADM34144.1	ADM34144.1	28771	30621	-	efflux_pump
+ADM34145.1	ADM34145.1	31789	33243	+	trancriptional_activator
+ADM34146.1	ADM34146.1	33816	35080	+	hypothetical_protein
+ADM34147.1	ADM34147.1	35192	36317	-	dehydrogenase
+ADM34148.1	ADM34148.1	36520	37512	-	short-chain_dehydrogenase/reductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	ADM34138.1	32	913	25.6528620417	0.0	
+CHAFR746836_0015140.1	ADM34137.1	32	227	102.841918295	2e-64	
+
+
+
+>>
+17. ACJE01000015.1_c10
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 910
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASPNIDRAFT_126296	EHA21339.1	1329380	1330365	-	hypothetical_protein
+ASPNIDRAFT_44563	EHA21340.1	1332035	1333417	+	hypothetical_protein
+ASPNIDRAFT_139271	EHA21341.1	1333705	1335983	-	hypothetical_protein
+ASPNIDRAFT_191260	EHA21342.1	1336852	1338821	-	hypothetical_protein
+ASPNIDRAFT_191374	EHA21343.1	1339568	1340428	-	hydrolase
+ASPNIDRAFT_191550	EHA21344.1	1341947	1344198	+	hypothetical_protein
+ASPNIDRAFT_191384	EHA21345.1	1344766	1346212	-	hypothetical_protein
+ASPNIDRAFT_140876	EHA21346.1	1346845	1348331	-	hypothetical_protein
+ASPNIDRAFT_44571	EHA21347.1	1349221	1355872	+	hypothetical_protein
+ASPNIDRAFT_191430	EHA21348.1	1356871	1357343	+	hypothetical_protein
+ASPNIDRAFT_128109	EHA21349.1	1369010	1369246	-	hypothetical_protein
+ASPNIDRAFT_44573	EHA21350.1	1370074	1370887	-	hypothetical_protein
+ASPNIDRAFT_50755	EHA21351.1	1371589	1372551	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	ASPNIDRAFT_44571	33	857	22.3819572672	0.0	
+CHAFR746836_0015140.1	ASPNIDRAFT_140876	36	53	12.2557726465	2e-06	
+
+
+
+>>
+18. DS995763.1_c1
+Source: Trichophyton equinum CBS 127.97 supercont1.46 genomic scaffold, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 8062
+
+Table of genes, locations, strands and annotations of subject cluster:
+TEQG_08762	EGE07640.1	38882	39792	-	hypothetical_protein
+TEQG_08763	EGE07641.1	40455	40883	+	hypothetical_protein
+TEQG_08764	EGE07642.1	41808	44484	-	hypothetical_protein
+TEQG_06627	EGE07643.1	44904	45474	+	hypothetical_protein
+TEQG_06628	EGE07644.1	45887	51311	-	ABC_multidrug_transporter
+TEQG_06629	EGE07645.1	53091	53443	-	hypothetical_protein
+TEQG_06630	EGE07646.1	56538	57080	-	hypothetical_protein
+TEQG_06631	EGE07647.1	57593	58265	+	hypothetical_protein
+TEQG_06632	EGE07648.1	58604	83042	+	nonribosomal_peptide_synthase
+TEQG_06633	EGE07649.1	83806	84192	+	hypothetical_protein
+TEQG_06634	EGE07650.1	84429	86128	-	GMP_synthase
+TEQG_06635	EGE07651.1	86536	87521	+	bcp1
+TEQG_06636	EGE07652.1	87724	88649	-	chorismate_mutase
+TEQG_06637	EGE07653.1	89757	92095	+	WD_repeat-containing_protein
+TEQG_06638	EGE07654.1	93178	95229	+	hypothetical_protein
+TEQG_06639	EGE07655.1	96550	102133	+	kinesin_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TEQG_06628	51	1570	102.047556143	0.0	
+CHAFR746836_0015130.1	TEQG_06632	43	6492	102.057504616	0.0	
+
+
+
+>>
+19. GG698489.1_c1
+Source: Trichophyton tonsurans CBS 112818 genomic scaffold supercont1.13, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 8053
+
+Table of genes, locations, strands and annotations of subject cluster:
+TESG_03159	EGD95690.1	328768	330168	-	hypothetical_protein
+TESG_03160	EGD95691.1	331621	334224	-	hypothetical_protein
+TESG_03161	EGD95692.1	334674	335244	+	hypothetical_protein
+TESG_03162	EGD95693.1	335656	341062	-	ABC_multidrug_transporter
+TESG_03163	EGD95694.1	342844	343600	-	hypothetical_protein
+TESG_08402	EGD95695.1	348308	372750	+	hypothetical_protein
+TESG_03166	EGD95696.1	373511	373897	+	hypothetical_protein
+TESG_03167	EGD95697.1	374134	375833	-	GMP_synthase_subunit_B
+TESG_03168	EGD95698.1	376240	377225	+	hypothetical_protein
+TESG_03169	EGD95699.1	377427	378351	-	chorismate_mutase
+TESG_03170	EGD95700.1	379415	381763	+	mitochondrial_division_protein_1
+TESG_03171	EGD95701.1	382834	384750	+	hypothetical_protein
+TESG_03172	EGD95702.1	386070	391588	+	kinesin_family_protein
+TESG_03173	EGD95703.1	392746	394237	+	alpha-1,2-mannosyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TESG_03162	51	1570	102.047556143	0.0	
+CHAFR746836_0015130.1	TESG_08402	43	6483	102.070693748	0.0	
+
+
+
+>>
+20. FP929139.1_c6
+Source: Leptosphaeria maculans v23.1.3 lm_SuperContig_0_v2 genomic supercontig, whole genome.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 6472
+
+Table of genes, locations, strands and annotations of subject cluster:
+CBY02111.1	CBY02111.1	3094894	3099025	-	hypothetical_protein
+CBY02112.1	CBY02112.1	3099159	3100841	-	similar_to_MFS_transporter
+CBY02113.1	CBY02113.1	3102156	3103294	+	predicted_protein
+CBY02114.1	CBY02114.1	3104087	3105211	+	predicted_protein
+CBY02115.1	CBY02115.1	3106079	3111642	-	similar_to_ABC_multidrug_transporter
+CBY02116.1	CBY02116.1	3113323	3114354	-	predicted_protein
+CBY02117.1	CBY02117.1	3115242	3137649	+	similar_to_nonribosomal_peptide_synthase
+CBY02118.1	CBY02118.1	3138626	3140467	-	similar_to_rhamnogalacturonate_lyase
+CBY02119.1	CBY02119.1	3140576	3140854	+	predicted_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	CBY02115.1	51	1544	100.198150594	0.0	
+CHAFR746836_0015130.1	CBY02117.1	42	4928	83.2893695595	0.0	
+
+
+
+>>
+21. GL636512.1_c1
+Source: Coccidioides posadasii str. Silveira unplaced genomic scaffold supercont2.27, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 5502
+
+Table of genes, locations, strands and annotations of subject cluster:
+CPSG_09678	EFW13639.1	13155	14604	-	subtilase
+CPSG_09679	EFW13640.1	14649	15286	+	predicted_protein
+CPSG_09680	EFW13641.1	17841	19466	+	mitochondrial_division_protein_1
+CPSG_09681	EFW13642.1	21572	23562	+	conserved_hypothetical_protein
+CPSG_09682	EFW13643.1	24972	25951	+	chorismate_mutase
+CPSG_09683	EFW13644.1	26080	27080	-	hypothetical_protein
+CPSG_09684	EFW13645.1	27610	28031	+	conserved_hypothetical_protein
+CPSG_09685	EFW13646.1	28756	34324	-	conserved_hypothetical_protein
+CPSG_09686	EFW13647.1	34393	54038	-	cyclic_peptide_synthetase
+CPSG_09687	EFW13648.1	54558	54986	+	predicted_protein
+CPSG_09688	EFW13649.1	55335	55577	+	hypothetical_protein
+CPSG_09689	EFW13650.1	56706	57200	-	hypothetical_protein
+CPSG_09690	EFW13651.1	58766	64144	+	multidrug_resistance_protein_MDR
+CPSG_09691	EFW13652.1	66525	67278	+	predicted_protein
+CPSG_09692	EFW13653.1	68475	69285	-	predicted_protein
+CPSG_09693	EFW13654.1	70685	73249	+	conserved_hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	CPSG_09690	52	1561	100.660501982	0.0	
+CHAFR746836_0015130.1	CPSG_09686	45	2435	36.3756264838	0.0	
+CHAFR746836_0015130.1	CPSG_09685	44	1506	23.2920073859	0.0	
+
+
+
+>>
+22. AP007169.1_c4
+Source: Aspergillus oryzae RIB40 DNA, SC038.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 4835
+
+Table of genes, locations, strands and annotations of subject cluster:
+AO090038000385	BAE64180.1	991610	992547	+	
+AO090038000386	BAE64181.1	995576	996885	+	
+AO090038000387	BAE64182.1	997345	1001399	+	
+AO090038000388	BAE64183.1	1002310	1003283	-	
+AO090038000389	BAE64184.1	1004092	1007423	-	
+AO090038000390	BAE64185.1	1011974	1027988	+	
+AO090038000391	BAE64186.1	1028556	1031799	-	
+AO090038000392	BAE64187.1	1032299	1033174	-	
+AO090038000395	BAE64188.1	1035900	1037285	-	
+AO090038000396	BAE64189.1	1038115	1039240	-	
+AO090038000397	BAE64190.1	1039930	1041863	-	
+AO090038000398	BAE64191.1	1042153	1044734	+	
+AO090038000399	BAE64192.1	1046044	1048292	-	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AO090038000389	47	850	61.0303830911	0.0	
+CHAFR746836_0015120.1	AO090038000388	47	256	17.8996036988	4e-75	
+CHAFR746836_0015130.1	AO090038000390	39	3729	69.0582959641	0.0	
+
+
+
+>>
+23. GL698757.1_c1
+Source: Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_047, whole genome shotgun sequence.
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 4472
+
+Table of genes, locations, strands and annotations of subject cluster:
+MAA_09939	EFY94568.1	1383	3155	+	C6_zinc_finger_domain_protein
+MAA_09940	EFY94569.1	3297	4946	-	hypothetical_protein
+MAA_09941	EFY94570.1	5666	6740	+	isoflavone_reductase_family_protein_(CipA),
+MAA_09942	EFY94571.1	7890	9338	-	FAD_dependent_oxidoreductase,_putative
+MAA_09943	EFY94572.1	11179	13808	+	fungal_specific_transcription_factor,_putative
+MAA_09944	EFY94573.1	15259	23262	-	polyketide_synthase,_putative
+MAA_09945	EFY94574.1	24546	25028	+	hypothetical_protein
+MAA_09946	EFY94575.1	25484	26885	-	salicylate_hydroxylase,_putative
+MAA_09947	EFY94576.1	27848	34855	+	polyketide_synthase,_putative
+MAA_09948	EFY94577.1	36473	37150	+	nitroreductase_family_protein
+MAA_09949	EFY94578.1	40964	42436	-	hypothetical_protein
+MAA_09950	EFY94579.1	43462	45322	-	serine-type_carboxypeptidase
+MAA_09951	EFY94580.1	46278	51267	-	ABC_transporter
+MAA_09952	EFY94581.1	52678	55527	-	putative_cytochrome_P450_monooxygenase
+MAA_09953	EFY94582.1	55822	86634	+	nonribosomal_peptide_synthase
+MAA_09954	EFY94583.1	86972	88577	-	beta-lactamase_family_protein
+MAA_09955	EFY94584.1	91358	92602	+	hypothetical_protein
+MAA_09956	EFY94585.1	97006	97443	+	hypothetical_protein
+MAA_09957	EFY94586.1	98923	99948	-	class_III_chitinase_ChiA2
+MAA_09958	EFY94587.1	101042	101794	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	MAA_09951	39	673	64.927344782	0.0	
+CHAFR746836_0015130.1	MAA_09953	34	3799	92.429438143	0.0	
+
+
+
+>>
+24. GL698753.1_c1
+Source: Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_043, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3864
+
+Table of genes, locations, strands and annotations of subject cluster:
+MAA_09768	EFY94740.1	32180	34058	-	Ser/Thr_protein_phosphatase_family
+MAA_09769	EFY94741.1	35147	37732	+	hypothetical_protein
+MAA_09770	EFY94742.1	40103	41730	+	DUF914_domain_membrane_protein
+MAA_09771	EFY94743.1	42822	44699	-	hypothetical_protein
+MAA_09772	EFY94744.1	49990	80970	-	nonribosomal_peptide_synthase
+MAA_09773	EFY94745.1	82727	84382	+	Cytochrome_P450_family_protein
+MAA_09774	EFY94746.1	85423	90683	+	ABC_transporter
+MAA_09775	EFY94747.1	91726	92955	-	amino_acid_transporter_arg-13
+MAA_09776	EFY94748.1	94535	95590	-	lysine_amidinotransferase
+MAA_09777	EFY94749.1	98799	99946	-	aspartic_peptidase_A1
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	MAA_09774	36	907	99.6697490092	0.0	
+CHAFR746836_0015130.1	MAA_09772	33	2957	78.0532840939	0.0	
+
+
+
+>>
+25. AM270164.1_c1
+Source: Aspergillus niger contig An08c0090, genomic contig.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3834
+
+Table of genes, locations, strands and annotations of subject cluster:
+An08g02310	CAK48225.1	1	18151	-	
+An08g02320	CAK48226.1	21164	21310	+	
+An08g02330	CAK48227.1	24041	29396	+	
+An08g02340	CAK48228.1	30517	34654	-	
+An08g02350	CAK48229.1	35034	36306	-	
+An08g02360	CAK48230.1	37022	37970	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	An08g02330	50	1445	100.396301189	0.0	
+CHAFR746836_0015130.1	An08g02310	39	2389	44.2891057768	0.0	
+
+
+
+>>
+26. GL698498.1_c1
+Source: Metarhizium acridum CQMa 102 unplaced genomic scaffold Scf_029, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3828
+
+Table of genes, locations, strands and annotations of subject cluster:
+MAC_04401	EFY89546.1	163497	166588	+	hypothetical_protein
+MAC_04402	EFY89547.1	167593	168909	-	DUF914_domain_membrane_protein
+MAC_04403	EFY89548.1	172876	174218	-	hypothetical_protein
+MAC_04404	EFY89549.1	175626	177507	+	ser/Thr_protein_phosphatase
+MAC_04405	EFY89550.1	179287	180201	+	hypothetical_protein
+MAC_04406	EFY89551.1	180668	211671	-	nonribosomal_peptide_synthase
+MAC_04407	EFY89552.1	213690	215372	+	Cytochrome_P450_family_protein
+MAC_04408	EFY89553.1	216958	221606	+	ABC_transporter
+MAC_04409	EFY89554.1	222570	223311	-	amino_acid_transporter_arg-13
+MAC_04410	EFY89555.1	225635	226690	-	lysine_amidinotransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	MAC_04408	36	844	91.7437252312	0.0	
+CHAFR746836_0015130.1	MAC_04406	33	2984	79.504088631	0.0	
+
+
+
+>>
+27. ABDF02000064.1_c1
+Source: Trichoderma virens Gv29-8 TRIVIscaffold_64, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3158
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIVIDRAFT_70763	EHK21750.1	22997	24955	+	hypothetical_protein
+TRIVIDRAFT_59905	EHK21751.1	25346	29939	-	hypothetical_protein
+TRIVIDRAFT_53091	EHK21752.1	30416	30739	+	hypothetical_protein
+TRIVIDRAFT_59906	EHK21753.1	30902	32168	+	hypothetical_protein
+TRIVIDRAFT_191943	EHK21754.1	32704	34932	-	hypothetical_protein
+TRIVIDRAFT_53132	EHK21755.1	36259	37212	+	hypothetical_protein
+TRIVIDRAFT_191945	EHK21756.1	38429	41947	+	hypothetical_protein
+TRIVIDRAFT_70770	EHK21757.1	44838	68695	+	non-ribosomal_peptide_synthetase
+TRIVIDRAFT_70771	EHK21758.1	69039	70872	-	hypothetical_protein
+TRIVIDRAFT_81573	EHK21761.1	72658	79239	-	glycoside_hydrolase_family_18_protein
+TRIVIDRAFT_201746	EHK21759.1	80751	83912	+	hypothetical_protein
+TRIVIDRAFT_70774	EHK21760.1	84095	85591	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TRIVIDRAFT_59905	37	981	99.9339498018	0.0	
+CHAFR746836_0015130.1	TRIVIDRAFT_70770	33	2177	52.3080981271	0.0	
+
+
+
+>>
+28. ACJE01000005.1_c2
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2758
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASPNIDRAFT_123814	EHA25700.1	238023	239174	+	hypothetical_protein
+ASPNIDRAFT_43884	EHA25701.1	240566	241060	-	hypothetical_protein
+ASPNIDRAFT_189770	EHA25702.1	241864	242673	+	short_chain_dehydrogenase
+ASPNIDRAFT_43882	EHA25703.1	243082	246444	+	hypothetical_protein
+ASPNIDRAFT_189676	EHA25704.1	246807	247874	+	hypothetical_protein
+ASPNIDRAFT_43880	EHA25705.1	248119	249606	-	hypothetical_protein
+ASPNIDRAFT_120992	EHA25706.1	250212	252057	-	lysophospholipase
+ASPNIDRAFT_118599	EHA25707.1	257395	273191	-	hypothetical_protein
+ASPNIDRAFT_212940	EHA25708.1	274287	275303	+	hypothetical_protein
+ASPNIDRAFT_43876	EHA25709.1	277076	277810	-	hypothetical_protein
+ASPNIDRAFT_43875	EHA25710.1	280936	282215	-	hypothetical_protein
+ASPNIDRAFT_190013	EHA25711.1	283070	288039	+	hypothetical_protein
+ASPNIDRAFT_140304	EHA25712.1	289468	290983	-	hypothetical_protein
+ASPNIDRAFT_43872	EHA25713.1	292712	293395	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	ASPNIDRAFT_190013	40	1006	100.198150594	0.0	
+CHAFR746836_0015130.1	ASPNIDRAFT_118599	32	1752	47.2698496439	0.0	
+
+
+
+>>
+29. DF126466.1_c2
+Source: Aspergillus kawachii IFO 4308 DNA, contig: scaffold00020, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2491
+
+Table of genes, locations, strands and annotations of subject cluster:
+AKAW_07212	GAA89098.1	212112	214137	+	acyl-CoA_oxidase
+AKAW_07213	GAA89099.1	215063	215551	-	hypothetical_protein
+AKAW_07214	GAA89100.1	216352	217161	+	short-chain_dehydrogenase
+AKAW_07215	GAA89101.1	219890	220960	+	Zn(II)2Cys6_transcription_factor
+AKAW_07216	GAA89102.1	221307	222374	+	malate/L-lactate_dehydrogenase
+AKAW_07217	GAA89103.1	223097	224906	-	hypothetical_protein
+AKAW_07218	GAA89104.1	226264	228301	-	lysophospholipase_phospholipase_B_(Plb1)
+AKAW_07219	GAA89105.1	229360	230259	-	integral_membrane_protein
+AKAW_07220	GAA89106.1	230770	232394	+	C6_zinc_finger_domain_protein
+AKAW_07221	GAA89107.1	233716	250245	-	peptide_synthetase
+AKAW_07222	GAA89108.1	250888	251906	+	RTA1_domain_protein
+AKAW_07223	GAA89109.1	253720	254606	-	hypothetical_protein
+AKAW_07224	GAA89110.1	256091	256963	-	hypothetical_protein
+AKAW_07225	GAA89111.1	257542	258796	-	subgroup_IIIi_aminotransferase
+AKAW_07226	GAA89112.1	259668	264641	+	canalicular_multispecific_organic_anion
+AKAW_07227	GAA89113.1	265944	267607	-	cytochrome_P450_3A31
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AKAW_07226	42	674	60.2377807133	0.0	
+CHAFR746836_0015130.1	AKAW_07221	33	1817	47.8369823266	0.0	
+
+
+
+>>
+30. AM270104.1_c1
+Source: Aspergillus niger contig An05c0040, genomic contig.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2434
+
+Table of genes, locations, strands and annotations of subject cluster:
+An05g00930	CAK39130.1	20086	22249	+	
+An05g00940	CAK39131.1	22840	23347	-	hypothetical_protein
+An05g00950	CAK39132.1	23811	25301	+	
+An05g00960	CAK39133.1	25872	26517	+	
+An05g00970	CAK39134.1	26796	27947	-	hypothetical_protein
+An05g00980	CAK39135.1	28862	29982	+	unnamed
+An05g00990	CAK39136.1	30345	31467	+	
+An05g01000	CAK39137.1	31657	33144	-	unnamed
+An05g01010	CAK39138.1	33741	35994	-	unnamed
+An05g01020	CAK39139.1	36175	36648	+	
+An05g01030	CAK39140.1	36843	37625	-	
+An05g01040	CAK39141.1	38247	39870	+	5S_ribosomal_RNA
+An05g01060	CAK39142.1	40691	57183	-	
+An05g01070	CAK39143.1	57826	58842	+	
+An05g01080	CAK39144.1	60603	61621	-	
+An05g01090	CAK39145.1	61758	62667	+	
+An05g01100	CAK39146.1	64464	65753	-	
+An05g01110	CAK39147.1	66608	71577	+	
+An05g01120	CAK39148.1	72992	74654	-	unnamed
+An05g01140	CAK39149.1	76252	77563	-	unnamed
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	An05g01110	41	676	60.7661822985	0.0	
+CHAFR746836_0015130.1	An05g01060	32	1758	47.2698496439	0.0	
+
+
+
+>>
+31. DS499599.1_c3
+Source: Aspergillus fumigatus A1163 scf_000006 genomic scaffold, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2339
+
+Table of genes, locations, strands and annotations of subject cluster:
+AFUB_077970	EDP49766.1	1684433	1684933	+	hypothetical_protein
+AFUB_077980	EDP49767.1	1685854	1686188	+	hypothetical_protein
+AFUB_077990	EDP49768.1	1687929	1689158	-	glycosyl_hydrolase__family_protein
+AFUB_078000	EDP49769.1	1690390	1690746	-	hypothetical_protein
+AFUB_078010	EDP49770.1	1691314	1694113	+	C2H2_finger_domain_protein,_putative
+AFUB_078020	EDP49771.1	1695675	1698017	-	rhamnosidase,_putative
+AFUB_078030	EDP49772.1	1698688	1700535	+	MFS_sugar_transporter,_putative
+AFUB_078040	EDP49773.1	1701787	1705701	+	nonribosomal_peptide_synthase,_putative
+AFUB_078050	EDP49774.1	1706102	1707468	-	MAK1-like_monooxygenase,_putative
+AFUB_078060	EDP49775.1	1708297	1710120	+	FAD_binding_domain_protein
+AFUB_078070	EDP49776.1	1711510	1723499	-	nonribosomal_peptide_synthase,_putative
+AFUB_078080	EDP49777.1	1726523	1728379	+	HET_domain_protein
+AFUB_078100	EDP49778.1	1731150	1732552	+	salicylate_synthetase,_putative
+AFUB_078110	EDP49779.1	1732977	1734183	-	BNR/Asp-box_repeat_domain_protein
+AFUB_078120	EDP49780.1	1736155	1738325	+	C6_transcription_factor,_putative
+AFUB_078130	EDP49781.1	1738366	1739288	-	hypothetical_protein
+AFUB_078140	EDP49782.1	1741062	1741313	-	hypothetical_protein
+AFUB_078150	EDP49783.1	1743183	1743857	+	bZIP_transcription_factor_(Atf7),_putative
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	AFUB_078070	33	1860	48.9976259562	0.0	
+CHAFR746836_0015130.1	AFUB_078040	31	419	13.2814560802	2e-119	
+CHAFR746836_0015140.1	AFUB_078060	36	60	17.7619893428	2e-08	
+
+
+
+>>
+32. JH126400.1_c6
+Source: Cordyceps militaris CM01 unplaced genomic scaffold CCM_S00002, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2059
+
+Table of genes, locations, strands and annotations of subject cluster:
+CCM_03251	EGX94979.1	4193829	4195376	-	hypothetical_protein
+CCM_03252	EGX94980.1	4196859	4199773	-	pH_signal_transduction_protein_PalI,_putative
+CCM_03253	EGX94981.1	4201881	4206855	-	ABC_transporter,_transmembrane_region,_type_1
+CCM_03254	EGX94982.1	4208732	4210344	-	benzoate_4-monooxygenase_cytochrome_P450
+CCM_03255	EGX94983.1	4212343	4225710	+	non-ribosomal_peptide_synthase,_putative
+CCM_03256	EGX94984.1	4226349	4228401	+	ABC1_domain_protein
+CCM_03257	EGX94985.1	4231831	4233540	+	Ras_like_GTPase
+CCM_03258	EGX94986.1	4234486	4238616	-	hypothetical_protein
+CCM_03259	EGX94987.1	4239570	4241117	+	MYB_DNA-binding_domain_containing_protein
+CCM_03260	EGX94988.1	4241829	4243142	+	ribosomal_protein_S4
+CCM_03261	EGX94989.1	4243679	4245614	+	D-lactate_dehydrogenase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	CCM_03253	37	1019	101.05680317	0.0	
+CHAFR746836_0015130.1	CCM_03255	31	1040	30.9021366394	0.0	
+
+
+
+>>
+33. GG698483.1_c2
+Source: Trichophyton tonsurans CBS 112818 genomic scaffold supercont1.7, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1920
+
+Table of genes, locations, strands and annotations of subject cluster:
+TESG_02069	EGD94557.1	547669	550606	-	hypothetical_protein
+TESG_02070	EGD94558.1	552545	554211	-	MFS_pantothenate_transporter
+TESG_02071	EGD94559.1	555039	556375	+	hypothetical_protein
+TESG_02072	EGD94560.1	556780	557565	-	hypothetical_protein
+TESG_02073	EGD94561.1	558171	558876	+	hypothetical_protein
+TESG_02074	EGD94562.1	558986	563719	-	multidrug_resistance_protein
+TESG_08333	EGD94563.1	565955	567403	-	hypothetical_protein
+TESG_08334	EGD94564.1	568123	578247	+	hypothetical_protein
+TESG_02077	EGD94565.1	578786	580872	-	glutamyl-tRNA(Gln)_amidotransferase
+TESG_02078	EGD94566.1	581475	583238	+	L-amino_acid_oxidase
+TESG_02079	EGD94567.1	583632	585500	-	hypothetical_protein
+TESG_02080	EGD94568.1	587446	589071	+	hypothetical_protein
+TESG_02081	EGD94569.1	589215	592168	-	hypothetical_protein
+TESG_02082	EGD94570.1	593205	593677	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TESG_02074	37	975	93.4610303831	0.0	
+CHAFR746836_0015130.1	TESG_08334	32	945	27.3938274862	0.0	
+
+
+
+>>
+34. DS499597.1_c2
+Source: Aspergillus fumigatus A1163 scf_000004 genomic scaffold, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1913
+
+Table of genes, locations, strands and annotations of subject cluster:
+AFUB_060350	EDP52005.1	3203125	3205141	+	dihydroxyacetone_kinase_(DakA),_putative
+AFUB_060360	EDP52006.1	3206468	3206767	+	conserved_hypothetical_protein
+AFUB_060370	EDP52007.1	3208511	3210858	+	TPR_domain_protein
+AFUB_060380	EDP52008.1	3211822	3212947	-	hypothetical_protein
+AFUB_060390	EDP52009.1	3213295	3215291	-	ABC_multidrug_transporter,_putative
+AFUB_060400	EDP52010.1	3224060	3249608	+	nonribosomal_peptide_synthase,_putative
+AFUB_060410	EDP52011.1	3250761	3252316	+	MFS_multidrug_transporter,_putative
+AFUB_060420	EDP52012.1	3253856	3255456	-	hypothetical_protein
+AFUB_060430	EDP52013.1	3256424	3257960	-	CCCH_zinc_finger_DNA_binding_protein
+AFUB_060440	EDP52014.1	3258635	3259663	-	metallo-beta-lactamase_family_protein
+AFUB_060450	EDP52015.1	3261597	3262651	+	Kelch_repeat_protein
+AFUB_060460	EDP52016.1	3262836	3264689	-	mitochondrial_3-hydroxyisobutyryl-CoA_hydrolase,
+AFUB_060470	EDP52017.1	3264919	3265677	-	50S_ribosomal_protein_L4
+AFUB_060480	EDP52018.1	3266082	3267417	+	mitochondrial_large_ribosomal_subunit_YmL35,
+AFUB_060490	EDP52019.1	3267596	3268199	-	mitochondrial_inner_membrane_protease_subunit_1,
+AFUB_060500	EDP52020.1	3269087	3269909	-	DUF1264_domain_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AFUB_060390	35	267	32.6287978864	1e-75	
+CHAFR746836_0015120.1	AFUB_060380	41	127	11.4927344782	4e-30	
+CHAFR746836_0015130.1	AFUB_060400	32	1519	40.8731205487	0.0	
+
+
+
+>>
+35. HQ591508.1_c1
+Source: Penicillium aethiopicum strain IBT 5753 hypothetical protein genes, complete cds; tryptoquialanine biosynthetic gene cluster, complete sequence; and hypothetical protein, putative RTA1-like transmembrane protein, putative Zn2Cys6 transcription factor, and hypothetical proteins genes, complete cds.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1880
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADY16684.1	ADY16684.1	283	1607	-	hypothetical_protein
+ADY16685.1	ADY16685.1	3395	5346	+	hypothetical_protein
+ADY16686.1	ADY16686.1	6261	8022	+	hypothetical_protein
+ADY16687.1	ADY16687.1	8692	9797	-	TqaC
+ADY16688.1	ADY16688.1	10237	11778	+	TqaD
+ADY16689.1	ADY16689.1	12833	16159	+	TqaB
+ADY16690.1	ADY16690.1	16443	18062	-	TqaE
+ADY16691.1	ADY16691.1	18577	19633	+	TqaM
+ADY16692.1	ADY16692.1	19715	20431	-	TqaF
+ADY16693.1	ADY16693.1	21261	22758	+	TqaK
+ADY16694.1	ADY16694.1	23331	24446	+	TqaL
+ADY16695.1	ADY16695.1	25510	27232	-	TqaG
+ADY16696.1	ADY16696.1	28030	29574	-	TqaH
+ADY16697.1	ADY16697.1	30584	42893	+	TqaA
+ADY16698.1	ADY16698.1	43810	44619	+	TqaI
+ADY16699.1	ADY16699.1	45638	47489	-	TqaJ
+ADY16700.1	ADY16700.1	48947	50248	-	hypothetical_protein
+ADY16701.1	ADY16701.1	52301	53119	-	putative_RTA1-like_transmembrane_protein
+ADY16702.1	ADY16702.1	53873	55259	+	putative_Zn2Cys6_transcription_factor
+ADY16703.1	ADY16703.1	55454	57406	-	hypothetical_protein
+ADY16704.1	ADY16704.1	57831	58406	+	hypothetical_protein
+ADY16705.1	ADY16705.1	58720	59343	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	ADY16697.1	32	1793	51.3848588763	0.0	
+CHAFR746836_0015140.1	ADY16695.1	32	87	45.8259325044	6e-17	
+
+
+
+>>
+36. DS995723.1_c2
+Source: Trichophyton equinum CBS 127.97 supercont1.6 genomic scaffold, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1760
+
+Table of genes, locations, strands and annotations of subject cluster:
+TEQG_01773	EGE02736.1	541140	544115	-	hypothetical_protein
+TEQG_01774	EGE02737.1	545081	545796	-	essential_protein_Yae1
+TEQG_01775	EGE02738.1	546064	547310	-	MFS_pantothenate_transporter
+TEQG_01776	EGE02739.1	548610	549947	+	hypothetical_protein
+TEQG_01777	EGE02740.1	550352	551137	-	hypothetical_protein
+TEQG_01778	EGE02741.1	551743	552448	+	hypothetical_protein
+TEQG_01779	EGE02742.1	552558	557292	-	ABC_multidrug_transporter
+TEQG_01780	EGE02743.1	559530	560991	-	hypothetical_protein
+TEQG_01781	EGE02744.1	561712	571890	+	nonribosomal_peptide_synthase_pes1
+TEQG_01782	EGE02745.1	572429	574515	-	glutamyl-tRNA(Gln)_amidotransferase
+TEQG_01783	EGE02746.1	575118	576881	+	L-amino_acid_oxidase_LaoA
+TEQG_01784	EGE02747.1	577276	579144	-	hypothetical_protein
+TEQG_01785	EGE02748.1	581090	582715	+	beta-lactamase
+TEQG_01786	EGE02749.1	582859	585812	-	ankyrin_repeat_protein
+TEQG_01787	EGE02750.1	586619	588076	+	hypothetical_protein
+TEQG_01788	EGE02751.1	588359	588763	-	hypothetical_protein
+TEQG_01789	EGE02752.1	589561	590682	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TEQG_01779	37	996	93.4610303831	0.0	
+CHAFR746836_0015130.1	TEQG_01781	34	764	19.3616460037	0.0	
+
+
+
+>>
+37. ABDG02000023.1_c4
+Source: Trichoderma atroviride IMI 206040 TRIATcontig_23, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1470
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIATDRAFT_318124	EHK46016.1	1607622	1608864	-	hypothetical_protein
+TRIATDRAFT_152289	EHK46017.1	1610029	1611637	+	hypothetical_protein
+TRIATDRAFT_88602	EHK46018.1	1612865	1614050	+	hypothetical_protein
+TRIATDRAFT_131986	EHK46019.1	1614487	1615746	-	hypothetical_protein
+TRIATDRAFT_152285	EHK46020.1	1616708	1618407	-	hypothetical_protein
+TRIATDRAFT_167309	EHK46021.1	1619970	1620971	-	hypothetical_protein
+TRIATDRAFT_88599	EHK46022.1	1622185	1623498	-	hypothetical_protein
+TRIATDRAFT_40443	EHK46023.1	1624689	1625786	+	hypothetical_protein
+TRIATDRAFT_39904	EHK46024.1	1626649	1631475	-	non-ribosomal_peptide_synthetase
+TRIATDRAFT_40716	EHK46025.1	1632120	1632878	-	non-ribosomal_peptide_synthetase
+TRIATDRAFT_308039	EHK46026.1	1632910	1633296	-	hypothetical_protein
+TRIATDRAFT_299529	EHK46027.1	1636078	1637313	+	hypothetical_protein
+TRIATDRAFT_299530	EHK46028.1	1639223	1640410	+	hypothetical_protein
+TRIATDRAFT_152276	EHK46029.1	1641200	1643323	-	hypothetical_protein
+TRIATDRAFT_131981	EHK46205.1	1646757	1648182	+	phosphatidylinositol_transporter
+TRIATDRAFT_264490	EHK46030.1	1648752	1649525	-	hypothetical_protein
+TRIATDRAFT_40701	EHK46031.1	1650359	1655118	-	multidrug_resistance-associated_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TRIATDRAFT_40701	35	847	101.717305152	0.0	
+CHAFR746836_0015130.1	TRIATDRAFT_39904	33	623	16.1303086257	0.0	
+
+
+
+>>
+38. DQ019316.1_c1
+Source: Gibberella zeae aldehyde dehydrogenase (ALD), heterokaryon incompatibility protein (HET), non-ribosomal peptide synthetase (NPS), monocarboxylate transporter like-protein (MCT), and K+ channel protein (KAT) genes, complete cds; PKS gene cluster, complete sequence; and polyketide synthase (PKS13), bZIP domain-containing transcription factor (ZEB2), protein kinase Eg2-like protein (STK), and Ca2+ ATPase (ACA) genes, complete cds.
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1460
+
+Table of genes, locations, strands and annotations of subject cluster:
+ABB90277.1	ABB90277.1	2685	4268	-	aldehyde_dehydrogenase
+ABB90278.1	ABB90278.1	4763	8515	-	heterokaryon_incompatibility_protein
+ABB90279.1	ABB90279.1	9054	16031	-	non-ribosomal_peptide_synthetase
+ABB90280.1	ABB90280.1	16901	18249	+	monocarboxylate_transporter_like-protein
+ABB90281.1	ABB90281.1	18764	19912	+	K+_channel_protein
+ABB90282.1	ABB90282.1	20206	26529	-	polyketide_synthase
+ABB90283.1	ABB90283.1	27570	34937	+	polyketide_synthase
+ABB90284.1	ABB90284.1	35515	37387	+	isoamyl_alcohol_oxidase
+ABB90285.1	ABB90285.1	37591	38638	-	bZIP_domain-containing_transcription_factor
+ABB90286.1	ABB90286.1	40407	41496	+	protein_kinase_Eg2-like_protein
+ABB90287.1	ABB90287.1	42036	46050	-	Ca2+_ATPase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	ABB90279.1	31	892	24.1097335795	0.0	
+CHAFR746836_0015140.1	ABB90284.1	49	568	96.4476021314	0.0	
+
+
+
+>>
+39. ABDF02000001.1_c1
+Source: Trichoderma virens Gv29-8 TRIVIscaffold_1, whole genome shotgun sequence.
+Type: nrps-t1pks
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1314
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIVIDRAFT_217347	EHK26732.1	3709	7214	-	non-ribosomal_peptide_synthetase
+TRIVIDRAFT_62548	EHK26733.1	10509	11498	+	hypothetical_protein
+TRIVIDRAFT_62549	EHK27508.1	13434	21497	+	putative_polyketide_synthase
+TRIVIDRAFT_140688	EHK26734.1	21908	22918	-	hypothetical_protein
+TRIVIDRAFT_62551	EHK26735.1	24051	24614	+	hypothetical_protein
+TRIVIDRAFT_34120	EHK26736.1	27097	31417	+	hypothetical_protein
+TRIVIDRAFT_187765	EHK26737.1	37764	42846	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TRIVIDRAFT_187765	35	776	90.0264200793	0.0	
+CHAFR746836_0015130.1	TRIVIDRAFT_217347	32	538	14.2970192561	4e-160	
+
+
+
+>>
+40. JN182229.1_c1
+Source: Periglandula ipomoeae strain lasaF13 lysergyl peptide synthetase subunit 1 LPS1 (lpsA), putative oxygenase (easH), putative FAD-containing monooxygenase (easO), dimethylallyl tryptophan synthase (dmaW), agroclavine dehydrogenase (easG), dimethylallyltryptophan N-methyltransferase (easF), chanoclavine-I synthase oxidoreductase protein (easE), chanoclavine-I dehydrogenase (easD), chanoclavine synthase catalase protein (easC), elymoclavine monooxygenase (cloA), lysergyl peptide synthetase subunit 2 LPS2 (lpsB), chanoclavine-I aldehyde oxidoreductase (easA), lysergyl peptide synthetase subunit 3 LPS3 (lpsC), and putative alpha/beta hydrolase fold protein (easP) genes, complete cds.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1098
+
+Table of genes, locations, strands and annotations of subject cluster:
+AEV21218.1	AEV21218.1	111	10894	-	lysergyl_peptide_synthetase_subunit_1_LPS1
+AEV21219.1	AEV21219.1	11864	12787	+	putative_oxygenase
+AEV21220.1	AEV21220.1	14589	16562	-	putative_FAD-containing_monooxygenase
+AEV21221.1	AEV21221.1	17334	18819	-	dimethylallyl_tryptophan_synthase
+AEV21222.1	AEV21222.1	19470	20469	+	agroclavine_dehydrogenase
+AEV21223.1	AEV21223.1	20489	21582	-	dimethylallyltryptophan_N-methyltransferase
+AEV21224.1	AEV21224.1	21865	23787	-	chanoclavine-I_synthase_oxidoreductase_protein
+AEV21225.1	AEV21225.1	25006	25846	+	chanoclavine-I_dehydrogenase
+AEV21226.1	AEV21226.1	26601	28106	+	chanoclavine_synthase_catalase_protein
+AEV21227.1	AEV21227.1	28676	30699	+	elymoclavine_monooxygenase
+AEV21228.1	AEV21228.1	31182	35169	-	lysergyl_peptide_synthetase_subunit_2_LPS2
+AEV21229.1	AEV21229.1	35710	36852	+	chanoclavine-I_aldehyde_oxidoreductase
+AEV21230.1	AEV21230.1	37855	43269	+	lysergyl_peptide_synthetase_subunit_3_LPS3
+AEV21231.1	AEV21231.1	43954	45019	-	putative_alpha/beta_hydrolase_fold_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	AEV21218.1	31	889	26.3518860459	0.0	
+CHAFR746836_0015140.1	AEV21224.1	31	209	103.019538188	3e-58	
+
+
+
+>>
+41. ABDF02000005.1_c1
+Source: Trichoderma virens Gv29-8 TRIVIscaffold_5, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1064
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIVIDRAFT_86774	EHK23384.1	506569	508530	-	hypothetical_protein
+TRIVIDRAFT_24487	EHK23385.1	508905	510020	+	hypothetical_protein
+TRIVIDRAFT_113608	EHK23386.1	510982	513564	-	hypothetical_protein
+TRIVIDRAFT_147517	EHK23387.1	515730	518012	-	hypothetical_protein
+TRIVIDRAFT_178845	EHK23388.1	520232	522210	+	hypothetical_protein
+TRIVIDRAFT_178848	EHK23389.1	523134	524549	-	hypothetical_protein
+TRIVIDRAFT_220662	EHK23390.1	525121	528557	-	hypothetical_protein
+TRIVIDRAFT_147207	EHK23391.1	530526	531972	+	hypothetical_protein
+TRIVIDRAFT_220664	EHK23392.1	533082	534972	+	hypothetical_protein
+TRIVIDRAFT_64161	EHK23393.1	535171	536627	-	hypothetical_protein
+TRIVIDRAFT_37636	EHK23394.1	537979	539145	-	hypothetical_protein
+TRIVIDRAFT_36910	EHK23395.1	540564	542394	-	hypothetical_protein
+TRIVIDRAFT_36530	EHK23396.1	545231	546874	+	hypothetical_protein
+TRIVIDRAFT_86768	EHK23397.1	548152	549885	-	putative_high_affinity_glucose_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	TRIVIDRAFT_220662	33	522	14.283830124	7e-155	
+CHAFR746836_0015140.1	TRIVIDRAFT_36910	50	542	96.6252220249	0.0	
+
+
+
+>>
+42. GL985063.1_c1
+Source: Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaffold_8, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1026
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIREDRAFT_77539	EGR49125.1	505187	507147	-	predicted_protein
+TRIREDRAFT_30478	EGR48934.1	507749	508819	+	predicted_protein
+TRIREDRAFT_60951	EGR49126.1	509318	511914	-	predicted_protein
+TRIREDRAFT_60887	EGR48935.1	518666	520626	+	predicted_protein
+TRIREDRAFT_77541	EGR49127.1	521514	523001	-	actin-like_protein
+TRIREDRAFT_60751	EGR49128.1	524121	526840	-	non-ribosomal_peptide_synthetase
+TRIREDRAFT_73344	EGR48936.1	528552	530659	+	hypothetical_protein
+TRIREDRAFT_60638	EGR48937.1	530988	531981	+	predicted_protein
+TRIREDRAFT_38749	EGR49129.1	532157	533570	-	predicted_protein
+TRIREDRAFT_60890	EGR49130.1	534628	535797	-	predicted_protein
+TRIREDRAFT_60784	EGR49131.1	538811	540625	-	predicted_protein
+TRIREDRAFT_61354	EGR48938.1	546624	548112	+	predicted_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	TRIREDRAFT_60751	35	473	11.3426536534	9e-141	
+CHAFR746836_0015140.1	TRIREDRAFT_60784	50	553	98.4014209591	0.0	
+
+
+
+>>
+43. AFQF01003360.1_c1
+Source: Fusarium oxysporum Fo5176 contig03537, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 985
+
+Table of genes, locations, strands and annotations of subject cluster:
+FOXB_13434	EGU76016.1	33	380	-	hypothetical_protein
+FOXB_13435	EGU76017.1	2890	4309	+	hypothetical_protein
+FOXB_13436	EGU76018.1	4855	11114	+	hypothetical_protein
+FOXB_13437	EGU76019.1	11998	13311	-	hypothetical_protein
+FOXB_13438	EGU76020.1	13997	14725	-	hypothetical_protein
+FOXB_13439	EGU76021.1	15824	17449	+	hypothetical_protein
+FOXB_13440	EGU76022.1	18520	20670	-	hypothetical_protein
+FOXB_13441	EGU76023.1	22968	24390	+	hypothetical_protein
+FOXB_13442	EGU76024.1	25067	26270	-	hypothetical_protein
+FOXB_13443	EGU76025.1	27375	29040	-	hypothetical_protein
+FOXB_13444	EGU76026.1	30376	31795	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015130.1	FOXB_13436	34	665	15.6554998681	0.0	
+CHAFR746836_0015140.1	FOXB_13440	36	320	101.243339254	8e-99	
+
+
+
+>>
+44. AP007151.1_c4
+Source: Aspergillus oryzae RIB40 DNA, SC005.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 828
+
+Table of genes, locations, strands and annotations of subject cluster:
+AO090005000986	BAE55977.1	2637369	2639765	+	
+AO090005000987	BAE55978.1	2639969	2640978	-	
+AO090005000988	BAE55979.1	2645210	2646629	-	
+AO090005000990	BAE55980.1	2649249	2651789	+	
+AO090005000991	BAE55981.1	2652054	2655477	-	
+AO090005000992	BAE55982.1	2656174	2658204	-	
+AO090005000993	BAE55983.1	2658611	2663817	+	
+AO090005000994	BAE55984.1	2664957	2666241	+	
+AO090005000995	BAE55985.1	2666919	2668259	-	
+AO090005000996	BAE55986.1	2669395	2670193	+	
+AO090005000997	BAE55987.1	2670750	2671793	-	
+AO090005000998	BAE55988.1	2671972	2673332	-	
+AO090005000999	BAE55989.1	2673520	2674372	-	
+AO090005001000	BAE55990.1	2675712	2678690	+	
+AO090005001001	BAE55991.1	2678907	2682013	-	
+AO090005001002	BAE55992.1	2682667	2684409	+	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	AO090005000987	37	190	20.3434610304	2e-51	
+CHAFR746836_0015130.1	AO090005000993	32	638	17.1063044052	0.0	
+
+
+
+>>
+45. BX284762.1_c1
+Source: Neurospora crassa DNA linkage group II BAC contig B13B3.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 789
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAD70506.1	CAD70506.1	5038	6880	+	conserved_hypothetical_protein
+CAD70507.1	CAD70507.1	12653	15824	+	related_to_transcription_activator
+CAD70508.1	CAD70508.1	16797	17552	-	hypothetical_protein
+CAD70509.1	CAD70509.1	18460	24617	-	related_to_AM-toxin_synthetase_(AMT)
+CAD70510.1	CAD70510.1	26706	27567	+	conserved_hypothetical_protein
+CAD70511.1	CAD70511.1	29751	34054	+	related_to_multidrug_resistance_protein
+CAD70512.1	CAD70512.1	35448	35878	+	conserved_hypothetical_protein
+CAD70513.1	CAD70513.1	36412	37079	+	conserved_hypothetical_protein
+CAD70514.1	CAD70514.1	37392	39050	-	related_to_3-OXOADIPATE_ENOL-LACTONASE_I
+CAD70515.1	CAD70515.1	40491	44669	-	related_to_RNA-directed_RNA_polymerase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	CAD70511.1	31	129	19.6829590489	1e-28	
+CHAFR746836_0015130.1	CAD70509.1	34	660	15.6554998681	0.0	
+
+
+
+>>
+46. GL891305.1_c1
+Source: Neurospora tetrasperma FGSC 2508 unplaced genomic scaffold NEUTE1scaffold_4, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 785
+
+Table of genes, locations, strands and annotations of subject cluster:
+NEUTE1DRAFT_44696	EGO56117.1	327184	330355	+	hypothetical_protein
+NEUTE1DRAFT_110690	EGO56118.1	331803	332288	+	hypothetical_protein
+NEUTE1DRAFT_43904	EGO56119.1	334362	335027	-	hypothetical_protein
+NEUTE1DRAFT_138323	EGO56120.1	335516	335952	-	hypothetical_protein
+NEUTE1DRAFT_146887	EGO56121.1	337378	341677	-	hypothetical_protein
+NEUTE1DRAFT_83116	EGO56122.1	343996	344738	-	hypothetical_protein
+NEUTE1DRAFT_64441	EGO56123.1	346789	352931	+	hypothetical_protein
+NEUTE1DRAFT_138327	EGO56124.1	353740	354705	+	hypothetical_protein
+NEUTE1DRAFT_130190	EGO56125.1	355043	356701	-	hypothetical_protein
+NEUTE1DRAFT_64449	EGO56126.1	357408	361583	-	hypothetical_protein
+NEUTE1DRAFT_117220	EGO56127.1	363694	364970	+	hypothetical_protein
+NEUTE1DRAFT_83131	EGO56128.1	369026	369993	+	hypothetical_protein
+NEUTE1DRAFT_146894	EGO56129.1	371076	371849	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	NEUTE1DRAFT_146887	32	128	19.0224570674	3e-28	
+CHAFR746836_0015130.1	NEUTE1DRAFT_64441	33	657	15.7214455289	0.0	
+
+
+
+>>
+47. ABDG02000023.1_c1
+Source: Trichoderma atroviride IMI 206040 TRIATcontig_23, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 751
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIATDRAFT_152710	EHK45568.1	72003	75791	+	hypothetical_protein
+TRIATDRAFT_219075	EHK45569.1	76226	77385	-	peroxisomal_membrane_anchor_domain-containing
+TRIATDRAFT_219075	EHK45570.1	76226	77385	-	peroxisomal_membrane_anchor_domain-containing
+TRIATDRAFT_41009	EHK45571.1	79369	80923	+	hypothetical_protein
+TRIATDRAFT_307602	EHK45572.1	82494	83093	+	hypothetical_protein
+TRIATDRAFT_140190	EHK45573.1	89545	92368	+	hypothetical_protein
+TRIATDRAFT_39887	EHK46196.1	92981	98380	-	hypothetical_protein
+TRIATDRAFT_152707	EHK45574.1	100256	102046	+	long-chain-fatty-acid--CoA_ligase
+TRIATDRAFT_273644	EHK45575.1	102215	103662	-	hypothetical_protein
+TRIATDRAFT_219088	EHK45576.1	105838	107766	+	hypothetical_protein
+TRIATDRAFT_80347	EHK45577.1	108190	109687	-	hypothetical_protein
+TRIATDRAFT_161084	EHK45578.1	111504	115404	+	hypothetical_protein
+TRIATDRAFT_219095	EHK46218.1	116571	119313	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TRIATDRAFT_161084	32	120	18.8903566711	7e-26	
+CHAFR746836_0015130.1	TRIATDRAFT_39887	35	631	14.6795040886	0.0	
+
+
+
+>>
+48. GL985101.1_c1
+Source: Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaffold_46, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 737
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIREDRAFT_70998	EGR44120.1	4980	6765	+	amino_acid_transporter
+TRIREDRAFT_70967	EGR44129.1	7264	8202	-	predicted_protein
+TRIREDRAFT_70984	EGR44121.1	9889	11714	+	predicted_protein
+TRIREDRAFT_70991	EGR44122.1	15898	16608	+	predicted_protein
+TRIREDRAFT_70972	EGR44123.1	17130	18983	+	predicted_protein
+TRIREDRAFT_70994	EGR44130.1	19837	21749	-	predicted_protein
+TRIREDRAFT_82626	EGR44131.1	23176	25187	-	predicted_protein
+TRIREDRAFT_71005	EGR44132.1	26764	32532	-	non-ribosomal_peptide_synthetase
+TRIREDRAFT_112590	EGR44124.1	34241	35360	+	predicted_protein
+TRIREDRAFT_71010	EGR44133.1	35454	39483	-	predicted_protein
+TRIREDRAFT_82628	EGR44134.1	40455	41851	-	predicted_protein
+TRIREDRAFT_6085	EGR44125.1	42242	43113	+	predicted_protein
+TRIREDRAFT_71008	EGR44126.1	44744	46657	+	predicted_protein
+TRIREDRAFT_70988	EGR44135.1	46945	48694	-	predicted_protein
+TRIREDRAFT_112596	EGR44136.1	50025	51200	-	predicted_protein
+TRIREDRAFT_70996	EGR44127.1	52233	53102	+	predicted_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015120.1	TRIREDRAFT_71010	31	107	18.6261558785	7e-22	
+CHAFR746836_0015130.1	TRIREDRAFT_71005	33	630	14.5739910314	0.0	
+
+
+
+>>
+49. GL890999.1_c3
+Source: Neurospora tetrasperma FGSC 2509 unplaced genomic scaffold NEUTE2scaffold_1, whole genome shotgun sequence.
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1192
+
+Table of genes, locations, strands and annotations of subject cluster:
+NEUTE2DRAFT_98562	EGZ76585.1	1859695	1860918	+	Thioesterase/thiol_ester_dehydrase-isomerase
+NEUTE2DRAFT_142526	EGZ76586.1	1862067	1862417	+	hypothetical_protein
+NEUTE2DRAFT_153468	EGZ76587.1	1863351	1864536	+	hypothetical_protein
+NEUTE2DRAFT_98569	EGZ76588.1	1865596	1867920	-	cryptochrome
+NEUTE2DRAFT_123230	EGZ76589.1	1868208	1869267	+	hypothetical_protein
+NEUTE2DRAFT_77189	EGZ76590.1	1875425	1876417	-	hypothetical_protein
+NEUTE2DRAFT_123232	EGZ76591.1	1878799	1878984	-	hypothetical_protein
+NEUTE2DRAFT_51737	EGZ76592.1	1879055	1880991	+	geranylgeranyl-diphosphate
+NEUTE2DRAFT_153473	EGZ76593.1	1883326	1884380	+	hypothetical_protein
+NEUTE2DRAFT_54635	EGZ76594.1	1884386	1884562	+	hypothetical_protein
+NEUTE2DRAFT_77200	EGZ76595.1	1885564	1887687	-	kinase-like_protein
+NEUTE2DRAFT_146396	EGZ76596.1	1892595	1894486	+	auxin_efflux_carrier
+NEUTE2DRAFT_161491	EGZ76597.1	1895099	1895975	-	hypothetical_protein
+NEUTE2DRAFT_54120	EGZ76598.1	1897144	1899497	+	methylcrotonoyl-CoA_carboxylase_alpha_chain
+NEUTE2DRAFT_146399	EGZ76599.1	1899776	1901110	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015100.1	NEUTE2DRAFT_146396	61	651	102.460456942	0.0	
+CHAFR746836_0015110.1	NEUTE2DRAFT_77200	48	541	107.750759878	0.0	
+
+
+
+>>
+50. GL891382.1_c3
+Source: Neurospora tetrasperma FGSC 2508 unplaced genomic scaffold NEUTE1scaffold_81, whole genome shotgun sequence.
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1181
+
+Table of genes, locations, strands and annotations of subject cluster:
+NEUTE1DRAFT_150833	EGO53554.1	8793749	8797778	-	hypothetical_protein
+NEUTE1DRAFT_133908	EGO53555.1	8799435	8800659	+	hypothetical_protein
+NEUTE1DRAFT_119230	EGO53556.1	8801810	8802160	+	hypothetical_protein
+NEUTE1DRAFT_74258	EGO53557.1	8803417	8804277	+	hypothetical_protein
+NEUTE1DRAFT_92963	EGO53558.1	8805344	8807668	-	hypothetical_protein
+NEUTE1DRAFT_106460	EGO53559.1	8808061	8809028	+	hypothetical_protein
+NEUTE1DRAFT_74264	EGO53560.1	8815154	8816146	-	hypothetical_protein
+NEUTE1DRAFT_126839	EGO53561.1	8817518	8817703	-	hypothetical_protein
+NEUTE1DRAFT_53791	EGO53562.1	8817774	8819710	+	geranylgeranyl-diphosphate
+NEUTE1DRAFT_92972	EGO53563.1	8822044	8823116	+	hypothetical_protein
+NEUTE1DRAFT_92974	EGO53564.1	8824379	8826502	-	hypothetical_protein
+NEUTE1DRAFT_92977	EGO53565.1	8831403	8833295	+	hypothetical_protein
+NEUTE1DRAFT_74278	EGO53566.1	8833906	8834801	-	hypothetical_protein
+NEUTE1DRAFT_150843	EGO53567.1	8836140	8838493	+	hypothetical_protein
+NEUTE1DRAFT_150844	EGO53568.1	8838769	8840103	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0015100.1	NEUTE1DRAFT_92977	61	653	102.460456942	0.0	
+CHAFR746836_0015110.1	NEUTE1DRAFT_92974	61	528	67.0212765957	2e-177	
+

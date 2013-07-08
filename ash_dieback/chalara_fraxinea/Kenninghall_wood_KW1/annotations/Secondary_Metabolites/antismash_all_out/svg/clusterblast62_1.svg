@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 1512 - 2448" locus_tag="CHAFR746836_0050080.1" class="clusterblast-orf" points="108,35 113,30 124,30 124,40 113,40 108,35 " id="clusterblast-1_q62_1_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 2882 - 4133" locus_tag="CHAFR746836_0050090.1" class="clusterblast-orf" points="131,35 136,30 153,30 153,40 136,40 131,35 " id="clusterblast-1_q62_1_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5123 - 5570" locus_tag="CHAFR746836_0050100.1" class="clusterblast-orf" points="170,35 175,30 178,30 178,40 175,40 170,35 " id="clusterblast-1_q62_1_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 8355 - 9336" locus_tag="CHAFR746836_0050110.1" class="clusterblast-orf" points="226,35 231,30 243,30 243,40 231,40 226,35 " id="clusterblast-1_q62_1_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 12324 - 14874" locus_tag="CHAFR746836_0050120.1" class="clusterblast-orf" points="295,35 300,30 339,30 339,40 300,40 295,35 " id="clusterblast-1_q62_1_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 15980 - 17688" locus_tag="CHAFR746836_0050130.1" class="clusterblast-orf" points="358,35 363,30 388,30 388,40 363,40 358,35 " id="clusterblast-1_q62_1_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 19826 - 23199" locus_tag="CHAFR746836_0050140.1" class="clusterblast-orf" points="425,40 478,40 483,35 478,30 425,30 425,40 " id="clusterblast-1_q62_1_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 28885 - 30583" locus_tag="CHAFR746836_0050150.1" class="clusterblast-orf" points="581,40 606,40 611,35 606,30 581,30 581,40 " id="clusterblast-1_q62_1_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 33511 - 34482" locus_tag="CHAFR746836_0050160.1" class="clusterblast-orf" points="662,40 673,40 678,35 673,30 662,30 662,40 " id="clusterblast-1_q62_1_8"  />
+</g>
+<g class="clusterblast-cluster" description="Glomerella graminicola M1.001 genomic scaffold supercont1.58..." label="GG697388.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GG697388.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Glomerella graminicola M1.001 genomic scaffold supercont1.58...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 7938 - 8291" locus_tag="GLRG_10233" id="clusterblast-1_h62_1_0" points="10,90 11,90 16,85 11,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="dihydropyrimidinase[br]Location: 17675 - 19351" locus_tag="GLRG_10234" id="clusterblast-1_h62_1_1" points="178,85 183,80 207,80 207,90 183,90 178,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="carbon-nitrogen_hydrolase[br]Location: 19957 - 21768" locus_tag="GLRG_10235" id="clusterblast-1_h62_1_2" points="218,90 244,90 249,85 244,80 218,80 218,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="fungal_specific_transcription_factor[br]Location: 22055 - 24172" locus_tag="GLRG_10236" id="clusterblast-1_h62_1_3" points="254,90 286,90 291,85 286,80 254,80 254,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="NCS1_nucleoside_transporter[br]Location: 24302 - 26092&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0050130.1&lt;/b&gt;&lt;br&gt;Percentage identity: 64%&lt;br&gt;Percentage coverage: 99%&lt;br&gt;BLAST bit score: 716&lt;br&gt;E-value: 0.0" locus_tag="GLRG_10237" id="clusterblast-1_h62_1_4" points="293,85 298,80 324,80 324,90 298,90 293,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="male_sterility_protein[br]Location: 26654 - 30122&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0050140.1&lt;/b&gt;&lt;br&gt;Percentage identity: 39%&lt;br&gt;Percentage coverage: 86%&lt;br&gt;BLAST bit score: 587&lt;br&gt;E-value: 0.0" locus_tag="GLRG_10238" id="clusterblast-1_h62_1_5" points="334,90 389,90 394,85 389,80 334,80 334,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="short-chain_dehydrogenase/reductase_SDR[br]Location: 30623 - 31387" locus_tag="GLRG_10239" id="clusterblast-1_h62_1_6" points="402,90 410,90 415,85 410,80 402,80 402,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 32650 - 33933" locus_tag="GLRG_10240" id="clusterblast-1_h62_1_7" points="437,90 455,90 460,85 455,80 437,80 437,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytidylyltransferase[br]Location: 35759 - 36808" locus_tag="GLRG_10241" id="clusterblast-1_h62_1_8" points="491,85 496,80 509,80 509,90 496,90 491,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="glycosyl_transferase_group_1[br]Location: 37150 - 38672" locus_tag="GLRG_10242" id="clusterblast-1_h62_1_9" points="515,85 520,80 542,80 542,90 520,90 515,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="enoyl-CoA_hydratase/isomerase[br]Location: 39598 - 40428" locus_tag="GLRG_10243" id="clusterblast-1_h62_1_10" points="558,90 567,90 572,85 567,80 558,80 558,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="TBC_domain-containing_protein[br]Location: 40809 - 44027" locus_tag="GLRG_10244" id="clusterblast-1_h62_1_11" points="579,85 584,80 634,80 634,90 584,90 579,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="WD_repeat_domain-containing_protein[br]Location: 46755 - 52295" locus_tag="GLRG_10245" id="clusterblast-1_h62_1_12" points="682,85 687,80 778,80 778,90 687,90 682,85 " class="clusterblast-orf"  />
+</g>
+</svg>

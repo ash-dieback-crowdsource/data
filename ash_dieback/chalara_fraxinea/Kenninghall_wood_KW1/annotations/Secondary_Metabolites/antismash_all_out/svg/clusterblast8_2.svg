@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7069 - 8172" locus_tag="CHAFR746836_0067810.1" class="clusterblast-orf" points="10,40 54,40 59,35 54,30 10,30 10,40 " id="clusterblast-1_q8_2_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 9727 - 13318" locus_tag="CHAFR746836_0067820.1" class="clusterblast-orf" points="129,35 134,30 289,30 289,40 134,40 129,35 " id="clusterblast-1_q8_2_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 14449 - 16282" locus_tag="CHAFR746836_0067830.1" class="clusterblast-orf" points="340,40 417,40 422,35 417,30 340,30 340,40 " id="clusterblast-1_q8_2_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 18109 - 19056" locus_tag="CHAFR746836_0067840.1" class="clusterblast-orf" points="504,35 509,30 546,30 546,40 509,40 504,35 " id="clusterblast-1_q8_2_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 20406 - 24215" locus_tag="CHAFR746836_0067850.1" class="clusterblast-orf" points="607,35 612,30 778,30 778,40 612,40 607,35 " id="clusterblast-1_q8_2_4"  />
+</g>
+<g class="clusterblast-cluster" description="Colletotrichum higginsianum IMI 349063 WGS project CACQ0..." label="CACQ02005913.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+CACQ02005913.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Colletotrichum higginsianum IMI 349063 WGS project CACQ0...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 11209 - 11567" locus_tag="CH063_03018" id="clusterblast-1_h8_2_0" points="137,85 142,80 153,80 153,90 142,90 137,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="YggS_family_pyridoxal_phosphate_enzyme[br]Location: 10265 - 11198" locus_tag="CH063_03017" id="clusterblast-1_h8_2_1" points="153,85 158,80 195,80 195,90 158,90 153,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="L-aminoadipate-semialdehyde_dehydrogenase_large[br]Location: 6018 - 9875&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067820.1&lt;/b&gt;&lt;br&gt;Percentage identity: 72%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 1765&lt;br&gt;E-value: 0.0" locus_tag="CH063_03016" id="clusterblast-1_h8_2_2" points="212,85 217,80 385,80 385,90 217,90 212,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hypothetical_protein[br]Location: 1289 - 3160&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067830.1&lt;/b&gt;&lt;br&gt;Percentage identity: 57%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 706&lt;br&gt;E-value: 0.0" locus_tag="CH063_03015" id="clusterblast-1_h8_2_3" points="513,90 592,90 597,85 592,80 513,80 513,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="hypothetical_protein[br]Location: 99 - 578&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067840.1&lt;/b&gt;&lt;br&gt;Percentage identity: 42%&lt;br&gt;Percentage coverage: 59%&lt;br&gt;BLAST bit score: 121&lt;br&gt;E-value: 2e-32" locus_tag="CH063_03014" id="clusterblast-1_h8_2_4" points="629,85 634,80 650,80 650,90 634,90 629,85 " class="clusterblast-orf"  />
+</g>
+</svg>

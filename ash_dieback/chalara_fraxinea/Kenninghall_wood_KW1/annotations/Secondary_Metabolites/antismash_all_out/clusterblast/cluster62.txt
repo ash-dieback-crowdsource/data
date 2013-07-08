@@ -1,0 +1,101 @@
+ClusterBlast scores for scaffold_981.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0050080.1	1512	2448	-	unannotated orf	
+CHAFR746836_0050090.1	2882	4133	-	unannotated orf	
+CHAFR746836_0050100.1	5123	5570	-	unannotated orf	
+CHAFR746836_0050110.1	8355	9336	-	unannotated orf	
+CHAFR746836_0050120.1	12324	14874	-	unannotated orf	
+CHAFR746836_0050130.1	15980	17688	-	unannotated orf	
+CHAFR746836_0050140.1	19826	23199	+	unannotated orf	
+CHAFR746836_0050150.1	28885	30583	+	unannotated orf	
+CHAFR746836_0050160.1	33511	34482	+	unannotated orf	
+
+
+Significant hits: 
+1. GG697388.1_c1	Glomerella graminicola M1.001 genomic scaffold supercont1.58, whole genome shotgun sequence.
+2. CM001206.1_c1	Mycosphaerella graminicola IPO323 chromosome 11, whole genome shotgun sequence.
+3. FQ790293.1_c2	Botryotinia fuckeliana isolate T4 SuperContig_277_1 genomic supercontig, whole genome.
+
+
+Details:
+
+>>
+1. GG697388.1_c1
+Source: Glomerella graminicola M1.001 genomic scaffold supercont1.58, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1303
+
+Table of genes, locations, strands and annotations of subject cluster:
+GLRG_10233	EFQ35089.1	7938	8291	+	hypothetical_protein
+GLRG_10234	EFQ35090.1	17675	19351	-	dihydropyrimidinase
+GLRG_10235	EFQ35091.1	19957	21768	+	carbon-nitrogen_hydrolase
+GLRG_10236	EFQ35092.1	22055	24172	+	fungal_specific_transcription_factor
+GLRG_10237	EFQ35093.1	24302	26092	-	NCS1_nucleoside_transporter
+GLRG_10238	EFQ35094.1	26654	30122	+	male_sterility_protein
+GLRG_10239	EFQ35095.1	30623	31387	+	short-chain_dehydrogenase/reductase_SDR
+GLRG_10240	EFQ35096.1	32650	33933	+	hypothetical_protein
+GLRG_10241	EFQ35097.1	35759	36808	-	cytidylyltransferase
+GLRG_10242	EFQ35098.1	37150	38672	-	glycosyl_transferase_group_1
+GLRG_10243	EFQ35099.1	39598	40428	+	enoyl-CoA_hydratase/isomerase
+GLRG_10244	EFQ35100.1	40809	44027	-	TBC_domain-containing_protein
+GLRG_10245	EFQ35101.1	46755	52295	-	WD_repeat_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0050130.1	GLRG_10237	64	716	99.4402985075	0.0	
+CHAFR746836_0050140.1	GLRG_10238	39	587	86.3868986694	0.0	
+
+
+
+>>
+2. CM001206.1_c1
+Source: Mycosphaerella graminicola IPO323 chromosome 11, whole genome shotgun sequence.
+Type: other
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 643
+
+Table of genes, locations, strands and annotations of subject cluster:
+MYCGRDRAFT_96438	EGP83230.1	12765	13813	+	hypothetical_protein
+MYCGRDRAFT_96439	EGP83717.1	14422	16654	-	hypothetical_protein
+MYCGRDRAFT_49811	EGP83231.1	17766	18792	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0050130.1	MYCGRDRAFT_49811	73	494	59.8880597015	3e-171	
+CHAFR746836_0050140.1	MYCGRDRAFT_96439	35	149	26.6120777892	1e-36	
+
+
+
+>>
+3. FQ790293.1_c2
+Source: Botryotinia fuckeliana isolate T4 SuperContig_277_1 genomic supercontig, whole genome.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 885
+
+Table of genes, locations, strands and annotations of subject cluster:
+CCD48590.1	CCD48590.1	765821	766000	+	predicted_protein
+CCD48591.1	CCD48591.1	766398	767655	+	similar_to_oxidoreductase_domain_containing
+CCD48592.1	CCD48592.1	770587	770850	+	predicted_protein
+CCD48593.1	CCD48593.1	771405	771857	-	hypothetical_protein
+CCD48594.1	CCD48594.1	772663	774344	+	hypothetical_protein
+CCD48595.1	CCD48595.1	775288	775727	-	hypothetical_protein
+CCD48596.1	CCD48596.1	776178	777069	+	similar_to_50S_ribosomal_protein_L27
+CCD48597.1	CCD48597.1	778016	781943	-	similar_to_SH3_domain-containing_protein
+CCD48598.1	CCD48598.1	782456	784430	+	similar_to_mst3-like_protein_kinase
+CCD48599.1	CCD48599.1	784863	785075	-	predicted_protein
+CCD48600.1	CCD48600.1	785710	792395	-	BcNRPS4,_nonribosomal_peptide_synthetase,
+CCD48601.1	CCD48601.1	792452	794440	-	BcNRPS4,_nonribosomal_peptide_synthetase,
+CCD48602.1	CCD48602.1	795175	795687	-	predicted_protein
+CCD48603.1	CCD48603.1	796417	798328	+	hypothetical_protein
+CCD48604.1	CCD48604.1	798648	800295	+	hypothetical_protein
+CCD48605.1	CCD48605.1	801626	802855	-	hypothetical_protein
+CCD48606.1	CCD48606.1	804830	805210	-	predicted_protein
+CCD48607.1	CCD48607.1	810634	813366	-	similar_to_carnitine_acetyl_transferase
+CCD48608.1	CCD48608.1	813792	814070	+	hypothetical_protein
+CCD48609.1	CCD48609.1	814423	814662	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0050090.1	CCD48591.1	61	466	101.259445844	4e-161	
+CHAFR746836_0050150.1	CCD48594.1	50	419	99.2452830189	2e-139	
+

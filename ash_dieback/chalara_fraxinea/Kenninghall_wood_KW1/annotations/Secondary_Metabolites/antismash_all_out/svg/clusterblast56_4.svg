@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 673 - 3787" locus_tag="CHAFR746836_0047790.1" class="clusterblast-orf" points="10,40 48,40 53,35 48,30 10,30 10,40 " id="clusterblast-1_q56_4_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="unannotated orf[br]Location: 5163 - 6824" locus_tag="CHAFR746836_0047800.1" class="clusterblast-orf" points="73,35 78,30 96,30 96,40 78,40 73,35 " id="clusterblast-1_q56_4_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,63,190); " description="unannotated orf[br]Location: 7821 - 10682" locus_tag="CHAFR746836_0047810.1" class="clusterblast-orf" points="110,40 145,40 150,35 145,30 110,30 110,40 " id="clusterblast-1_q56_4_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 13855 - 14662" locus_tag="CHAFR746836_0047820.1" class="clusterblast-orf" points="195,40 201,40 206,35 201,30 195,30 195,40 " id="clusterblast-1_q56_4_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,190,63); " description="unannotated orf[br]Location: 16209 - 17379" locus_tag="CHAFR746836_0047830.1" class="clusterblast-orf" points="228,40 239,40 244,35 239,30 228,30 228,40 " id="clusterblast-1_q56_4_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 19067 - 19519" locus_tag="CHAFR746836_0047840.1" class="clusterblast-orf" points="268,40 269,40 274,35 269,30 268,30 268,40 " id="clusterblast-1_q56_4_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 25063 - 26142" locus_tag="CHAFR746836_0047850.1" class="clusterblast-orf" points="352,40 362,40 367,35 362,30 352,30 352,40 " id="clusterblast-1_q56_4_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,190); " description="unannotated orf[br]Location: 27072 - 33543" locus_tag="CHAFR746836_0047860.1" class="clusterblast-orf" points="380,35 385,30 471,30 471,40 385,40 380,35 " id="clusterblast-1_q56_4_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,190,63); " description="unannotated orf[br]Location: 35240 - 36153" locus_tag="CHAFR746836_0047870.1" class="clusterblast-orf" points="495,40 503,40 508,35 503,30 495,30 495,40 " id="clusterblast-1_q56_4_8"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,190,190); " description="unannotated orf[br]Location: 36833 - 38621" locus_tag="CHAFR746836_0047880.1" class="clusterblast-orf" points="517,35 522,30 542,30 542,40 522,40 517,35 " id="clusterblast-1_q56_4_9"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 39860 - 40772" locus_tag="CHAFR746836_0047890.1" class="clusterblast-orf" points="560,35 565,30 572,30 572,40 565,40 560,35 " id="clusterblast-1_q56_4_10"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 41162 - 41504" locus_tag="CHAFR746836_0047900.1" class="clusterblast-orf" points="578,40 578,40 583,35 578,30 578,30 578,40 " id="clusterblast-1_q56_4_11"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 47709 - 49836" locus_tag="CHAFR746836_0047910.1" class="clusterblast-orf" points="670,40 695,40 700,35 695,30 670,30 670,40 " id="clusterblast-1_q56_4_12"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 53801 - 55386" locus_tag="CHAFR746836_0047920.1" class="clusterblast-orf" points="755,35 760,30 778,30 778,40 760,40 755,35 " id="clusterblast-1_q56_4_13"  />
+</g>
+<g class="clusterblast-cluster" description="Fusarium oxysporum Fo5176 contig03839, whole genome shot..." label="AFQF01003644.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+AFQF01003644.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Fusarium oxysporum Fo5176 contig03839, whole genome shot...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,190,63); " description="hypothetical_protein[br]Location: 716 - 2163&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0047830.1&lt;/b&gt;&lt;br&gt;Percentage identity: 31%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 141&lt;br&gt;E-value: 2e-36" locus_tag="FOXB_14742" id="clusterblast-1_h56_4_0" points="136,90 151,90 156,85 151,80 136,80 136,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 2331 - 3883" locus_tag="FOXB_14743" id="clusterblast-1_h56_4_1" points="158,85 163,80 180,80 180,90 163,90 158,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5114 - 5764" locus_tag="FOXB_14744" id="clusterblast-1_h56_4_2" points="197,85 202,80 206,80 206,90 202,90 197,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="hypothetical_protein[br]Location: 6771 - 7821&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0047800.1&lt;/b&gt;&lt;br&gt;Percentage identity: 39%&lt;br&gt;Percentage coverage: 63%&lt;br&gt;BLAST bit score: 213&lt;br&gt;E-value: 5e-63" locus_tag="FOXB_14745" id="clusterblast-1_h56_4_3" points="220,90 230,90 235,85 230,80 220,80 220,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 8066 - 10203" locus_tag="FOXB_14746" id="clusterblast-1_h56_4_4" points="239,85 244,80 269,80 269,90 244,90 239,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 12829 - 13795" locus_tag="FOXB_14747" id="clusterblast-1_h56_4_5" points="306,90 314,90 319,85 314,80 306,80 306,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 13882 - 17203" locus_tag="FOXB_14748" id="clusterblast-1_h56_4_6" points="320,85 325,80 367,80 367,90 325,90 320,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 17992 - 20624" locus_tag="FOXB_14749" id="clusterblast-1_h56_4_7" points="378,90 410,90 415,85 410,80 378,80 378,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 20684 - 22902" locus_tag="FOXB_14750" id="clusterblast-1_h56_4_8" points="416,85 421,80 447,80 447,90 421,90 416,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 23625 - 24132" locus_tag="FOXB_14751" id="clusterblast-1_h56_4_9" points="457,90 459,90 464,85 459,80 457,80 457,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 24248 - 31550" locus_tag="FOXB_14752" id="clusterblast-1_h56_4_10" points="466,85 471,80 568,80 568,90 471,90 466,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 32234 - 33263" locus_tag="FOXB_14753" id="clusterblast-1_h56_4_11" points="578,90 587,90 592,85 587,80 578,80 578,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 33654 - 37393" locus_tag="FOXB_14754" id="clusterblast-1_h56_4_12" points="598,90 645,90 650,85 645,80 598,80 598,90 " class="clusterblast-orf"  />
+</g>
+</svg>

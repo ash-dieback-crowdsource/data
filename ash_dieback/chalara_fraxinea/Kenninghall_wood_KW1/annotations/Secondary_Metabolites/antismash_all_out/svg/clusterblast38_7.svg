@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 1502 - 2717" locus_tag="CHAFR746836_0018730.1" class="clusterblast-orf" points="179,40 192,40 197,35 192,30 179,30 179,40 " id="clusterblast-1_q38_7_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5434 - 6658" locus_tag="CHAFR746836_0018740.1" class="clusterblast-orf" points="237,40 250,40 255,35 250,30 237,30 237,40 " id="clusterblast-1_q38_7_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="unannotated orf[br]Location: 8194 - 15527" locus_tag="CHAFR746836_0018750.1" class="clusterblast-orf" points="278,35 283,30 388,30 388,40 283,40 278,35 " id="clusterblast-1_q38_7_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,63,190); " description="unannotated orf[br]Location: 16107 - 17386" locus_tag="CHAFR746836_0018760.1" class="clusterblast-orf" points="396,40 411,40 416,35 411,30 396,30 396,40 " id="clusterblast-1_q38_7_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,190,63); " description="unannotated orf[br]Location: 18113 - 19107" locus_tag="CHAFR746836_0018770.1" class="clusterblast-orf" points="426,40 436,40 441,35 436,30 426,30 426,40 " id="clusterblast-1_q38_7_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 21941 - 23810" locus_tag="CHAFR746836_0018780.1" class="clusterblast-orf" points="483,40 506,40 511,35 506,30 483,30 483,40 " id="clusterblast-1_q38_7_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,190); " description="unannotated orf[br]Location: 25428 - 26120" locus_tag="CHAFR746836_0018790.1" class="clusterblast-orf" points="536,40 541,40 546,35 541,30 536,30 536,40 " id="clusterblast-1_q38_7_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,190,63); " description="unannotated orf[br]Location: 28320 - 30189" locus_tag="CHAFR746836_0018800.1" class="clusterblast-orf" points="579,35 584,30 607,30 607,40 584,40 579,35 " id="clusterblast-1_q38_7_7"  />
+</g>
+<g class="clusterblast-cluster" description="Mycosphaerella graminicola IPO323 chromosome 1, whole genome..." label="CM001196.1_c6"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+CM001196.1_c6</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Mycosphaerella graminicola IPO323 chromosome 1, whole genome...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5517163 - 5523886" locus_tag="MYCGRDRAFT_107731" id="clusterblast-1_h38_7_0" points="10,90 105,90 110,85 105,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5524934 - 5526679" locus_tag="MYCGRDRAFT_67467" id="clusterblast-1_h38_7_1" points="125,85 130,80 151,80 151,90 130,90 125,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5527062 - 5528290" locus_tag="MYCGRDRAFT_31918" id="clusterblast-1_h38_7_2" points="157,85 162,80 176,80 176,90 162,90 157,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5528745 - 5529767" locus_tag="MYCGRDRAFT_31902" id="clusterblast-1_h38_7_3" points="182,90 193,90 198,85 193,80 182,80 182,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5530156 - 5532204" locus_tag="MYCGRDRAFT_67469" id="clusterblast-1_h38_7_4" points="203,85 208,80 234,80 234,90 208,90 203,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5534979 - 5536861" locus_tag="MYCGRDRAFT_54399" id="clusterblast-1_h38_7_5" points="275,90 298,90 303,85 298,80 275,80 275,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,63,190); " description="hypothetical_protein[br]Location: 5537248 - 5538170&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0018760.1&lt;/b&gt;&lt;br&gt;Percentage identity: 36%&lt;br&gt;Percentage coverage: 42%&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 2e-08" locus_tag="MYCGRDRAFT_102936" id="clusterblast-1_h38_7_6" points="309,90 318,90 323,85 318,80 309,80 309,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="polyketide_synthase[br]Location: 5538546 - 5547675&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0018750.1&lt;/b&gt;&lt;br&gt;Percentage identity: 38%&lt;br&gt;Percentage coverage: 43%&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 0.0" locus_tag="MYCGRDRAFT_67477" id="clusterblast-1_h38_7_7" points="329,85 334,80 465,80 465,90 334,90 329,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5548686 - 5549776" locus_tag="MYCGRDRAFT_34531" id="clusterblast-1_h38_7_8" points="480,85 485,80 496,80 496,90 485,90 480,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_major_facilitator_superfamily[br]Location: 5550950 - 5552735" locus_tag="MYCGRDRAFT_34954" id="clusterblast-1_h38_7_9" points="514,85 519,80 540,80 540,90 519,90 514,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_P450_monooxygenase[br]Location: 5553510 - 5555121" locus_tag="MYCGRDRAFT_34247" id="clusterblast-1_h38_7_10" points="552,85 557,80 576,80 576,90 557,90 552,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5555852 - 5557017" locus_tag="MYCGRDRAFT_32934" id="clusterblast-1_h38_7_11" points="587,90 599,90 604,85 599,80 587,80 587,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5557765 - 5558697" locus_tag="MYCGRDRAFT_84279" id="clusterblast-1_h38_7_12" points="615,90 624,90 629,85 624,80 615,80 615,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5560208 - 5561206" locus_tag="MYCGRDRAFT_107737" id="clusterblast-1_h38_7_13" points="652,85 657,80 667,80 667,90 657,90 652,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5561697 - 5562953" locus_tag="MYCGRDRAFT_107738" id="clusterblast-1_h38_7_14" points="674,85 679,80 693,80 693,90 679,90 674,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5564070 - 5565988" locus_tag="MYCGRDRAFT_67482" id="clusterblast-1_h38_7_15" points="709,85 714,80 738,80 738,90 714,90 709,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5566984 - 5568630" locus_tag="MYCGRDRAFT_54413" id="clusterblast-1_h38_7_16" points="753,90 773,90 778,85 773,80 753,80 753,90 " class="clusterblast-orf"  />
+</g>
+</svg>

@@ -1,0 +1,17 @@
+\\
+CHAFR746836_0018750.1_AT1
+Substrate:	Score:
+Methoxymalonyl-CoA	65.6
+Methylmalonyl-CoA	65.3
+Malonyl-CoA	43.1
+Ethylmalonyl-CoA	27.7
+Propionyl-CoA	23.9
+Isobutyryl-CoA	22.2
+fatty_acid	11.8
+3-Methylbutyryl-CoA	11.1
+Benzoyl-_CoA	8.8
+trans-1,2-CPDA	8.3
+inactive	0.0
+CHC-CoA	0.0
+Acetyl-CoA	0.0
+2-Methylbutyryl-CoA	0.0

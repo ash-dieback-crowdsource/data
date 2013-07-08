@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="90" width="768.0" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -30 819.2 60"  >
+<g  >
+<line y1="60" x2="778.0" style="stroke:grey; stroke-width:2; " x1="10" y2="60"  />
+</g>
+<g id="a52_000"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="10,60 15,55 18,55 18,65 15,65 10,60 "  />
+</g>
+<g id="a52_001"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="243,60 248,55 377,55 377,65 248,65 243,60 "  />
+</g>
+<g id="a52_002"  >
+<polygon style="stroke:black; stroke-width:1; fill:#810E15; " points="483,65 591,65 596,60 591,55 483,55 483,65 "  />
+</g>
+<g id="a52_003"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="691,60 696,55 778,55 778,65 696,65 691,60 "  />
+</g>
+<g  >
+<line y1="0" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="0"  />
+</g>
+<g id="b52_000"  >
+<defs  >
+<linearGradient id="A_domain52_1"  >
+<stop stop-color="#56157F" stop-opacity="1" offset="0%"  />
+<stop stop-color="#BE81F7" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="A_line52_1"  >
+<stop stop-color="#BE81F7" stop-opacity="1" offset="0%"  />
+<stop stop-color="#56157F" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#A_line52_1); stroke-width:1; fill:url(#A_domain52_1); " rx="8" height="15" width="234.924471299" y="-8" x="33.2024169184"  />
+<text style="font-size:12px; font-family:MS Reference Sans Serif; font-weight:bold; " y="4" x="140.664652568" fill="#1B0A2A"  >
+A</text>
+</g>
+<g id="b52_001"  >
+<defs  >
+<linearGradient id="PCP_domain52_1"  >
+<stop stop-color="#084BC6" stop-opacity="1" offset="0%"  />
+<stop stop-color="#81BEF7" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="PCP_line52_1"  >
+<stop stop-color="#81BEF7" stop-opacity="1" offset="0%"  />
+<stop stop-color="#084BC6" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#PCP_line52_1); stroke-width:1; fill:url(#PCP_domain52_1); " rx="8" height="15" width="38.8640483384" y="-8" x="327.29305136"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="334.725075529" fill="#0A1B2A"  >
+PCP</text>
+</g>
+<g id="b52_002"  >
+<defs  >
+<linearGradient id="TE_domain52_1"  >
+<stop stop-color="#750072" stop-opacity="1" offset="0%"  />
+<stop stop-color="#F5A9F2" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="TE_line52_1"  >
+<stop stop-color="#F5A9F2" stop-opacity="1" offset="0%"  />
+<stop stop-color="#750072" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#TE_line52_1); stroke-width:1; fill:url(#TE_domain52_1); " rx="8" height="15" width="141.534743202" y="-8" x="390.519637462"  />
+<text style="font-size:12px; font-family:MS Reference Sans Serif; font-weight:bold; " y="4" x="451.287009063" fill="#2A0A29"  >
+TD</text>
+</g>
+<g id="b52_003"  >
+<defs  >
+<linearGradient id="KR_domain52_1"  >
+<stop stop-color="#089E4B" stop-opacity="1" offset="0%"  />
+<stop stop-color="#81F781" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="KR_line52_1"  >
+<stop stop-color="#81F781" stop-opacity="1" offset="0%"  />
+<stop stop-color="#089E4B" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#KR_line52_1); stroke-width:1; fill:url(#KR_domain52_1); " rx="8" height="15" width="102.090634441" y="-8" x="615.583081571"  />
+<text style="font-size:12px; font-family:MS Reference Sans Serif; font-weight:bold; " y="4" x="652.628398792" fill="#0A2A1B"  >
+KR</text>
+</g>
+<g id="b52_003"  >
+<defs  >
+<linearGradient id="KR_domain52_1"  >
+<stop stop-color="#089E4B" stop-opacity="1" offset="0%"  />
+<stop stop-color="#81F781" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="KR_line52_1"  >
+<stop stop-color="#81F781" stop-opacity="1" offset="0%"  />
+<stop stop-color="#089E4B" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#KR_line52_1); stroke-width:1; fill:url(#KR_domain52_1); " rx="8" height="15" width="102.090634441" y="-8" x="615.583081571"  />
+<text style="font-size:12px; font-family:MS Reference Sans Serif; font-weight:bold; " y="4" x="652.628398792" fill="#0A2A1B"  >
+KR</text>
+</g>
+</svg>

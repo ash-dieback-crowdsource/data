@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 41959 - 43540" locus_tag="CHAFR746836_0014170.1" class="clusterblast-orf" points="214,35 219,30 236,30 236,40 219,40 214,35 " id="clusterblast-1_q31_2_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 53187 - 67692" locus_tag="CHAFR746836_0014180.1" class="clusterblast-orf" points="370,40 568,40 573,35 568,30 370,30 370,40 " id="clusterblast-1_q31_2_1"  />
+</g>
+<g class="clusterblast-cluster" description="Trichoderma atroviride IMI 206040 TRIATcontig 24, whole ..." label="ABDG02000024.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+ABDG02000024.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Trichoderma atroviride IMI 206040 TRIATcontig 24, whole ...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 106124 - 107080" locus_tag="TRIATDRAFT_299605" id="clusterblast-1_h31_2_0" points="10,90 18,90 23,85 18,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Pap2-like_protein[br]Location: 107359 - 108443" locus_tag="TRIATDRAFT_88402" id="clusterblast-1_h31_2_1" points="27,85 32,80 42,80 42,90 32,90 27,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 108958 - 109861" locus_tag="TRIATDRAFT_88401" id="clusterblast-1_h31_2_2" points="49,85 54,80 62,80 62,90 54,90 49,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 110420 - 111685" locus_tag="TRIATDRAFT_299606" id="clusterblast-1_h31_2_3" points="70,90 82,90 87,85 82,80 70,80 70,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 112064 - 113776" locus_tag="TRIATDRAFT_220363" id="clusterblast-1_h31_2_4" points="93,90 111,90 116,85 111,80 93,80 93,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 113831 - 115469" locus_tag="TRIATDRAFT_283759" id="clusterblast-1_h31_2_5" points="117,85 122,80 140,80 140,90 122,90 117,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 116513 - 118503" locus_tag="TRIATDRAFT_139614" id="clusterblast-1_h31_2_6" points="155,85 160,80 183,80 183,90 160,90 155,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hypothetical_protein[br]Location: 121400 - 122970&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014170.1&lt;/b&gt;&lt;br&gt;Percentage identity: 45%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 377&lt;br&gt;E-value: 5e-124" locus_tag="TRIATDRAFT_37736" id="clusterblast-1_h31_2_7" points="223,85 228,80 245,80 245,90 228,90 223,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="non-ribosomal_peptide_synthetase[br]Location: 125645 - 140356&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014180.1&lt;/b&gt;&lt;br&gt;Percentage identity: 38%&lt;br&gt;Percentage coverage: 102%&lt;br&gt;BLAST bit score: 3061&lt;br&gt;E-value: 0.0" locus_tag="TRIATDRAFT_318290" id="clusterblast-1_h31_2_8" points="282,90 483,90 488,85 483,80 282,80 282,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 140896 - 142527" locus_tag="TRIATDRAFT_242375" id="clusterblast-1_h31_2_9" points="496,85 501,80 519,80 519,90 501,90 496,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 144406 - 146267" locus_tag="TRIATDRAFT_131933" id="clusterblast-1_h31_2_10" points="545,90 566,90 571,85 566,80 545,80 545,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 147842 - 150115" locus_tag="TRIATDRAFT_38612" id="clusterblast-1_h31_2_11" points="593,90 620,90 625,85 620,80 593,80 593,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 154823 - 156327" locus_tag="TRIATDRAFT_152123" id="clusterblast-1_h31_2_12" points="690,85 695,80 711,80 711,90 695,90 690,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 157257 - 158402" locus_tag="TRIATDRAFT_38182" id="clusterblast-1_h31_2_13" points="724,85 729,80 740,80 740,90 729,90 724,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 160080 - 161050" locus_tag="TRIATDRAFT_256937" id="clusterblast-1_h31_2_14" points="764,85 769,80 778,80 778,90 769,90 764,85 " class="clusterblast-orf"  />
+</g>
+</svg>

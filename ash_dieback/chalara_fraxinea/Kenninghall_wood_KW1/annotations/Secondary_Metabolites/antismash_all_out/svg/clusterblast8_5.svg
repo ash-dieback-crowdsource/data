@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7069 - 8172" locus_tag="CHAFR746836_0067810.1" class="clusterblast-orf" points="245,40 259,40 264,35 259,30 245,30 245,40 " id="clusterblast-1_q8_5_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 9727 - 13318" locus_tag="CHAFR746836_0067820.1" class="clusterblast-orf" points="291,35 296,30 353,30 353,40 296,40 291,35 " id="clusterblast-1_q8_5_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 14449 - 16282" locus_tag="CHAFR746836_0067830.1" class="clusterblast-orf" points="373,40 400,40 405,35 400,30 373,30 373,40 " id="clusterblast-1_q8_5_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 18109 - 19056" locus_tag="CHAFR746836_0067840.1" class="clusterblast-orf" points="436,35 441,30 453,30 453,40 441,40 436,35 " id="clusterblast-1_q8_5_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 20406 - 24215" locus_tag="CHAFR746836_0067850.1" class="clusterblast-orf" points="476,35 481,30 542,30 542,40 481,40 476,35 " id="clusterblast-1_q8_5_4"  />
+</g>
+<g class="clusterblast-cluster" description="Aspergillus kawachii IFO 4308 DNA, contig: scaffold00002, wh..." label="DF126448.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+DF126448.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Aspergillus kawachii IFO 4308 DNA, contig: scaffold00002, wh...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="proteasome_activator_subunit_4[br]Location: 1318636 - 1324652" locus_tag="AKAW_01054" id="clusterblast-1_h8_5_0" points="10,85 15,80 114,80 114,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="DUF409_domain_protein[br]Location: 1325492 - 1327023" locus_tag="AKAW_01055" id="clusterblast-1_h8_5_1" points="129,85 134,80 155,80 155,90 134,90 129,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="similar_to_An04g05360[br]Location: 1331205 - 1332965" locus_tag="AKAW_01056" id="clusterblast-1_h8_5_2" points="228,90 253,90 258,85 253,80 228,80 228,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="aldo-keto_reductase[br]Location: 1333885 - 1335087" locus_tag="AKAW_01057" id="clusterblast-1_h8_5_3" points="274,85 279,80 295,80 295,90 279,90 274,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="similar_to_An04g05410[br]Location: 1337718 - 1338414" locus_tag="AKAW_01058" id="clusterblast-1_h8_5_4" points="341,90 348,90 353,85 348,80 341,80 341,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="L-aminoadipate-semialdehyde_dehydrogenase_large[br]Location: 1339174 - 1343637&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067820.1&lt;/b&gt;&lt;br&gt;Percentage identity: 66%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 1619&lt;br&gt;E-value: 0.0" locus_tag="AKAW_01059" id="clusterblast-1_h8_5_5" points="366,85 371,80 444,80 444,90 371,90 366,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="similar_to_An04g05430[br]Location: 1344507 - 1346399&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067830.1&lt;/b&gt;&lt;br&gt;Percentage identity: 42%&lt;br&gt;Percentage coverage: 97%&lt;br&gt;BLAST bit score: 438&lt;br&gt;E-value: 2e-144" locus_tag="AKAW_01060" id="clusterblast-1_h8_5_6" points="459,90 487,90 492,85 487,80 459,80 459,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="xanthine_dehydrogenase[br]Location: 1347089 - 1351316" locus_tag="AKAW_01061" id="clusterblast-1_h8_5_7" points="504,90 572,90 577,85 572,80 504,80 504,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="plasma_membrane_fusion_protein_Prm1[br]Location: 1351637 - 1353856" locus_tag="AKAW_01062" id="clusterblast-1_h8_5_8" points="583,85 588,80 621,80 621,90 588,90 583,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="similar_to_An04g05480[br]Location: 1355954 - 1358183" locus_tag="AKAW_01063" id="clusterblast-1_h8_5_9" points="658,90 691,90 696,85 691,80 658,80 658,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="kynurenine_aminotransferase[br]Location: 1358677 - 1360515" locus_tag="AKAW_01064" id="clusterblast-1_h8_5_10" points="705,85 710,80 737,80 737,90 710,90 705,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="AAA_family_ATPase[br]Location: 1361256 - 1362851" locus_tag="AKAW_01065" id="clusterblast-1_h8_5_11" points="750,90 773,90 778,85 773,80 750,80 750,90 " class="clusterblast-orf"  />
+</g>
+</svg>

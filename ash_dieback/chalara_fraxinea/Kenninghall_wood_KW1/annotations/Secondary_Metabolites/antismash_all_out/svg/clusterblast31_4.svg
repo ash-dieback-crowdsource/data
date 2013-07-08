@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 41959 - 43540" locus_tag="CHAFR746836_0014170.1" class="clusterblast-orf" points="217,35 222,30 238,30 238,40 222,40 217,35 " id="clusterblast-1_q31_4_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 53187 - 67692" locus_tag="CHAFR746836_0014180.1" class="clusterblast-orf" points="371,40 565,40 570,35 565,30 371,30 371,40 " id="clusterblast-1_q31_4_1"  />
+</g>
+<g class="clusterblast-cluster" description="Neurospora tetrasperma FGSC 2508 unplaced genomic scaffold N..." label="GL891307.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL891307.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Neurospora tetrasperma FGSC 2508 unplaced genomic scaffold N...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 112179 - 113882" locus_tag="NEUTE1DRAFT_124328" id="clusterblast-1_h31_4_0" points="10,85 15,80 33,80 33,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 109450 - 111252" locus_tag="NEUTE1DRAFT_124327" id="clusterblast-1_h31_4_1" points="46,90 65,90 70,85 65,80 46,80 46,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 102486 - 108870" locus_tag="NEUTE1DRAFT_86887" id="clusterblast-1_h31_4_2" points="78,90 161,90 166,85 161,80 78,80 78,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hypothetical_protein[br]Location: 98118 - 99845&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014170.1&lt;/b&gt;&lt;br&gt;Percentage identity: 44%&lt;br&gt;Percentage coverage: 103%&lt;br&gt;BLAST bit score: 382&lt;br&gt;E-value: 2e-125" locus_tag="NEUTE1DRAFT_118011" id="clusterblast-1_h31_4_3" points="202,85 207,80 226,80 226,90 207,90 202,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="hypothetical_protein[br]Location: 77808 - 93416&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014180.1&lt;/b&gt;&lt;br&gt;Percentage identity: 38%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 3021&lt;br&gt;E-value: 0.0" locus_tag="NEUTE1DRAFT_148407" id="clusterblast-1_h31_4_4" points="290,90 500,90 505,85 500,80 290,80 290,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 72654 - 74911" locus_tag="NEUTE1DRAFT_148405" id="clusterblast-1_h31_4_5" points="545,90 571,90 576,85 571,80 545,80 545,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 70481 - 71609" locus_tag="NEUTE1DRAFT_48564" id="clusterblast-1_h31_4_6" points="590,85 595,80 605,80 605,90 595,90 590,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 67611 - 69769" locus_tag="NEUTE1DRAFT_86874" id="clusterblast-1_h31_4_7" points="615,90 640,90 645,85 640,80 615,80 615,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 63162 - 65512" locus_tag="NEUTE1DRAFT_48354" id="clusterblast-1_h31_4_8" points="674,90 701,90 706,85 701,80 674,80 674,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 60052 - 62970" locus_tag="NEUTE1DRAFT_68191" id="clusterblast-1_h31_4_9" points="709,85 714,80 749,80 749,90 714,90 709,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 57946 - 58689" locus_tag="NEUTE1DRAFT_103425" id="clusterblast-1_h31_4_10" points="767,90 773,90 778,85 773,80 767,80 767,90 " class="clusterblast-orf"  />
+</g>
+</svg>

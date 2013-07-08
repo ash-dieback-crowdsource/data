@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 526 - 1764" locus_tag="CHAFR746836_0049830.1" class="clusterblast-orf" points="10,35 15,30 30,30 30,40 15,40 10,35 " id="clusterblast-1_q61_3_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 2667 - 6069" locus_tag="CHAFR746836_0049840.1" class="clusterblast-orf" points="44,40 95,40 100,35 95,30 44,30 44,40 " id="clusterblast-1_q61_3_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 8378 - 11086" locus_tag="CHAFR746836_0049850.1" class="clusterblast-orf" points="138,35 143,30 182,30 182,40 143,40 138,35 " id="clusterblast-1_q61_3_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 12115 - 13475" locus_tag="CHAFR746836_0049860.1" class="clusterblast-orf" points="198,40 216,40 221,35 216,30 198,30 198,40 " id="clusterblast-1_q61_3_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 17223 - 18472" locus_tag="CHAFR746836_0049870.1" class="clusterblast-orf" points="282,40 297,40 302,35 297,30 282,30 282,40 " id="clusterblast-1_q61_3_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 19776 - 20599" locus_tag="CHAFR746836_0049880.1" class="clusterblast-orf" points="323,35 328,30 337,30 337,40 328,40 323,35 " id="clusterblast-1_q61_3_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 21414 - 28833" locus_tag="CHAFR746836_0049890.1" class="clusterblast-orf" points="350,35 355,30 471,30 471,40 355,40 350,35 " id="clusterblast-1_q61_3_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 33502 - 34522" locus_tag="CHAFR746836_0049900.1" class="clusterblast-orf" points="547,40 559,40 564,35 559,30 547,30 547,40 " id="clusterblast-1_q61_3_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 35396 - 36560" locus_tag="CHAFR746836_0049910.1" class="clusterblast-orf" points="578,35 583,30 597,30 597,40 583,40 578,35 " id="clusterblast-1_q61_3_8"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 43480 - 44101" locus_tag="CHAFR746836_0049920.1" class="clusterblast-orf" points="710,35 715,30 720,30 720,40 715,40 710,35 " id="clusterblast-1_q61_3_9"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 46657 - 47620" locus_tag="CHAFR746836_0049930.1" class="clusterblast-orf" points="762,35 767,30 778,30 778,40 767,40 762,35 " id="clusterblast-1_q61_3_10"  />
+</g>
+<g class="clusterblast-cluster" description="Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC 1..." label="GL629801.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL629801.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC 1...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="integral_membrane_protein[br]Location: 1589167 - 1590542" locus_tag="CMQ_7539" id="clusterblast-1_h61_3_0" points="20,85 25,80 42,80 42,90 25,90 20,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 1586167 - 1587262" locus_tag="CMQ_7256" id="clusterblast-1_h61_3_1" points="73,90 86,90 91,85 86,80 73,80 73,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="extradiol_ring-cleavage_class_3_subunit_b[br]Location: 1583364 - 1584362" locus_tag="CMQ_7627" id="clusterblast-1_h61_3_2" points="120,85 125,80 137,80 137,90 125,90 120,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 1580879 - 1581964" locus_tag="CMQ_7734" id="clusterblast-1_h61_3_3" points="159,90 172,90 177,85 172,80 159,80 159,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 1576602 - 1577205" locus_tag="CMQ_7689" id="clusterblast-1_h61_3_4" points="237,85 242,80 247,80 247,90 242,90 237,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="polyketide_synthase[br]Location: 1566165 - 1573137&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0049890.1&lt;/b&gt;&lt;br&gt;Percentage identity: 49%&lt;br&gt;Percentage coverage: 91%&lt;br&gt;BLAST bit score: 1964&lt;br&gt;E-value: 0.0" locus_tag="CMQ_7062" id="clusterblast-1_h61_3_5" points="303,85 308,80 417,80 417,90 308,90 303,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="duf341_domain_containing_protein[br]Location: 1564325 - 1565346&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0049900.1&lt;/b&gt;&lt;br&gt;Percentage identity: 49%&lt;br&gt;Percentage coverage: 95%&lt;br&gt;BLAST bit score: 265&lt;br&gt;E-value: 2e-86" locus_tag="CMQ_7522" id="clusterblast-1_h61_3_6" points="430,90 442,90 447,85 442,80 430,80 430,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 1561184 - 1562421" locus_tag="CMQ_7226" id="clusterblast-1_h61_3_7" points="478,90 493,90 498,85 493,80 478,80 478,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="umta_methyltransferase_family_protein[br]Location: 1559231 - 1560795" locus_tag="CMQ_7491" id="clusterblast-1_h61_3_8" points="505,85 510,80 530,80 530,90 510,90 505,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 1557139 - 1557750" locus_tag="CMQ_7459" id="clusterblast-1_h61_3_9" points="554,85 559,80 564,80 564,90 559,90 554,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 1556620 - 1556994" locus_tag="CMQ_7685" id="clusterblast-1_h61_3_10" points="567,85 572,80 573,80 573,90 572,90 567,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 1554180 - 1555976" locus_tag="CMQ_7588" id="clusterblast-1_h61_3_11" points="583,85 588,80 612,80 612,90 588,90 583,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="acetolactate_synthase[br]Location: 1544756 - 1551620" locus_tag="CMQ_7097" id="clusterblast-1_h61_3_12" points="654,85 659,80 766,80 766,90 659,90 654,85 " class="clusterblast-orf"  />
+</g>
+</svg>

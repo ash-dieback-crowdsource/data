@@ -1,0 +1,30 @@
+ClusterBlast scores for scaffold_1333.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0077540.1	25203	26345	+	unannotated orf	
+CHAFR746836_0077550.1	33656	34656	-	unannotated orf	
+CHAFR746836_0077560.1	40941	41922	+	unannotated orf	
+CHAFR746836_0077570.1	42481	43285	-	unannotated orf	
+CHAFR746836_0077580.1	45175	46813	+	unannotated orf	
+CHAFR746836_0077590.1	52915	54699	+	unannotated orf	
+CHAFR746836_0077600.1	56890	57476	+	unannotated orf	
+CHAFR746836_0077610.1	58827	59758	+	unannotated orf	
+CHAFR746836_0077620.1	60873	61266	-	unannotated orf	
+CHAFR746836_0077630.1	62590	64438	-	unannotated orf	
+CHAFR746836_0077640.1	67540	77132	-	unannotated orf	
+CHAFR746836_0077650.1	83720	84542	+	unannotated orf	
+CHAFR746836_0077660.1	85708	88797	-	unannotated orf	
+CHAFR746836_0077670.1	89609	90957	-	unannotated orf	
+CHAFR746836_0077680.1	91271	91979	+	unannotated orf	
+CHAFR746836_0077690.1	92728	93646	-	unannotated orf	
+CHAFR746836_0077700.1	94508	95510	+	unannotated orf	
+CHAFR746836_0077710.1	95897	96815	-	unannotated orf	
+CHAFR746836_0077720.1	99791	101108	+	unannotated orf	
+CHAFR746836_0077730.1	105182	105691	+	unannotated orf	
+CHAFR746836_0077740.1	116324	117422	-	unannotated orf	
+
+
+Significant hits: 
+
+
+Details:

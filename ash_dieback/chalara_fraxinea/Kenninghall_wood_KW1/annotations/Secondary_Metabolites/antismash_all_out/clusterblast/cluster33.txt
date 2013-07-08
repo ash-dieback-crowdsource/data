@@ -1,0 +1,58 @@
+ClusterBlast scores for scaffold_495.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0014820.1	1952	3041	-	unannotated orf	
+CHAFR746836_0014830.1	3432	5536	-	unannotated orf	
+CHAFR746836_0014840.1	6363	7400	+	unannotated orf	
+CHAFR746836_0014850.1	8509	10054	+	unannotated orf	
+CHAFR746836_0014860.1	11892	13041	+	unannotated orf	
+CHAFR746836_0014870.1	13745	15282	+	unannotated orf	
+CHAFR746836_0014880.1	16775	17524	+	unannotated orf	
+CHAFR746836_0014890.1	18152	18880	+	unannotated orf	
+CHAFR746836_0014900.1	20430	22148	+	unannotated orf	
+CHAFR746836_0014910.1	22271	23378	-	unannotated orf	
+CHAFR746836_0014920.1	46131	47915	+	unannotated orf	
+CHAFR746836_0014930.1	48731	49958	+	unannotated orf	
+
+
+Significant hits: 
+1. GU574477.1_c1	Penicillium aethiopicum strain IBT 5753 viridicatumtoxin biosynthetic gene cluster, complete sequence; and unknown genes.
+
+
+Details:
+
+>>
+1. GU574477.1_c1
+Source: Penicillium aethiopicum strain IBT 5753 viridicatumtoxin biosynthetic gene cluster, complete sequence; and unknown genes.
+Type: t1pks-terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 308
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADI24940.1	ADI24940.1	442	1230	+	unknown
+ADI24941.1	ADI24941.1	1729	2172	+	unknown
+ADI24942.1	ADI24942.1	4973	5647	+	unknown
+ADI24939.1	ADI24939.1	6236	8992	-	VrtR2
+ADI24938.1	ADI24938.1	12194	13763	+	VrtL
+ADI24937.1	ADI24937.1	14679	16525	+	VrtK
+ADI24936.1	ADI24936.1	17107	18355	+	VrtJ
+ADI24935.1	ADI24935.1	18542	20138	-	VrtI
+ADI24926.1	ADI24926.1	20532	26109	+	VrtA
+ADI24927.1	ADI24927.1	26553	28864	-	VrtB
+ADI24928.1	ADI24928.1	29194	30645	+	VrtC
+ADI24929.1	ADI24929.1	31049	32254	-	VrtD
+ADI24930.1	ADI24930.1	32536	34433	-	VrtE
+ADI24931.1	ADI24931.1	34845	35561	-	VrtF
+ADI24932.1	ADI24932.1	35872	36795	+	VrtG
+ADI24934.1	ADI24934.1	36951	38255	-	VrtH
+ADI24933.1	ADI24933.1	38460	40607	-	VrtR1
+ADI24943.1	ADI24943.1	40894	42867	+	unknown
+ADI24944.1	ADI24944.1	43160	44658	-	unknown
+ADI24945.1	ADI24945.1	45248	46969	-	unknown
+ADI24946.1	ADI24946.1	48987	49874	+	unknown
+ADI24947.1	ADI24947.1	50142	51253	-	unknown
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0014920.1	ADI24937.1	32	251	100.601202405	6e-75	
+CHAFR746836_0014930.1	ADI24935.1	34	57	24.1379310345	8e-08	
+

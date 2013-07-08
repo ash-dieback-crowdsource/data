@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="90" width="768.0" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -30 819.2 60"  >
+<g  >
+<line y1="60" x2="778.0" style="stroke:grey; stroke-width:2; " x1="10" y2="60"  />
+</g>
+<g id="a11_000"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="10,60 15,55 76,55 76,65 15,65 10,60 "  />
+</g>
+<g id="a11_001"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="114,60 119,55 204,55 204,65 119,65 114,60 "  />
+</g>
+<g id="a11_002"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="257,60 262,55 362,55 362,65 262,65 257,60 "  />
+</g>
+<g id="a11_003"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="395,65 516,65 521,60 516,55 395,55 395,65 "  />
+</g>
+<g id="a11_004"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="616,65 687,65 692,60 687,55 616,55 616,65 "  />
+</g>
+<g id="a11_005"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="708,60 713,55 778,55 778,65 713,65 708,60 "  />
+</g>
+<g  >
+<line y1="0" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="0"  />
+</g>
+<g id="b11_000"  >
+<defs  >
+<linearGradient id="other_domain11_1"  >
+<stop stop-color="#929292" stop-opacity="1" offset="0%"  />
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="other_line11_1"  >
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="0%"  />
+<stop stop-color="#929292" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#other_line11_1); stroke-width:1; fill:url(#other_domain11_1); " rx="8" height="15" width="293.76" y="-8" x="138.64"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="259.52" fill="#0B0B0B"  >
+NAD_binding_</text>
+</g>
+<g id="b11_000"  >
+<defs  >
+<linearGradient id="other_domain11_1"  >
+<stop stop-color="#929292" stop-opacity="1" offset="0%"  />
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="other_line11_1"  >
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="0%"  />
+<stop stop-color="#929292" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#other_line11_1); stroke-width:1; fill:url(#other_domain11_1); " rx="8" height="15" width="293.76" y="-8" x="138.64"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="259.52" fill="#0B0B0B"  >
+NAD_binding_</text>
+</g>
+</svg>

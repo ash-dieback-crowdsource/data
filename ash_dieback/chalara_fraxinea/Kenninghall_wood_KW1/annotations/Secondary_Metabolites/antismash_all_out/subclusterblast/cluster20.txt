@@ -1,0 +1,32 @@
+ClusterBlast scores for scaffold_1485.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0088270.1	16927	18620	-	unannotated orf	
+CHAFR746836_0088280.1	18968	19665	+	unannotated orf	
+CHAFR746836_0088290.1	24387	25688	-	unannotated orf	
+CHAFR746836_0088300.1	26085	26578	+	unannotated orf	
+CHAFR746836_0088310.1	27631	28537	-	unannotated orf	
+CHAFR746836_0088320.1	29462	32567	-	unannotated orf	
+CHAFR746836_0088330.1	32818	33248	+	unannotated orf	
+CHAFR746836_0088340.1	35812	38220	+	unannotated orf	
+CHAFR746836_0088350.1	38703	40515	-	unannotated orf	
+CHAFR746836_0088360.1	54570	56265	-	unannotated orf	
+CHAFR746836_0088370.1	57343	57641	+	unannotated orf	
+CHAFR746836_0088380.1	59489	60069	+	unannotated orf	
+CHAFR746836_0088390.1	61596	62517	+	unannotated orf	
+CHAFR746836_0088400.1	64887	66442	+	unannotated orf	
+CHAFR746836_0088410.1	70818	75812	-	unannotated orf	
+CHAFR746836_0088410.2	70818	75812	-	unannotated orf	
+CHAFR746836_0088420.1	79054	80030	-	unannotated orf	
+CHAFR746836_0088430.1	83242	92486	+	unannotated orf	
+CHAFR746836_0088440.1	96222	97917	+	unannotated orf	
+CHAFR746836_0088450.1	98082	99448	-	unannotated orf	
+CHAFR746836_0088460.1	104203	105217	+	unannotated orf	
+CHAFR746836_0088470.1	112157	113036	+	unannotated orf	
+CHAFR746836_0088480.1	114252	116434	-	unannotated orf	
+
+
+Significant hits: 
+
+
+Details:

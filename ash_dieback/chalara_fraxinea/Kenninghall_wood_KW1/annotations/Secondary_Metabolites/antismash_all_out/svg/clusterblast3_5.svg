@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="unannotated orf[br]Location: 272 - 1577" locus_tag="CHAFR746836_0058790.1" class="clusterblast-orf" points="10,40 16,40 21,35 16,30 10,30 10,40 " id="clusterblast-1_q3_5_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 1879 - 3966" locus_tag="CHAFR746836_0058800.1" class="clusterblast-orf" points="23,35 28,30 41,30 41,40 28,40 23,35 " id="clusterblast-1_q3_5_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,63,190); " description="unannotated orf[br]Location: 20578 - 22096" locus_tag="CHAFR746836_0058810.1" class="clusterblast-orf" points="182,35 187,30 195,30 195,40 187,40 182,35 " id="clusterblast-1_q3_5_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,190,63); " description="unannotated orf[br]Location: 25478 - 26482" locus_tag="CHAFR746836_0058820.1" class="clusterblast-orf" points="224,40 227,40 232,35 227,30 224,30 224,40 " id="clusterblast-1_q3_5_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 45229 - 46910" locus_tag="CHAFR746836_0058830.1" class="clusterblast-orf" points="392,40 401,40 406,35 401,30 392,30 392,40 " id="clusterblast-1_q3_5_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 51364 - 52222" locus_tag="CHAFR746836_0058840.1" class="clusterblast-orf" points="444,35 449,30 451,30 451,40 449,40 444,35 " id="clusterblast-1_q3_5_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 53027 - 54066" locus_tag="CHAFR746836_0058850.1" class="clusterblast-orf" points="458,40 462,40 467,35 462,30 458,30 458,40 " id="clusterblast-1_q3_5_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,190); " description="unannotated orf[br]Location: 55805 - 57189" locus_tag="CHAFR746836_0058860.1" class="clusterblast-orf" points="482,35 487,30 494,30 494,40 487,40 482,35 " id="clusterblast-1_q3_5_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,190,63); " description="unannotated orf[br]Location: 62252 - 71057" locus_tag="CHAFR746836_0058870.1" class="clusterblast-orf" points="537,40 607,40 612,35 607,30 537,30 537,40 " id="clusterblast-1_q3_5_8"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 72245 - 73215" locus_tag="CHAFR746836_0058880.1" class="clusterblast-orf" points="622,35 627,30 630,30 630,40 627,40 622,35 " id="clusterblast-1_q3_5_9"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 78567 - 79753" locus_tag="CHAFR746836_0058890.1" class="clusterblast-orf" points="675,35 680,30 686,30 686,40 680,40 675,35 " id="clusterblast-1_q3_5_10"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 89948 - 90559" locus_tag="CHAFR746836_0058900.1" class="clusterblast-orf" points="772,40 773,40 778,35 773,30 772,30 772,40 " id="clusterblast-1_q3_5_11"  />
+</g>
+<g class="clusterblast-cluster" description="Aspergillus kawachii IFO 4308 DNA, contig: scaffold00054, wh..." label="DF126500.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+DF126500.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Aspergillus kawachii IFO 4308 DNA, contig: scaffold00054, wh...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="similar_to_An03g00520[br]Location: 28457 - 30378" locus_tag="AKAW_10783" id="clusterblast-1_h3_5_0" points="279,90 290,90 295,85 290,80 279,80 279,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 26066 - 27541" locus_tag="AKAW_10782" id="clusterblast-1_h3_5_1" points="303,85 308,80 315,80 315,90 308,90 303,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 24204 - 24830" locus_tag="AKAW_10781" id="clusterblast-1_h3_5_2" points="326,90 326,90 331,85 326,80 326,80 326,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="transcription_factor_Rba50[br]Location: 22881 - 23528" locus_tag="AKAW_10780" id="clusterblast-1_h3_5_3" points="337,90 337,90 342,85 337,80 337,80 337,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 19739 - 20395" locus_tag="AKAW_10779" id="clusterblast-1_h3_5_4" points="363,85 368,80 369,80 369,90 368,90 363,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="efflux_pump_antibiotic_resistance_protein[br]Location: 14354 - 18839&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0058790.1&lt;/b&gt;&lt;br&gt;Percentage identity: 47%&lt;br&gt;Percentage coverage: 99%&lt;br&gt;BLAST bit score: 404&lt;br&gt;E-value: 1e-127" locus_tag="AKAW_10778" id="clusterblast-1_h3_5_5" points="377,85 382,80 415,80 415,90 382,90 377,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,63,190); " description="aminotransferase_class_I_and_II[br]Location: 12506 - 13974&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0058810.1&lt;/b&gt;&lt;br&gt;Percentage identity: 48%&lt;br&gt;Percentage coverage: 93%&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 2e-151" locus_tag="AKAW_10777" id="clusterblast-1_h3_5_6" points="418,85 423,80 431,80 431,90 423,90 418,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,190,63); " description="polyketide_synthase[br]Location: 3547 - 11258&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0058870.1&lt;/b&gt;&lt;br&gt;Percentage identity: 43%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 1912&lt;br&gt;E-value: 0.0" locus_tag="AKAW_10776" id="clusterblast-1_h3_5_7" points="441,90 502,90 507,85 502,80 441,80 441,90 " class="clusterblast-orf"  />
+</g>
+</svg>

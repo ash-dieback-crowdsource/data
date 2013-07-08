@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 21692 - 23171" locus_tag="CHAFR746836_0031020.1" class="clusterblast-orf" points="10,35 15,30 25,30 25,40 15,40 10,35 " id="clusterblast-1_q42_9_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 24117 - 25593" locus_tag="CHAFR746836_0031030.1" class="clusterblast-orf" points="35,35 40,30 50,30 50,40 40,40 35,35 " id="clusterblast-1_q42_9_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 26212 - 40332" locus_tag="CHAFR746836_0031040.1" class="clusterblast-orf" points="56,40 198,40 203,35 198,30 56,30 56,40 " id="clusterblast-1_q42_9_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 45285 - 47271" locus_tag="CHAFR746836_0031050.1" class="clusterblast-orf" points="255,40 270,40 275,35 270,30 255,30 255,40 " id="clusterblast-1_q42_9_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 49060 - 49584" locus_tag="CHAFR746836_0031060.1" class="clusterblast-orf" points="294,40 295,40 300,35 295,30 294,30 294,40 " id="clusterblast-1_q42_9_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 51570 - 54053" locus_tag="CHAFR746836_0031070.1" class="clusterblast-orf" points="320,40 341,40 346,35 341,30 320,30 320,40 " id="clusterblast-1_q42_9_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 83506 - 87093" locus_tag="CHAFR746836_0031080.1" class="clusterblast-orf" points="652,40 685,40 690,35 685,30 652,30 652,40 " id="clusterblast-1_q42_9_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 93748 - 95553" locus_tag="CHAFR746836_0031090.1" class="clusterblast-orf" points="759,40 773,40 778,35 773,30 759,30 759,40 " id="clusterblast-1_q42_9_7"  />
+</g>
+<g class="clusterblast-cluster" description="Cordyceps militaris CM01 unplaced genomic scaffold CCM S0000..." label="JH126401.1_c4"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+JH126401.1_c4</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Cordyceps militaris CM01 unplaced genomic scaffold CCM S0000...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 3514635 - 3514958" locus_tag="CCM_04714" id="clusterblast-1_h42_9_0" points="44,90 47,85 44,80 44,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="acetamidase/formamidase[br]Location: 3516276 - 3517229" locus_tag="CCM_04715" id="clusterblast-1_h42_9_1" points="61,90 65,90 70,85 65,80 61,80 61,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 3517586 - 3517849" locus_tag="CCM_04716" id="clusterblast-1_h42_9_2" points="74,90 77,85 74,80 74,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 3519720 - 3520505" locus_tag="CCM_04717" id="clusterblast-1_h42_9_3" points="96,85 101,80 105,80 105,90 101,90 96,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="glycosyl_hydrolase_family_47_protein[br]Location: 3523686 - 3525868" locus_tag="CCM_04718" id="clusterblast-1_h42_9_4" points="138,85 143,80 160,80 160,90 143,90 138,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Cytochrome_P450[br]Location: 3526865 - 3528503" locus_tag="CCM_04719" id="clusterblast-1_h42_9_5" points="171,90 183,90 188,85 183,80 171,80 171,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 3529336 - 3530841" locus_tag="CCM_04720" id="clusterblast-1_h42_9_6" points="196,85 201,80 212,80 212,90 201,90 196,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 3531753 - 3532401" locus_tag="CCM_04721" id="clusterblast-1_h42_9_7" points="221,90 223,90 228,85 223,80 221,80 221,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hybrid_NRPS/PKS_enzyme,_putative[br]Location: 3533472 - 3547230&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0031040.1&lt;/b&gt;&lt;br&gt;Percentage identity: 40%&lt;br&gt;Percentage coverage: 57%&lt;br&gt;BLAST bit score: 1626&lt;br&gt;E-value: 0.0" locus_tag="CCM_04722" id="clusterblast-1_h42_9_8" points="239,85 244,80 382,80 382,90 244,90 239,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="alcohol_dehydrogenase,_putative[br]Location: 3548891 - 3549973&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0031030.1&lt;/b&gt;&lt;br&gt;Percentage identity: 42%&lt;br&gt;Percentage coverage: 98%&lt;br&gt;BLAST bit score: 272&lt;br&gt;E-value: 2e-86" locus_tag="CCM_04723" id="clusterblast-1_h42_9_9" points="400,85 405,80 411,80 411,90 405,90 400,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 3553778 - 3555745" locus_tag="CCM_04724" id="clusterblast-1_h42_9_10" points="451,90 466,90 471,85 466,80 451,80 451,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="NRPS-like_enzyme,_putative[br]Location: 3556295 - 3560640" locus_tag="CCM_04725" id="clusterblast-1_h42_9_11" points="477,85 482,80 522,80 522,90 482,90 477,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 3576849 - 3577607" locus_tag="CCM_04726" id="clusterblast-1_h42_9_12" points="690,90 693,90 698,85 693,80 690,80 690,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="alpha/beta_hydrolase_fold-1[br]Location: 3578530 - 3579803" locus_tag="CCM_04727" id="clusterblast-1_h42_9_13" points="708,90 716,90 721,85 716,80 708,80 708,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="ATP-dependent_Zn_protease[br]Location: 3580257 - 3581796" locus_tag="CCM_04728" id="clusterblast-1_h42_9_14" points="726,90 737,90 742,85 737,80 726,80 726,90 " class="clusterblast-orf"  />
+</g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5400 - 7279" locus_tag="CHAFR746836_0015100.1" class="clusterblast-orf" points="41,35 46,30 67,30 67,40 46,40 41,35 " id="clusterblast-1_q34_4_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 13745 - 15770" locus_tag="CHAFR746836_0015110.1" class="clusterblast-orf" points="159,40 182,40 187,35 182,30 159,30 159,40 " id="clusterblast-1_q34_4_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 17291 - 22939" locus_tag="CHAFR746836_0015120.1" class="clusterblast-orf" points="209,35 214,30 289,30 289,40 214,40 209,35 " id="clusterblast-1_q34_4_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 27044 - 51976" locus_tag="CHAFR746836_0015130.1" class="clusterblast-orf" points="347,40 695,40 700,35 695,30 347,30 347,40 " id="clusterblast-1_q34_4_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 53293 - 55207" locus_tag="CHAFR746836_0015140.1" class="clusterblast-orf" points="719,35 724,30 746,30 746,40 724,40 719,35 " id="clusterblast-1_q34_4_4"  />
+</g>
+<g class="clusterblast-cluster" description="Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Sc..." label="GL698712.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL698712.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Sc...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 70220 - 71493" locus_tag="MAA_01635" id="clusterblast-1_h34_4_0" points="10,90 23,90 28,85 23,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="fatty_acid_synthase_subunit_beta_dehydratase[br]Location: 72648 - 79533" locus_tag="MAA_01636" id="clusterblast-1_h34_4_1" points="44,85 49,80 141,80 141,90 49,90 44,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 80567 - 81445" locus_tag="MAA_01637" id="clusterblast-1_h34_4_2" points="156,90 164,90 169,85 164,80 156,80 156,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="ABC_multidrug_transporter,_putative[br]Location: 81767 - 87157&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0015120.1&lt;/b&gt;&lt;br&gt;Percentage identity: 41%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 1159&lt;br&gt;E-value: 0.0" locus_tag="MAA_01638" id="clusterblast-1_h34_4_3" points="173,85 178,80 249,80 249,90 178,90 173,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="peptide_synthetase[br]Location: 88498 - 105090&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0015130.1&lt;/b&gt;&lt;br&gt;Percentage identity: 37%&lt;br&gt;Percentage coverage: 44%&lt;br&gt;BLAST bit score: 2255&lt;br&gt;E-value: 0.0" locus_tag="MAA_01639" id="clusterblast-1_h34_4_4" points="268,90 499,90 504,85 499,80 268,80 268,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="CHIP6_protein[br]Location: 106196 - 109958" locus_tag="MAA_01640" id="clusterblast-1_h34_4_5" points="519,85 524,80 572,80 572,90 524,90 519,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Ankyrin[br]Location: 111829 - 113156" locus_tag="MAA_01641" id="clusterblast-1_h34_4_6" points="599,90 613,90 618,85 613,80 599,80 599,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="fatty_acid_synthase_subunit_alpha_reductase[br]Location: 114812 - 119605" locus_tag="MAA_01642" id="clusterblast-1_h34_4_7" points="641,85 646,80 709,80 709,90 646,90 641,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450_3A31[br]Location: 120848 - 122032" locus_tag="MAA_01643" id="clusterblast-1_h34_4_8" points="727,90 739,90 744,85 739,80 727,80 727,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="RTA1_domain_protein,_putative[br]Location: 123420 - 124430" locus_tag="MAA_01644" id="clusterblast-1_h34_4_9" points="763,90 773,90 778,85 773,80 763,80 763,90 " class="clusterblast-orf"  />
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 78016 - 79242" locus_tag="CHAFR746836_0016770.1" class="clusterblast-orf" points="252,35 257,30 274,30 274,40 257,40 252,35 " id="clusterblast-1_q36_10_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 81171 - 82179" locus_tag="CHAFR746836_0016780.1" class="clusterblast-orf" points="309,40 322,40 327,35 322,30 309,30 309,40 " id="clusterblast-1_q36_10_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 82820 - 84436" locus_tag="CHAFR746836_0016790.1" class="clusterblast-orf" points="338,40 363,40 368,35 363,30 338,30 338,40 " id="clusterblast-1_q36_10_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 86969 - 88192" locus_tag="CHAFR746836_0016800.1" class="clusterblast-orf" points="413,35 418,30 435,30 435,40 418,40 413,35 " id="clusterblast-1_q36_10_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 89104 - 90705" locus_tag="CHAFR746836_0016810.1" class="clusterblast-orf" points="452,40 476,40 481,35 476,30 452,30 452,40 " id="clusterblast-1_q36_10_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 92624 - 93697" locus_tag="CHAFR746836_0016820.1" class="clusterblast-orf" points="516,35 521,30 535,30 535,40 521,40 516,35 " id="clusterblast-1_q36_10_5"  />
+</g>
+<g class="clusterblast-cluster" description="Verticillium dahliae VdLs.17 supercont1.13 genomic scaffold..." label="DS572707.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+DS572707.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Verticillium dahliae VdLs.17 supercont1.13 genomic scaffold...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 170554 - 173295" locus_tag="VDAG_06015" id="clusterblast-1_h36_10_0" points="10,85 15,80 59,80 59,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="HET_domain-containing_protein[br]Location: 166555 - 169312" locus_tag="VDAG_06014" id="clusterblast-1_h36_10_1" points="81,90 126,90 131,85 126,80 81,80 81,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 163675 - 165526" locus_tag="VDAG_06013" id="clusterblast-1_h36_10_2" points="150,85 155,80 183,80 183,90 155,90 150,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="oryzin[br]Location: 155898 - 157322" locus_tag="VDAG_06012" id="clusterblast-1_h36_10_3" points="298,90 319,90 324,85 319,80 298,80 298,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="squalene_synthetase[br]Location: 151520 - 153106&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016810.1&lt;/b&gt;&lt;br&gt;Percentage identity: 65%&lt;br&gt;Percentage coverage: 88%&lt;br&gt;BLAST bit score: 540&lt;br&gt;E-value: 0.0" locus_tag="VDAG_06011" id="clusterblast-1_h36_10_4" points="374,85 379,80 403,80 403,90 379,90 374,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="NRS/ER_protein[br]Location: 148137 - 149101&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016780.1&lt;/b&gt;&lt;br&gt;Percentage identity: 80%&lt;br&gt;Percentage coverage: 97%&lt;br&gt;BLAST bit score: 511&lt;br&gt;E-value: 0.0" locus_tag="VDAG_06010" id="clusterblast-1_h36_10_5" points="447,90 459,90 464,85 459,80 447,80 447,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="CAJ1_protein[br]Location: 145403 - 147282&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016790.1&lt;/b&gt;&lt;br&gt;Percentage identity: 67%&lt;br&gt;Percentage coverage: 61%&lt;br&gt;BLAST bit score: 401&lt;br&gt;E-value: 6e-135" locus_tag="VDAG_06009" id="clusterblast-1_h36_10_6" points="480,90 509,90 514,85 509,80 480,80 480,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 142255 - 144204" locus_tag="VDAG_06008" id="clusterblast-1_h36_10_7" points="535,85 540,80 571,80 571,90 540,90 535,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytoplasm_protein[br]Location: 139714 - 141025" locus_tag="VDAG_06007" id="clusterblast-1_h36_10_8" points="593,90 611,90 616,85 611,80 593,80 593,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="DNA_damage_response_protein_RcaA[br]Location: 136908 - 139531" locus_tag="VDAG_06006" id="clusterblast-1_h36_10_9" points="620,85 625,80 667,80 667,90 625,90 620,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="GPI_mannosyltransferase[br]Location: 135210 - 136605" locus_tag="VDAG_06005" id="clusterblast-1_h36_10_10" points="673,85 678,80 698,80 698,90 678,90 673,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="translin_associated_factor_X[br]Location: 133978 - 134853" locus_tag="VDAG_06004" id="clusterblast-1_h36_10_11" points="704,90 715,90 720,85 715,80 704,80 704,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 132328 - 133679" locus_tag="VDAG_06003" id="clusterblast-1_h36_10_12" points="726,85 731,80 750,80 750,90 731,90 726,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 130803 - 131744" locus_tag="VDAG_06002" id="clusterblast-1_h36_10_13" points="760,85 765,80 778,80 778,90 765,90 760,85 " class="clusterblast-orf"  />
+</g>
+</svg>

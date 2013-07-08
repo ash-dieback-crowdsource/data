@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="180" width="768.0" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -30 819.2 120"  >
+<g  >
+<line y1="60" x2="778.0" style="stroke:grey; stroke-width:2; " x1="10" y2="60"  />
+</g>
+<g id="a37_000"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="10,60 15,55 62,55 62,65 15,65 10,60 "  />
+</g>
+<g id="a37_001"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="149,60 154,55 188,55 188,65 154,65 149,60 "  />
+</g>
+<g id="a37_002"  >
+<polygon style="stroke:black; stroke-width:1; fill:#810E15; " points="248,65 409,65 414,60 409,55 248,55 248,65 "  />
+</g>
+<g id="a37_003"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="447,60 452,55 462,55 462,65 452,65 447,60 "  />
+</g>
+<g id="a37_004"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="476,65 502,65 507,60 502,55 476,55 476,65 "  />
+</g>
+<g id="a37_005"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="559,65 590,65 595,60 590,55 559,55 559,65 "  />
+</g>
+<g id="a37_006"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="614,60 619,55 632,55 632,65 619,65 614,60 "  />
+</g>
+<g id="a37_007"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="686,60 691,55 701,55 701,65 691,65 686,60 "  />
+</g>
+<g id="a37_008"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="738,60 743,55 778,55 778,65 743,65 738,60 "  />
+</g>
+<g  >
+<line y1="0" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="0"  />
+</g>
+<g id="b37_000"  >
+<defs  >
+<linearGradient id="KS_domain37_1"  >
+<stop stop-color="#08B208" stop-opacity="1" offset="0%"  />
+<stop stop-color="#81F781" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="KS_line37_1"  >
+<stop stop-color="#81F781" stop-opacity="1" offset="0%"  />
+<stop stop-color="#08B208" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#KS_line37_1); stroke-width:1; fill:url(#KS_domain37_1); " rx="8" height="15" width="121.62635717" y="-8" x="18.9135155373"  />
+<text style="font-size:12px; font-family:MS Reference Sans Serif; font-weight:bold; " y="4" x="65.7266941221" fill="#0A2A0A"  >
+KS</text>
+</g>
+<g id="b37_001"  >
+<defs  >
+<linearGradient id="AT_domain37_1"  >
+<stop stop-color="#DC0404" stop-opacity="1" offset="0%"  />
+<stop stop-color="#F78181" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="AT_line37_1"  >
+<stop stop-color="#F78181" stop-opacity="1" offset="0%"  />
+<stop stop-color="#DC0404" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#AT_line37_1); stroke-width:1; fill:url(#AT_domain37_1); " rx="8" height="15" width="89.7102208911" y="-8" x="172.168476226"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="207.023586672" fill="#2A1B0A"  >
+AT</text>
+</g>
+<g id="b37_002"  >
+<defs  >
+<linearGradient id="DH_domain37_1"  >
+<stop stop-color="#B45F04" stop-opacity="1" offset="0%"  />
+<stop stop-color="#F7BE81" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="DH_line37_1"  >
+<stop stop-color="#F7BE81" stop-opacity="1" offset="0%"  />
+<stop stop-color="#B45F04" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#DH_line37_1); stroke-width:1; fill:url(#DH_domain37_1); " rx="8" height="15" width="50.0307001123" y="-8" x="284.30625234"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="299.321602396" fill="#3B0B0B"  >
+DH</text>
+</g>
+<g id="b37_003"  >
+<defs  >
+<linearGradient id="ER_domain37_1"  >
+<stop stop-color="#089E85" stop-opacity="1" offset="0%"  />
+<stop stop-color="#81F7F3" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="ER_line37_1"  >
+<stop stop-color="#81F7F3" stop-opacity="1" offset="0%"  />
+<stop stop-color="#089E85" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#ER_line37_1); stroke-width:1; fill:url(#ER_domain37_1); " rx="8" height="15" width="88.560089854" y="-8" x="483.853987271"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="518.134032198" fill="#0A2A29"  >
+ER</text>
+</g>
+<g id="b37_004"  >
+<defs  >
+<linearGradient id="KR_domain37_1"  >
+<stop stop-color="#089E4B" stop-opacity="1" offset="0%"  />
+<stop stop-color="#81F781" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="KR_line37_1"  >
+<stop stop-color="#81F781" stop-opacity="1" offset="0%"  />
+<stop stop-color="#089E4B" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#KR_line37_1); stroke-width:1; fill:url(#KR_domain37_1); " rx="8" height="15" width="49.4556345938" y="-8" x="579.314863347"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="594.042680644" fill="#0A2A1B"  >
+KR</text>
+<line y1="60" x2="83.0333208536" style="stroke:grey; stroke-width:1; " x1="10" y2="60"  />
+</g>
+<g id="b37_004"  >
+<defs  >
+<linearGradient id="KR_domain37_1"  >
+<stop stop-color="#089E4B" stop-opacity="1" offset="0%"  />
+<stop stop-color="#81F781" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="KR_line37_1"  >
+<stop stop-color="#81F781" stop-opacity="1" offset="0%"  />
+<stop stop-color="#089E4B" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#KR_line37_1); stroke-width:1; fill:url(#KR_domain37_1); " rx="8" height="15" width="49.4556345938" y="-8" x="579.314863347"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="594.042680644" fill="#0A2A1B"  >
+KR</text>
+<line y1="60" x2="83.0333208536" style="stroke:grey; stroke-width:1; " x1="10" y2="60"  />
+</g>
+<g id="b37_005"  >
+<defs  >
+<linearGradient id="other_domain37_1"  >
+<stop stop-color="#929292" stop-opacity="1" offset="0%"  />
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="other_line37_1"  >
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="0%"  />
+<stop stop-color="#929292" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#other_line37_1); stroke-width:1; fill:url(#other_domain37_1); " rx="8" height="15" width="30.7660052415" y="52" x="30.7023586672"  />
+</g>
+<g id="b37_005"  >
+<defs  >
+<linearGradient id="other_domain37_1"  >
+<stop stop-color="#929292" stop-opacity="1" offset="0%"  />
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="other_line37_1"  >
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="0%"  />
+<stop stop-color="#929292" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#other_line37_1); stroke-width:1; fill:url(#other_domain37_1); " rx="8" height="15" width="30.7660052415" y="52" x="30.7023586672"  />
+</g>
+</svg>

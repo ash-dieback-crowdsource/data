@@ -1,0 +1,84 @@
+ClusterBlast scores for scaffold_1432.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0083330.1	136126	138309	-	unannotated orf	
+CHAFR746836_0083340.1	139747	141647	+	unannotated orf	
+CHAFR746836_0083350.1	143349	145515	-	unannotated orf	
+CHAFR746836_0083360.1	145952	148049	+	unannotated orf	
+CHAFR746836_0083370.1	148839	150827	+	unannotated orf	
+CHAFR746836_0083380.1	154121	157664	+	unannotated orf	
+CHAFR746836_0083390.1	163699	165148	-	unannotated orf	
+
+
+Significant hits: 
+1. DF126457.1_c3	Aspergillus kawachii IFO 4308 DNA, contig: scaffold00011, whole genome shotgun sequence.
+2. ACJE01000003.1_c2	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+
+
+Details:
+
+>>
+1. DF126457.1_c3
+Source: Aspergillus kawachii IFO 4308 DNA, contig: scaffold00011, whole genome shotgun sequence.
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 600
+
+Table of genes, locations, strands and annotations of subject cluster:
+AKAW_05015	GAA86901.1	817651	819567	-	hypothetical_protein
+AKAW_05016	GAA86902.1	820216	821887	-	C-x8-C-x5-C-x3-H_type_zinc_finger_protein
+AKAW_05017	GAA86903.1	822804	824005	-	hypothetical_protein
+AKAW_05018	GAA86904.1	824802	826661	+	MFS_multidrug_transporter
+AKAW_05019	GAA86905.1	827182	829048	+	nucleoside_transporter
+AKAW_05020	GAA86906.1	830332	832428	+	C6_transcription_factor
+AKAW_05021	GAA86907.1	833183	834654	+	similar_to_An13g02410
+AKAW_05022	GAA86908.1	835404	836360	-	DUF341_family_oxidoreductase
+AKAW_05023	GAA86909.1	838044	845051	+	polyketide_synthase
+AKAW_05024	GAA86910.1	846344	848383	+	six-hairpin_glycosidase
+AKAW_05025	GAA86911.1	849961	853241	+	NRPS-like_enzyme
+AKAW_05026	GAA86912.1	853705	854061	+	similar_to_An13g02470
+AKAW_05027	GAA86913.1	854252	856088	-	flavin_containing_polyamine_oxidase
+AKAW_05028	GAA86914.1	860166	861261	+	cell_wall_glucanase/allergen_F16-like_protein
+AKAW_05029	GAA86915.1	862601	863584	+	carbonic_anhydrase
+AKAW_05030	GAA86916.1	864102	864989	+	glutathione_S-transferase
+AKAW_05031	GAA86917.1	866633	867211	+	similar_to_An03g01770
+AKAW_05032	GAA86918.1	868029	869600	-	sugar_transporter
+AKAW_05033	GAA86919.1	870225	871475	-	similar_to_An03g01740
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0083370.1	AKAW_05021	32	74	21.0416666667	4e-13	
+CHAFR746836_0083380.1	AKAW_05025	33	526	99.6272134203	3e-167	
+
+
+
+>>
+2. ACJE01000003.1_c2
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 570
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASPNIDRAFT_44840	EHA27400.1	583414	585327	-	hypothetical_protein
+ASPNIDRAFT_140582	EHA27401.1	586604	587545	-	hypothetical_protein
+ASPNIDRAFT_191783	EHA27402.1	588726	589930	-	hypothetical_protein
+ASPNIDRAFT_191898	EHA27403.1	590777	592618	+	hypothetical_protein
+ASPNIDRAFT_50898	EHA27404.1	593136	595006	+	hypothetical_protein
+ASPNIDRAFT_131636	EHA27405.1	596222	598235	+	hypothetical_protein
+ASPNIDRAFT_134353	EHA27406.1	599395	600497	+	hypothetical_protein
+ASPNIDRAFT_192085	EHA27407.1	602133	603048	-	hypothetical_protein
+ASPNIDRAFT_128638	EHA27408.1	604912	611896	+	hypothetical_protein
+ASPNIDRAFT_54830	EHA27409.1	613108	615065	+	hypothetical_protein
+ASPNIDRAFT_57223	EHA27410.1	616750	620047	+	hypothetical_protein
+ASPNIDRAFT_192222	EHA27411.1	621045	622887	-	amine_oxidase
+ASPNIDRAFT_44850	EHA27412.1	627011	628099	+	hypothetical_protein
+ASPNIDRAFT_44851	EHA27413.1	629480	630363	+	hypothetical_protein
+ASPNIDRAFT_54832	EHA27414.1	630897	631796	+	hypothetical_protein
+ASPNIDRAFT_44853	EHA27415.1	634577	635266	-	hypothetical_protein
+ASPNIDRAFT_225629	EHA27416.1	637232	638938	+	hypothetical_protein
+ASPNIDRAFT_191950	EHA27417.1	639702	640923	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0083370.1	ASPNIDRAFT_134353	35	60	13.3333333333	9e-09	
+CHAFR746836_0083380.1	ASPNIDRAFT_57223	32	510	99.6272134203	2e-161	
+

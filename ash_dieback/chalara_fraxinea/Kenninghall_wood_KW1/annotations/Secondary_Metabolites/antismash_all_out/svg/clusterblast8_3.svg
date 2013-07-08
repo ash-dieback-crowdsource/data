@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7069 - 8172" locus_tag="CHAFR746836_0067810.1" class="clusterblast-orf" points="89,40 123,40 128,35 123,30 89,30 89,40 " id="clusterblast-1_q8_3_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 9727 - 13318" locus_tag="CHAFR746836_0067820.1" class="clusterblast-orf" points="183,35 188,30 310,30 310,40 188,40 183,35 " id="clusterblast-1_q8_3_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 14449 - 16282" locus_tag="CHAFR746836_0067830.1" class="clusterblast-orf" points="350,40 411,40 416,35 411,30 350,30 350,40 " id="clusterblast-1_q8_3_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 18109 - 19056" locus_tag="CHAFR746836_0067840.1" class="clusterblast-orf" points="480,35 485,30 514,30 514,40 485,40 480,35 " id="clusterblast-1_q8_3_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 20406 - 24215" locus_tag="CHAFR746836_0067850.1" class="clusterblast-orf" points="562,35 567,30 697,30 697,40 567,40 562,35 " id="clusterblast-1_q8_3_4"  />
+</g>
+<g class="clusterblast-cluster" description="Glarea lozoyensis 74030 Seq158, whole genome shotgun seq..." label="AGUE01000158.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+AGUE01000158.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Glarea lozoyensis 74030 Seq158, whole genome shotgun seq...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="putative_L-aminoadipate-semialdehyde[br]Location: 218290 - 221584&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067820.1&lt;/b&gt;&lt;br&gt;Percentage identity: 79%&lt;br&gt;Percentage coverage: 93%&lt;br&gt;BLAST bit score: 1768&lt;br&gt;E-value: 0.0" locus_tag="M7I_5917" id="clusterblast-1_h8_3_0" points="10,85 15,80 126,80 126,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hypothetical_protein[br]Location: 215033 - 215719&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067830.1&lt;/b&gt;&lt;br&gt;Percentage identity: 77%&lt;br&gt;Percentage coverage: 35%&lt;br&gt;BLAST bit score: 358&lt;br&gt;E-value: 2e-118" locus_tag="M7I_5916" id="clusterblast-1_h8_3_1" points="218,90 237,90 242,85 237,80 218,80 218,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="hypothetical_protein[br]Location: 214166 - 214546&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067840.1&lt;/b&gt;&lt;br&gt;Percentage identity: 45%&lt;br&gt;Percentage coverage: 49%&lt;br&gt;BLAST bit score: 60&lt;br&gt;E-value: 2e-10" locus_tag="M7I_5915" id="clusterblast-1_h8_3_2" points="259,85 264,80 273,80 273,90 264,90 259,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Uncharacterized_transporter_C1B3.15C[br]Location: 203995 - 205828" locus_tag="M7I_5914" id="clusterblast-1_h8_3_3" points="569,85 574,80 634,80 634,90 574,90 569,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Zinc_finger_protein_GLI2[br]Location: 202106 - 203020" locus_tag="M7I_5913" id="clusterblast-1_h8_3_4" points="669,85 674,80 701,80 701,90 674,90 669,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 199951 - 200817" locus_tag="M7I_5912" id="clusterblast-1_h8_3_5" points="747,85 752,80 778,80 778,90 752,90 747,85 " class="clusterblast-orf"  />
+</g>
+</svg>

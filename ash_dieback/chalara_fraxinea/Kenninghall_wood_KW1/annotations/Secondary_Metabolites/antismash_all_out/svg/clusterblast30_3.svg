@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 1639 - 3862" locus_tag="CHAFR746836_0009390.1" class="clusterblast-orf" points="102,40 135,40 140,35 135,30 102,30 102,40 " id="clusterblast-1_q30_3_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 4351 - 6763" locus_tag="CHAFR746836_0009400.1" class="clusterblast-orf" points="149,40 185,40 190,35 185,30 149,30 149,40 " id="clusterblast-1_q30_3_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 8433 - 9813" locus_tag="CHAFR746836_0009410.1" class="clusterblast-orf" points="219,40 238,40 243,35 238,30 219,30 219,40 " id="clusterblast-1_q30_3_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 10159 - 11305" locus_tag="CHAFR746836_0009420.1" class="clusterblast-orf" points="249,35 254,30 269,30 269,40 254,40 249,35 " id="clusterblast-1_q30_3_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 12094 - 15169" locus_tag="CHAFR746836_0009430.1" class="clusterblast-orf" points="283,35 288,30 336,30 336,40 288,40 283,35 " id="clusterblast-1_q30_3_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 18460 - 19626" locus_tag="CHAFR746836_0009440.1" class="clusterblast-orf" points="393,35 398,30 413,30 413,40 398,40 393,35 " id="clusterblast-1_q30_3_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 21127 - 22798" locus_tag="CHAFR746836_0009450.1" class="clusterblast-orf" points="439,35 444,30 468,30 468,40 444,40 439,35 " id="clusterblast-1_q30_3_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 24451 - 25288" locus_tag="CHAFR746836_0009460.1" class="clusterblast-orf" points="497,35 502,30 512,30 512,40 502,40 497,35 " id="clusterblast-1_q30_3_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 26586 - 27329" locus_tag="CHAFR746836_0009470.1" class="clusterblast-orf" points="534,35 539,30 547,30 547,40 539,40 534,35 " id="clusterblast-1_q30_3_8"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 27584 - 28762" locus_tag="CHAFR746836_0009480.1" class="clusterblast-orf" points="551,40 567,40 572,35 567,30 551,30 551,40 " id="clusterblast-1_q30_3_9"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 28842 - 30026" locus_tag="CHAFR746836_0009490.1" class="clusterblast-orf" points="573,35 578,30 594,30 594,40 578,40 573,35 " id="clusterblast-1_q30_3_10"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 30391 - 33688" locus_tag="CHAFR746836_0009500.1" class="clusterblast-orf" points="600,40 652,40 657,35 652,30 600,30 600,40 " id="clusterblast-1_q30_3_11"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 34235 - 35268" locus_tag="CHAFR746836_0009510.1" class="clusterblast-orf" points="667,35 672,30 685,30 685,40 672,40 667,35 " id="clusterblast-1_q30_3_12"  />
+</g>
+<g class="clusterblast-cluster" description="Ajellomyces capsulatus G186AR genomic scaffold supercont2.15..." label="GG663377.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GG663377.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Ajellomyces capsulatus G186AR genomic scaffold supercont2.15...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="serine/threonine_phosphatase[br]Location: 439044 - 441070" locus_tag="HCBG_08380" id="clusterblast-1_h30_3_0" points="10,85 15,80 45,80 45,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 441929 - 442317" locus_tag="HCBG_08381" id="clusterblast-1_h30_3_1" points="60,85 65,80 66,80 66,90 65,90 60,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="pyruvate_dehydrogenase[br]Location: 442871 - 444264" locus_tag="HCBG_08382" id="clusterblast-1_h30_3_2" points="76,90 95,90 100,85 95,80 76,80 76,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 444568 - 445748" locus_tag="HCBG_08383" id="clusterblast-1_h30_3_3" points="105,85 110,80 126,80 126,90 110,90 105,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 453180 - 455429" locus_tag="HCBG_08384" id="clusterblast-1_h30_3_4" points="255,90 289,90 294,85 289,80 255,80 255,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 456970 - 457572" locus_tag="HCBG_08385" id="clusterblast-1_h30_3_5" points="320,90 326,90 331,85 326,80 320,80 320,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="antibiotic_synthetase[br]Location: 460656 - 463817&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0009430.1&lt;/b&gt;&lt;br&gt;Percentage identity: 57%&lt;br&gt;Percentage coverage: 99%&lt;br&gt;BLAST bit score: 1186&lt;br&gt;E-value: 0.0" locus_tag="HCBG_08386" id="clusterblast-1_h30_3_6" points="384,85 389,80 439,80 439,90 389,90 384,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="NmrA_family_protein[br]Location: 464306 - 465544&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0009440.1&lt;/b&gt;&lt;br&gt;Percentage identity: 62%&lt;br&gt;Percentage coverage: 97%&lt;br&gt;BLAST bit score: 446&lt;br&gt;E-value: 2e-155" locus_tag="HCBG_08387" id="clusterblast-1_h30_3_7" points="448,90 464,90 469,85 464,80 448,80 448,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="conserved_hypothetical_protein[br]Location: 466332 - 467221" locus_tag="HCBG_08388" id="clusterblast-1_h30_3_8" points="483,90 493,90 498,85 493,80 483,80 483,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="FAD_binding_domain-containing_protein[br]Location: 468182 - 470249" locus_tag="HCBG_08389" id="clusterblast-1_h30_3_9" points="515,90 546,90 551,85 546,80 515,80 515,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="multidrug_resistance_protein_fnx1[br]Location: 470911 - 473399" locus_tag="HCBG_08390" id="clusterblast-1_h30_3_10" points="562,90 600,90 605,85 600,80 562,80 562,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="conserved_hypothetical_protein[br]Location: 474062 - 474991" locus_tag="HCBG_08391" id="clusterblast-1_h30_3_11" points="617,90 628,90 633,85 628,80 617,80 617,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 476459 - 477586" locus_tag="HCBG_08392" id="clusterblast-1_h30_3_12" points="658,90 673,90 678,85 673,80 658,80 658,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="conserved_hypothetical_protein[br]Location: 479333 - 480319" locus_tag="HCBG_08393" id="clusterblast-1_h30_3_13" points="708,90 720,90 725,85 720,80 708,80 708,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="actin-like_protein_arp9[br]Location: 480939 - 483338" locus_tag="HCBG_08394" id="clusterblast-1_h30_3_14" points="736,90 773,90 778,85 773,80 736,80 736,90 " class="clusterblast-orf"  />
+</g>
+</svg>

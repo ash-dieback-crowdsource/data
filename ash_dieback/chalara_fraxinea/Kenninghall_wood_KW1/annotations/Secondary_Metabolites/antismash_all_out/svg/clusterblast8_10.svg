@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7069 - 8172" locus_tag="CHAFR746836_0067810.1" class="clusterblast-orf" points="249,40 262,40 267,35 262,30 249,30 249,40 " id="clusterblast-1_q8_10_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 9727 - 13318" locus_tag="CHAFR746836_0067820.1" class="clusterblast-orf" points="293,35 298,30 354,30 354,40 298,40 293,35 " id="clusterblast-1_q8_10_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 14449 - 16282" locus_tag="CHAFR746836_0067830.1" class="clusterblast-orf" points="373,40 398,40 403,35 398,30 373,30 373,40 " id="clusterblast-1_q8_10_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 18109 - 19056" locus_tag="CHAFR746836_0067840.1" class="clusterblast-orf" points="434,35 439,30 450,30 450,40 439,40 434,35 " id="clusterblast-1_q8_10_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 20406 - 24215" locus_tag="CHAFR746836_0067850.1" class="clusterblast-orf" points="473,35 478,30 537,30 537,40 478,40 473,35 " id="clusterblast-1_q8_10_4"  />
+</g>
+<g class="clusterblast-cluster" description="Arthrobotrys oligospora ATCC 24927 contig00797, whole g..." label="ADOT01000147.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+ADOT01000147.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Arthrobotrys oligospora ATCC 24927 contig00797, whole g...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hypothetical_protein[br]Location: 138633 - 140512&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067810.1&lt;/b&gt;&lt;br&gt;Percentage identity: 36%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 214&lt;br&gt;E-value: 3e-62" locus_tag="AOL_s00081g227" id="clusterblast-1_h8_10_0" points="10,90 36,90 41,85 36,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 136765 - 137687" locus_tag="AOL_s00081g226" id="clusterblast-1_h8_10_1" points="57,85 62,80 72,80 72,90 62,90 57,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 135773 - 136458" locus_tag="AOL_s00081g225" id="clusterblast-1_h8_10_2" points="78,90 84,90 89,85 84,80 78,80 78,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hypothetical_protein[br]Location: 132427 - 134221&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067830.1&lt;/b&gt;&lt;br&gt;Percentage identity: 31%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 270&lt;br&gt;E-value: 3e-80" locus_tag="AOL_s00081g224" id="clusterblast-1_h8_10_3" points="115,90 140,90 145,85 140,80 115,80 115,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 130522 - 131637" locus_tag="AOL_s00081g223" id="clusterblast-1_h8_10_4" points="159,85 164,80 177,80 177,90 164,90 159,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 126991 - 128101" locus_tag="AOL_s00081g222" id="clusterblast-1_h8_10_5" points="218,90 232,90 237,85 232,80 218,80 218,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 125193 - 125949" locus_tag="AOL_s00081g221" id="clusterblast-1_h8_10_6" points="254,90 262,90 267,85 262,80 254,80 254,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 120892 - 123687" locus_tag="AOL_s00081g220" id="clusterblast-1_h8_10_7" points="292,90 334,90 339,85 334,80 292,80 292,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="hypothetical_protein[br]Location: 115892 - 120329&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067820.1&lt;/b&gt;&lt;br&gt;Percentage identity: 57%&lt;br&gt;Percentage coverage: 103%&lt;br&gt;BLAST bit score: 1342&lt;br&gt;E-value: 0.0" locus_tag="AOL_s00081g219" id="clusterblast-1_h8_10_8" points="349,85 354,80 423,80 423,90 354,90 349,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 112124 - 112852" locus_tag="AOL_s00081g218" id="clusterblast-1_h8_10_9" points="474,90 482,90 487,85 482,80 474,80 474,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 109247 - 110330" locus_tag="AOL_s00081g217" id="clusterblast-1_h8_10_10" points="517,90 530,90 535,85 530,80 517,80 517,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 104744 - 107540" locus_tag="AOL_s00081g216" id="clusterblast-1_h8_10_11" points="564,85 569,80 611,80 611,90 569,90 564,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 97995 - 99203" locus_tag="AOL_s00081g215" id="clusterblast-1_h8_10_12" points="704,85 709,80 724,80 724,90 709,90 704,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 94827 - 97514" locus_tag="AOL_s00081g214" id="clusterblast-1_h8_10_13" points="732,90 773,90 778,85 773,80 732,80 732,90 " class="clusterblast-orf"  />
+</g>
+</svg>

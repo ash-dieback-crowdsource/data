@@ -1,0 +1,24 @@
+ClusterBlast scores for scaffold_839.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0039260.1	1226	2562	-	unannotated orf	
+CHAFR746836_0039270.1	15255	18528	-	unannotated orf	
+CHAFR746836_0039280.1	19167	20852	-	unannotated orf	
+CHAFR746836_0039290.1	21253	22704	+	unannotated orf	
+CHAFR746836_0039300.1	23399	24853	+	unannotated orf	
+CHAFR746836_0039310.1	26104	27481	+	unannotated orf	
+CHAFR746836_0039320.1	28342	29062	-	unannotated orf	
+CHAFR746836_0039330.1	31536	33382	+	unannotated orf	
+CHAFR746836_0039340.1	40312	41017	-	unannotated orf	
+CHAFR746836_0039350.1	42096	42447	+	unannotated orf	
+CHAFR746836_0039360.1	43344	44847	-	unannotated orf	
+CHAFR746836_0039370.1	45388	49582	+	unannotated orf	
+CHAFR746836_0039380.1	52859	54083	-	unannotated orf	
+CHAFR746836_0039390.1	56493	59396	+	unannotated orf	
+CHAFR746836_0039400.1	60867	62110	+	unannotated orf	
+
+
+Significant hits: 
+
+
+Details:

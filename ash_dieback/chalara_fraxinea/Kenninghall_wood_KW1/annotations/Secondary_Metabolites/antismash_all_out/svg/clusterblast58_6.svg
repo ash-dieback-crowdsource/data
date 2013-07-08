@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 12682 - 14106" locus_tag="CHAFR746836_0048090.1" class="clusterblast-orf" points="282,35 287,30 301,30 301,40 287,40 282,35 " id="clusterblast-1_q58_6_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 15778 - 17791" locus_tag="CHAFR746836_0048100.1" class="clusterblast-orf" points="325,40 348,40 353,35 348,30 325,30 325,40 " id="clusterblast-1_q58_6_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 18075 - 18962" locus_tag="CHAFR746836_0048110.1" class="clusterblast-orf" points="357,35 362,30 369,30 369,40 362,40 357,35 " id="clusterblast-1_q58_6_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 20277 - 28682" locus_tag="CHAFR746836_0048120.1" class="clusterblast-orf" points="387,40 499,40 504,35 499,30 387,30 387,40 " id="clusterblast-1_q58_6_3"  />
+</g>
+<g class="clusterblast-cluster" description="Aspergillus kawachii IFO 4308 DNA, contig: scaffold00013, wh..." label="DF126459.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+DF126459.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Aspergillus kawachii IFO 4308 DNA, contig: scaffold00013, wh...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 158299 - 159876" locus_tag="AKAW_05441" id="clusterblast-1_h58_6_0" points="10,90 26,90 31,85 26,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="UDP-galactose_4-epimerase[br]Location: 156363 - 157199" locus_tag="AKAW_05440" id="clusterblast-1_h58_6_1" points="47,90 53,90 58,85 53,80 47,80 47,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="allantoate_permease[br]Location: 153457 - 155604" locus_tag="AKAW_05439" id="clusterblast-1_h58_6_2" points="69,90 94,90 99,85 94,80 69,80 69,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="FAD_binding_domain_protein[br]Location: 150234 - 152309" locus_tag="AKAW_05438" id="clusterblast-1_h58_6_3" points="115,90 139,90 144,85 139,80 115,80 115,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="arylsulfatase_A[br]Location: 147303 - 148841" locus_tag="AKAW_05437" id="clusterblast-1_h58_6_4" points="163,90 179,90 184,85 179,80 163,80 163,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="polygalacturonase_(PgaI)[br]Location: 143299 - 144521" locus_tag="AKAW_05436" id="clusterblast-1_h58_6_5" points="223,90 235,90 240,85 235,80 223,80 223,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="NRPS-like_enzyme[br]Location: 136163 - 139535" locus_tag="AKAW_05435" id="clusterblast-1_h58_6_6" points="292,85 297,80 339,80 339,90 297,90 292,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="integral_membrane_protein[br]Location: 134189 - 135368&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048090.1&lt;/b&gt;&lt;br&gt;Percentage identity: 32%&lt;br&gt;Percentage coverage: 62%&lt;br&gt;BLAST bit score: 127&lt;br&gt;E-value: 1e-31" locus_tag="AKAW_05434" id="clusterblast-1_h58_6_7" points="350,85 355,80 367,80 367,90 355,90 350,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hypothetical_protein[br]Location: 132780 - 133536&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048110.1&lt;/b&gt;&lt;br&gt;Percentage identity: 36%&lt;br&gt;Percentage coverage: 90%&lt;br&gt;BLAST bit score: 122&lt;br&gt;E-value: 2e-32" locus_tag="AKAW_05433" id="clusterblast-1_h58_6_8" points="376,90 381,90 386,85 381,80 376,80 376,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="polyketide_synthase[br]Location: 123689 - 131921&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048120.1&lt;/b&gt;&lt;br&gt;Percentage identity: 36%&lt;br&gt;Percentage coverage: 103%&lt;br&gt;BLAST bit score: 1577&lt;br&gt;E-value: 0.0" locus_tag="AKAW_05432" id="clusterblast-1_h58_6_9" points="398,90 508,90 513,85 508,80 398,80 398,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="flavin-containing_amine_oxidasedehydrogenase[br]Location: 121019 - 122527" locus_tag="AKAW_05431" id="clusterblast-1_h58_6_10" points="529,85 534,80 550,80 550,90 534,90 529,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="feruloyl_esterase_B_precursor[br]Location: 119092 - 120654" locus_tag="AKAW_05430" id="clusterblast-1_h58_6_11" points="555,85 560,80 577,80 577,90 560,90 555,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="similar_to_An01g11590[br]Location: 114134 - 115490" locus_tag="AKAW_05429" id="clusterblast-1_h58_6_12" points="627,90 641,90 646,85 641,80 627,80 627,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="pantothenate_transporter[br]Location: 111992 - 113842" locus_tag="AKAW_05428" id="clusterblast-1_h58_6_13" points="650,85 655,80 676,80 676,90 655,90 650,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="amidohydrolase[br]Location: 109432 - 110907" locus_tag="AKAW_05427" id="clusterblast-1_h58_6_14" points="691,90 706,90 711,85 706,80 691,80 691,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Zn(II)2Cys6_transcription_factor[br]Location: 106786 - 108743" locus_tag="AKAW_05426" id="clusterblast-1_h58_6_15" points="721,90 743,90 748,85 743,80 721,80 721,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 106065 - 106706" locus_tag="AKAW_05425" id="clusterblast-1_h58_6_16" points="749,85 754,80 758,80 758,90 754,90 749,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 104667 - 105001" locus_tag="AKAW_05424" id="clusterblast-1_h58_6_17" points="773,85 778,80 778,80 778,90 778,90 773,85 " class="clusterblast-orf"  />
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 41959 - 43540" locus_tag="CHAFR746836_0014170.1" class="clusterblast-orf" points="217,35 222,30 238,30 238,40 222,40 217,35 " id="clusterblast-1_q31_1_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 53187 - 67692" locus_tag="CHAFR746836_0014180.1" class="clusterblast-orf" points="370,40 564,40 569,35 564,30 370,30 370,40 " id="clusterblast-1_q31_1_1"  />
+</g>
+<g class="clusterblast-cluster" description="Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaff..." label="GL985086.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL985086.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaff...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 73449 - 74449" locus_tag="TRIREDRAFT_69858" id="clusterblast-1_h31_1_0" points="10,85 15,80 23,80 23,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 71851 - 72771" locus_tag="TRIREDRAFT_124030" id="clusterblast-1_h31_1_1" points="33,85 38,80 45,80 45,90 38,90 33,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 70077 - 71345" locus_tag="TRIREDRAFT_5844" id="clusterblast-1_h31_1_2" points="52,90 64,90 69,85 64,80 52,80 52,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 67820 - 69550" locus_tag="TRIREDRAFT_111981" id="clusterblast-1_h31_1_3" points="77,90 95,90 100,85 95,80 77,80 77,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Hypothetical_protein[br]Location: 66063 - 67694" locus_tag="TRIREDRAFT_69885" id="clusterblast-1_h31_1_4" points="102,85 107,80 124,80 124,90 107,90 102,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="N-terminal_binuclear_Zn_cluster-containing/DNA[br]Location: 62613 - 64529" locus_tag="TRIREDRAFT_69972" id="clusterblast-1_h31_1_5" points="146,85 151,80 172,80 172,90 151,90 146,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="ornithine_monooxygenase[br]Location: 57593 - 59345&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014170.1&lt;/b&gt;&lt;br&gt;Percentage identity: 44%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 375&lt;br&gt;E-value: 8e-123" locus_tag="TRIREDRAFT_23368" id="clusterblast-1_h31_1_6" points="217,85 222,80 241,80 241,90 222,90 217,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="non-ribosomal_peptide_synthetase,_siderophore[br]Location: 39879 - 54649&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014180.1&lt;/b&gt;&lt;br&gt;Percentage identity: 37%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 3093&lt;br&gt;E-value: 0.0" locus_tag="TRIREDRAFT_69946" id="clusterblast-1_h31_1_7" points="281,90 478,90 483,85 478,80 281,80 281,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="choline_oxidase[br]Location: 37963 - 39594" locus_tag="TRIREDRAFT_23367" id="clusterblast-1_h31_1_8" points="487,85 492,80 510,80 510,90 492,90 487,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 33994 - 35520" locus_tag="TRIREDRAFT_52375" id="clusterblast-1_h31_1_9" points="543,90 559,90 564,85 559,80 543,80 543,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 32775 - 33824" locus_tag="TRIREDRAFT_69950" id="clusterblast-1_h31_1_10" points="567,85 572,80 581,80 581,90 572,90 567,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="alcohol_dehydrogenase[br]Location: 29688 - 30794" locus_tag="TRIREDRAFT_69956" id="clusterblast-1_h31_1_11" points="608,85 613,80 623,80 623,90 613,90 608,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 27356 - 28093" locus_tag="TRIREDRAFT_69963" id="clusterblast-1_h31_1_12" points="645,85 650,80 655,80 655,90 650,90 645,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 23848 - 26061" locus_tag="TRIREDRAFT_111968" id="clusterblast-1_h31_1_13" points="673,90 698,90 703,85 698,80 673,80 673,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 22647 - 23648" locus_tag="TRIREDRAFT_69920" id="clusterblast-1_h31_1_14" points="706,85 711,80 720,80 720,90 711,90 706,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="predicted_protein[br]Location: 20718 - 21695" locus_tag="TRIREDRAFT_111966" id="clusterblast-1_h31_1_15" points="733,90 741,90 746,85 741,80 733,80 733,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="amidase[br]Location: 18435 - 20427" locus_tag="TRIREDRAFT_69863" id="clusterblast-1_h31_1_16" points="750,85 755,80 778,80 778,90 755,90 750,85 " class="clusterblast-orf"  />
+</g>
+</svg>

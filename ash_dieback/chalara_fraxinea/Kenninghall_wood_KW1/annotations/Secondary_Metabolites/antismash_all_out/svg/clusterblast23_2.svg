@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 4665 - 6373" locus_tag="CHAFR746836_0090420.1" class="clusterblast-orf" points="10,35 15,30 25,30 25,40 15,40 10,35 " id="clusterblast-1_q23_2_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="unannotated orf[br]Location: 13107 - 14013" locus_tag="CHAFR746836_0090430.1" class="clusterblast-orf" points="85,35 90,30 93,30 93,40 90,40 85,35 " id="clusterblast-1_q23_2_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,63,190); " description="unannotated orf[br]Location: 15082 - 18583" locus_tag="CHAFR746836_0090440.1" class="clusterblast-orf" points="103,35 108,30 134,30 134,40 108,40 103,35 " id="clusterblast-1_q23_2_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,190,63); " description="unannotated orf[br]Location: 62601 - 69132" locus_tag="CHAFR746836_0090450.1" class="clusterblast-orf" points="529,35 534,30 588,30 588,40 534,40 529,35 " id="clusterblast-1_q23_2_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,190); " description="unannotated orf[br]Location: 70531 - 72251" locus_tag="CHAFR746836_0090460.1" class="clusterblast-orf" points="600,40 611,40 616,35 611,30 600,30 600,40 " id="clusterblast-1_q23_2_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 75015 - 76460" locus_tag="CHAFR746836_0090470.1" class="clusterblast-orf" points="641,35 646,30 654,30 654,40 646,40 641,35 " id="clusterblast-1_q23_2_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,190,63); " description="unannotated orf[br]Location: 79984 - 80954" locus_tag="CHAFR746836_0090480.1" class="clusterblast-orf" points="685,35 690,30 694,30 694,40 690,40 685,35 " id="clusterblast-1_q23_2_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,190,190); " description="unannotated orf[br]Location: 81993 - 83038" locus_tag="CHAFR746836_0090490.1" class="clusterblast-orf" points="703,40 708,40 713,35 708,30 703,30 703,40 " id="clusterblast-1_q23_2_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 86529 - 87580" locus_tag="CHAFR746836_0090500.1" class="clusterblast-orf" points="744,35 749,30 753,30 753,40 749,40 744,35 " id="clusterblast-1_q23_2_8"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 88454 - 90258" locus_tag="CHAFR746836_0090510.1" class="clusterblast-orf" points="761,40 773,40 778,35 773,30 761,30 761,40 " id="clusterblast-1_q23_2_9"  />
+</g>
+<g class="clusterblast-cluster" description="Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC 1..." label="GL629769.1_c4"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL629769.1_c4</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC 1...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="map_kinase_kinase_ste7[br]Location: 1469246 - 1471149" locus_tag="CMQ_3016" id="clusterblast-1_h23_2_0" points="199,90 211,90 216,85 211,80 199,80 199,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="HAD_superfamily_hydrolase[br]Location: 1471541 - 1472505" locus_tag="CMQ_3066" id="clusterblast-1_h23_2_1" points="219,85 224,80 228,80 228,90 224,90 219,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="60S_ribosomal_protein_l19[br]Location: 1473143 - 1476927" locus_tag="CMQ_3121" id="clusterblast-1_h23_2_2" points="233,90 262,90 267,85 262,80 233,80 233,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="iron_transport_multicopper_oxidase_fet3[br]Location: 1481103 - 1482923" locus_tag="CMQ_3183" id="clusterblast-1_h23_2_3" points="305,90 316,90 321,85 316,80 305,80 305,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,190,63); " description="polyketide_synthase[br]Location: 1489324 - 1496080&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0090450.1&lt;/b&gt;&lt;br&gt;Percentage identity: 58%&lt;br&gt;Percentage coverage: 102%&lt;br&gt;BLAST bit score: 2535&lt;br&gt;E-value: 0.0" locus_tag="CMQ_2546" id="clusterblast-1_h23_2_4" points="379,90 434,90 439,85 434,80 379,80 379,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="transcription_factor[br]Location: 1502193 - 1503461" locus_tag="CMQ_2620" id="clusterblast-1_h23_2_5" points="494,90 501,90 506,85 501,80 494,80 494,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(190,63,63); " description="tetrahydroxynaphthalene_reductase[br]Location: 1506858 - 1507789&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0090430.1&lt;/b&gt;&lt;br&gt;Percentage identity: 64%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 356&lt;br&gt;E-value: 3e-121" locus_tag="CMQ_2887" id="clusterblast-1_h23_2_6" points="536,85 541,80 544,80 544,90 541,90 536,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:rgb(63,63,190); " description="transcription_factor_cmr1[br]Location: 1509124 - 1512557&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0090440.1&lt;/b&gt;&lt;br&gt;Percentage identity: 45%&lt;br&gt;Percentage coverage: 89%&lt;br&gt;BLAST bit score: 671&lt;br&gt;E-value: 0.0" locus_tag="CMQ_3211" id="clusterblast-1_h23_2_7" points="556,85 561,80 587,80 587,90 561,90 556,85 " class="clusterblast-orf"  />
+</g>
+</svg>

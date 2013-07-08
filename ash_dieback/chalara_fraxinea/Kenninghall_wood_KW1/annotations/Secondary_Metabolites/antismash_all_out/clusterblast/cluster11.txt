@@ -1,0 +1,180 @@
+ClusterBlast scores for scaffold_1378.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0080190.1	5189	6389	-	unannotated orf	
+CHAFR746836_0080200.1	7072	8707	-	unannotated orf	
+CHAFR746836_0080210.1	9665	11576	-	unannotated orf	
+CHAFR746836_0080220.1	12176	14455	+	unannotated orf	
+CHAFR746836_0080230.1	16174	17543	+	unannotated orf	
+CHAFR746836_0080240.1	17828	19091	-	unannotated orf	
+
+
+Significant hits: 
+1. ABDF02000075.1_c1	Trichoderma virens Gv29-8 TRIVIscaffold_75, whole genome shotgun sequence.
+2. ABDF02000078.1_c1	Trichoderma virens Gv29-8 TRIVIscaffold_78, whole genome shotgun sequence.
+3. DS995718.1_c2	Trichophyton equinum CBS 127.97 supercont1.1 genomic scaffold, whole genome shotgun sequence.
+4. GG698491.1_c1	Trichophyton tonsurans CBS 112818 genomic scaffold supercont1.15, whole genome shotgun sequence.
+5. JH126399.1_c7	Cordyceps militaris CM01 unplaced genomic scaffold CCM_S00001, whole genome shotgun sequence.
+
+
+Details:
+
+>>
+1. ABDF02000075.1_c1
+Source: Trichoderma virens Gv29-8 TRIVIscaffold_75, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 973
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIVIDRAFT_70149	EHK21128.1	167249	169350	+	glycoside_hydrolase_family_71_protein
+TRIVIDRAFT_202300	EHK21089.1	169958	171041	-	hypothetical_protein
+TRIVIDRAFT_51604	EHK21090.1	171401	172224	+	hypothetical_protein
+TRIVIDRAFT_51661	EHK21091.1	174384	175401	-	hypothetical_protein
+TRIVIDRAFT_70145	EHK21092.1	177332	178664	+	hypothetical_protein
+TRIVIDRAFT_23442	EHK21093.1	179879	185682	+	hypothetical_protein
+TRIVIDRAFT_202307	EHK21094.1	186255	191218	-	hypothetical_protein
+TRIVIDRAFT_192417	EHK21095.1	192249	196846	+	hypothetical_protein
+TRIVIDRAFT_51630	EHK21096.1	198005	199659	+	hypothetical_protein
+TRIVIDRAFT_223368	EHK21097.1	199941	200483	+	hypothetical_protein
+TRIVIDRAFT_223369	EHK21098.1	200783	208190	+	non-ribosomal_peptide_synthetase
+TRIVIDRAFT_112807	EHK21099.1	208930	211667	-	hypothetical_protein
+TRIVIDRAFT_153345	EHK21100.1	215349	216350	-	hypothetical_protein
+TRIVIDRAFT_192420	EHK21101.1	217689	219715	-	hypothetical_protein
+TRIVIDRAFT_51664	EHK21102.1	220372	220764	-	hypothetical_protein
+TRIVIDRAFT_192422	EHK21103.1	221248	223223	-	hypothetical_protein
+TRIVIDRAFT_137343	EHK21104.1	224668	225519	+	hypothetical_protein
+TRIVIDRAFT_70133	EHK21105.1	226217	227220	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0080200.1	TRIVIDRAFT_192420	47	496	95.0367647059	2e-168	
+CHAFR746836_0080220.1	TRIVIDRAFT_192422	46	477	90.1515151515	2e-162	
+
+
+
+>>
+2. ABDF02000078.1_c1
+Source: Trichoderma virens Gv29-8 TRIVIscaffold_78, whole genome shotgun sequence.
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 560
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIVIDRAFT_223620	EHK20648.1	22016	24003	+	hypothetical_protein
+TRIVIDRAFT_49693	EHK20649.1	26721	27620	+	hypothetical_protein
+TRIVIDRAFT_213302	EHK20650.1	28424	30091	-	hypothetical_protein
+TRIVIDRAFT_223622	EHK20651.1	31013	33157	+	hypothetical_protein
+TRIVIDRAFT_216312	EHK20652.1	33620	34793	-	hypothetical_protein
+TRIVIDRAFT_223624	EHK20653.1	35673	36551	+	hypothetical_protein
+TRIVIDRAFT_69355	EHK20654.1	37650	39222	+	hypothetical_protein
+TRIVIDRAFT_49800	EHK20655.1	39815	45769	-	putative_polyketide_synthase
+TRIVIDRAFT_49810	EHK20656.1	46398	47588	-	hypothetical_protein
+TRIVIDRAFT_192594	EHK20657.1	48508	52024	+	hypothetical_protein
+TRIVIDRAFT_49755	EHK20658.1	52268	53523	-	hypothetical_protein
+TRIVIDRAFT_18436	EHK20659.1	55312	56073	-	hypothetical_protein
+TRIVIDRAFT_49659	EHK20660.1	57119	58261	-	hypothetical_protein
+TRIVIDRAFT_69362	EHK20800.1	60046	84786	-	non-ribosomal_peptide_synthetase
+TRIVIDRAFT_83471	EHK20661.1	87545	88785	+	hypothetical_protein
+TRIVIDRAFT_180884	EHK20662.1	89989	91931	+	hypothetical_protein
+TRIVIDRAFT_11937	EHK20663.1	92780	94866	-	hypothetical_protein
+TRIVIDRAFT_81252	EHK20664.1	98207	99623	+	hypothetical_protein
+TRIVIDRAFT_192604	EHK20665.1	100187	101289	-	hypothetical_protein
+TRIVIDRAFT_154026	EHK20666.1	101576	102283	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0080200.1	TRIVIDRAFT_213302	35	364	95.0367647059	4e-117	
+CHAFR746836_0080240.1	TRIVIDRAFT_192594	31	196	98.9637305699	5e-54	
+
+
+
+>>
+3. DS995718.1_c2
+Source: Trichophyton equinum CBS 127.97 supercont1.1 genomic scaffold, whole genome shotgun sequence.
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 374
+
+Table of genes, locations, strands and annotations of subject cluster:
+TEQG_00207	EGE01155.1	526835	528252	-	hypothetical_protein
+TEQG_00208	EGE01156.1	529490	530532	+	hypothetical_protein
+TEQG_00209	EGE01157.1	530717	534106	-	valyl-tRNA_synthetase
+TEQG_00210	EGE01158.1	534572	535325	-	hypothetical_protein
+TEQG_00211	EGE01159.1	535928	538417	+	hypothetical_protein
+TEQG_08568	EGE01160.1	540090	540415	+	hypothetical_protein
+TEQG_00212	EGE01161.1	540959	541863	-	serine/threonine_protein_kinase
+TEQG_00213	EGE01162.1	542819	544033	-	CMGC/CK2_protein_kinase
+TEQG_00214	EGE01163.1	544565	546067	-	sterigmatocystin_8-O-methyltransferase
+TEQG_00215	EGE01164.1	546844	549816	+	TdiA_protein
+TEQG_00216	EGE01165.1	550641	552056	+	methyltransferase_B
+TEQG_00217	EGE01166.1	552567	554315	+	trichodiene_oxygenase
+TEQG_00218	EGE01167.1	555063	556297	+	hypothetical_protein
+TEQG_00219	EGE01168.1	556750	558738	-	MFS_transporter
+TEQG_00220	EGE01169.1	559467	560423	+	NmrA_family_protein
+TEQG_00221	EGE01170.1	560517	562181	-	hypothetical_protein
+TEQG_00222	EGE01171.1	563024	564047	+	ribonuclease_P_protein_subunit_p30
+TEQG_00223	EGE01172.1	564994	569967	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0080200.1	TEQG_00219	31	151	81.0661764706	2e-38	
+CHAFR746836_0080240.1	TEQG_00216	31	223	96.1139896373	4e-67	
+
+
+
+>>
+4. GG698491.1_c1
+Source: Trichophyton tonsurans CBS 112818 genomic scaffold supercont1.15, whole genome shotgun sequence.
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 370
+
+Table of genes, locations, strands and annotations of subject cluster:
+TESG_03442	EGD95981.1	261334	266310	-	hypothetical_protein
+TESG_03443	EGD95982.1	267278	268301	-	ribonuclease_P_complex_subunit_Pop2
+TESG_03444	EGD95983.1	269142	270587	+	hypothetical_protein
+TESG_03445	EGD95984.1	270893	271624	-	hypothetical_protein
+TESG_03446	EGD95985.1	272578	274566	+	hypothetical_protein
+TESG_03447	EGD95986.1	275019	276254	-	hypothetical_protein
+TESG_03448	EGD95987.1	277002	278750	-	hypothetical_protein
+TESG_03449	EGD95988.1	279261	280676	-	hypothetical_protein
+TESG_03450	EGD95989.1	281501	284473	-	hypothetical_protein
+TESG_03451	EGD95990.1	285250	286752	+	hypothetical_protein
+TESG_03452	EGD95991.1	287284	288497	+	CMGC/CK2_protein_kinase
+TESG_03453	EGD95992.1	289573	290613	+	serine/threonine_protein_kinase
+TESG_03454	EGD95993.1	290863	291224	-	hypothetical_protein
+TESG_03455	EGD95994.1	292898	295390	-	hypothetical_protein
+TESG_03456	EGD95995.1	295993	296743	+	hypothetical_protein
+TESG_03457	EGD95996.1	297209	300600	+	valyl-tRNA_synthetase
+TESG_03458	EGD95997.1	300785	301827	-	hypothetical_protein
+TESG_03459	EGD95998.1	303065	304482	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0080200.1	TESG_03446	31	147	81.8014705882	5e-37	
+CHAFR746836_0080240.1	TESG_03449	31	223	96.1139896373	4e-67	
+
+
+
+>>
+5. JH126399.1_c7
+Source: Cordyceps militaris CM01 unplaced genomic scaffold CCM_S00001, whole genome shotgun sequence.
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 262
+
+Table of genes, locations, strands and annotations of subject cluster:
+CCM_01917	EGX97257.1	6193555	6195548	+	homeoprotein
+CCM_01918	EGX97258.1	6197165	6201793	+	haloacid_dehalogenase-like_hydrolase,_putative
+CCM_01919	EGX97259.1	6203352	6204618	+	CFEM_domain-containing_protein
+CCM_01920	EGX97260.1	6204942	6210764	-	ATP-dependent_bile_acid_permease
+CCM_01921	EGX97261.1	6211521	6218454	-	polyketide_synthase,_putative
+CCM_01922	EGX97262.1	6219787	6220898	-	Fungal_transcriptional_regulatory_protein
+CCM_01923	EGX97263.1	6222197	6223525	-	hydroxyindole_O-methyltransferase,_putative
+CCM_01924	EGX97264.1	6224000	6226174	+	conidial_pigment_biosynthesis_oxidase
+CCM_01925	EGX97265.1	6227178	6228996	+	carboxylesterase_family_protein
+CCM_01926	EGX97266.1	6230579	6231627	-	short_chain_dehydrogenase/reductase
+CCM_01927	EGX97267.1	6232248	6234158	+	MFS_transporter,_putative
+CCM_01928	EGX97268.1	6236515	6238290	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0080200.1	CCM_01927	31	178	70.0367647059	4e-47	
+CHAFR746836_0080240.1	CCM_01923	31	84	55.9585492228	1e-16	
+

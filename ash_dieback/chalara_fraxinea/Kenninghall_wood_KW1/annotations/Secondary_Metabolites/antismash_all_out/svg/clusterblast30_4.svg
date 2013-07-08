@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 1639 - 3862" locus_tag="CHAFR746836_0009390.1" class="clusterblast-orf" points="10,40 55,40 60,35 55,30 10,30 10,40 " id="clusterblast-1_q30_4_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 4351 - 6763" locus_tag="CHAFR746836_0009400.1" class="clusterblast-orf" points="71,40 122,40 127,35 122,30 71,30 71,40 " id="clusterblast-1_q30_4_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 8433 - 9813" locus_tag="CHAFR746836_0009410.1" class="clusterblast-orf" points="165,40 191,40 196,35 191,30 165,30 165,40 " id="clusterblast-1_q30_4_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 10159 - 11305" locus_tag="CHAFR746836_0009420.1" class="clusterblast-orf" points="204,35 209,30 230,30 230,40 209,40 204,35 " id="clusterblast-1_q30_4_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 12094 - 15169" locus_tag="CHAFR746836_0009430.1" class="clusterblast-orf" points="248,35 253,30 318,30 318,40 253,40 248,35 " id="clusterblast-1_q30_4_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 18460 - 19626" locus_tag="CHAFR746836_0009440.1" class="clusterblast-orf" points="394,35 399,30 420,30 420,40 399,40 394,35 " id="clusterblast-1_q30_4_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 21127 - 22798" locus_tag="CHAFR746836_0009450.1" class="clusterblast-orf" points="455,35 460,30 493,30 493,40 460,40 455,35 " id="clusterblast-1_q30_4_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 24451 - 25288" locus_tag="CHAFR746836_0009460.1" class="clusterblast-orf" points="530,35 535,30 550,30 550,40 535,40 530,35 " id="clusterblast-1_q30_4_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 26586 - 27329" locus_tag="CHAFR746836_0009470.1" class="clusterblast-orf" points="579,35 584,30 596,30 596,40 584,40 579,35 " id="clusterblast-1_q30_4_8"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 27584 - 28762" locus_tag="CHAFR746836_0009480.1" class="clusterblast-orf" points="602,40 624,40 629,35 624,30 602,30 602,40 " id="clusterblast-1_q30_4_9"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 28842 - 30026" locus_tag="CHAFR746836_0009490.1" class="clusterblast-orf" points="631,35 636,30 658,30 658,40 636,40 631,35 " id="clusterblast-1_q30_4_10"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 30391 - 33688" locus_tag="CHAFR746836_0009500.1" class="clusterblast-orf" points="666,40 736,40 741,35 736,30 666,30 666,40 " id="clusterblast-1_q30_4_11"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 34235 - 35268" locus_tag="CHAFR746836_0009510.1" class="clusterblast-orf" points="754,35 759,30 778,30 778,40 759,40 754,35 " id="clusterblast-1_q30_4_12"  />
+</g>
+<g class="clusterblast-cluster" description="Ajellomyces dermatitidis ATCC 18188 genomic scaffold superco..." label="GG749478.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GG749478.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Ajellomyces dermatitidis ATCC 18188 genomic scaffold superco...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="capsule_polysaccharide_biosynthesis_protein[br]Location: 210018 - 211211" locus_tag="BDDG_07817" id="clusterblast-1_h30_4_0" points="202,85 207,80 229,80 229,90 207,90 202,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="antibiotic_synthetase[br]Location: 212204 - 215368&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0009430.1&lt;/b&gt;&lt;br&gt;Percentage identity: 56%&lt;br&gt;Percentage coverage: 99%&lt;br&gt;BLAST bit score: 1190&lt;br&gt;E-value: 0.0" locus_tag="BDDG_07818" id="clusterblast-1_h30_4_1" points="251,85 256,80 324,80 324,90 256,90 251,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="NmrA_family_protein[br]Location: 215915 - 217141&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0009440.1&lt;/b&gt;&lt;br&gt;Percentage identity: 61%&lt;br&gt;Percentage coverage: 97%&lt;br&gt;BLAST bit score: 440&lt;br&gt;E-value: 3e-153" locus_tag="BDDG_07819" id="clusterblast-1_h30_4_2" points="336,90 359,90 364,85 359,80 336,80 336,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 217921 - 218771" locus_tag="BDDG_07820" id="clusterblast-1_h30_4_3" points="382,90 396,90 401,85 396,80 382,80 382,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="phenol_monooxygenase[br]Location: 219730 - 221805" locus_tag="BDDG_07821" id="clusterblast-1_h30_4_4" points="423,90 466,90 471,85 466,80 423,80 423,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="MFS_multidrug_transporter[br]Location: 222615 - 224375" locus_tag="BDDG_07822" id="clusterblast-1_h30_4_5" points="489,90 524,90 529,85 524,80 489,80 489,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 225893 - 226822" locus_tag="BDDG_07823" id="clusterblast-1_h30_4_6" points="564,90 580,90 585,85 580,80 564,80 564,90 " class="clusterblast-orf"  />
+</g>
+</svg>

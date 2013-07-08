@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5189 - 6389" locus_tag="CHAFR746836_0080190.1" class="clusterblast-orf" points="270,35 275,30 291,30 291,40 275,40 270,35 " id="clusterblast-1_q11_4_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7072 - 8707" locus_tag="CHAFR746836_0080200.1" class="clusterblast-orf" points="303,35 308,30 332,30 332,40 308,40 303,35 " id="clusterblast-1_q11_4_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 9665 - 11576" locus_tag="CHAFR746836_0080210.1" class="clusterblast-orf" points="349,35 354,30 383,30 383,40 354,40 349,35 " id="clusterblast-1_q11_4_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 12176 - 14455" locus_tag="CHAFR746836_0080220.1" class="clusterblast-orf" points="394,40 429,40 434,35 429,30 394,30 394,40 " id="clusterblast-1_q11_4_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 16174 - 17543" locus_tag="CHAFR746836_0080230.1" class="clusterblast-orf" points="465,40 484,40 489,35 484,30 465,30 465,40 " id="clusterblast-1_q11_4_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 17828 - 19091" locus_tag="CHAFR746836_0080240.1" class="clusterblast-orf" points="494,35 499,30 517,30 517,40 499,40 494,35 " id="clusterblast-1_q11_4_5"  />
+</g>
+<g class="clusterblast-cluster" description="Trichophyton tonsurans CBS 112818 genomic scaffold supercont..." label="GG698491.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GG698491.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Trichophyton tonsurans CBS 112818 genomic scaffold supercont...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 261334 - 266310" locus_tag="TESG_03442" id="clusterblast-1_h11_4_0" points="10,85 15,80 98,80 98,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="ribonuclease_P_complex_subunit_Pop2[br]Location: 267278 - 268301" locus_tag="TESG_03443" id="clusterblast-1_h11_4_1" points="115,85 120,80 134,80 134,90 120,90 115,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 269142 - 270587" locus_tag="TESG_03444" id="clusterblast-1_h11_4_2" points="148,90 169,90 174,85 169,80 148,80 148,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 270893 - 271624" locus_tag="TESG_03445" id="clusterblast-1_h11_4_3" points="180,85 185,80 193,80 193,90 185,90 180,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hypothetical_protein[br]Location: 272578 - 274566&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0080200.1&lt;/b&gt;&lt;br&gt;Percentage identity: 31%&lt;br&gt;Percentage coverage: 81%&lt;br&gt;BLAST bit score: 147&lt;br&gt;E-value: 5e-37" locus_tag="TESG_03446" id="clusterblast-1_h11_4_4" points="210,90 240,90 245,85 240,80 210,80 210,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 275019 - 276254" locus_tag="TESG_03447" id="clusterblast-1_h11_4_5" points="253,85 258,80 275,80 275,90 258,90 253,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 277002 - 278750" locus_tag="TESG_03448" id="clusterblast-1_h11_4_6" points="288,85 293,80 319,80 319,90 293,90 288,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hypothetical_protein[br]Location: 279261 - 280676&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0080240.1&lt;/b&gt;&lt;br&gt;Percentage identity: 31%&lt;br&gt;Percentage coverage: 96%&lt;br&gt;BLAST bit score: 223&lt;br&gt;E-value: 4e-67" locus_tag="TESG_03449" id="clusterblast-1_h11_4_7" points="329,85 334,80 354,80 354,90 334,90 329,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 281501 - 284473" locus_tag="TESG_03450" id="clusterblast-1_h11_4_8" points="368,85 373,80 421,80 421,90 373,90 368,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 285250 - 286752" locus_tag="TESG_03451" id="clusterblast-1_h11_4_9" points="435,90 457,90 462,85 457,80 435,80 435,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="CMGC/CK2_protein_kinase[br]Location: 287284 - 288497" locus_tag="TESG_03452" id="clusterblast-1_h11_4_10" points="471,90 488,90 493,85 488,80 471,80 471,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="serine/threonine_protein_kinase[br]Location: 289573 - 290613" locus_tag="TESG_03453" id="clusterblast-1_h11_4_11" points="512,90 526,90 531,85 526,80 512,80 512,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 290863 - 291224" locus_tag="TESG_03454" id="clusterblast-1_h11_4_12" points="535,85 540,80 542,80 542,90 540,90 535,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 292898 - 295390" locus_tag="TESG_03455" id="clusterblast-1_h11_4_13" points="571,85 576,80 616,80 616,90 576,90 571,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 295993 - 296743" locus_tag="TESG_03456" id="clusterblast-1_h11_4_14" points="626,90 635,90 640,85 635,80 626,80 626,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="valyl-tRNA_synthetase[br]Location: 297209 - 300600" locus_tag="TESG_03457" id="clusterblast-1_h11_4_15" points="648,90 703,90 708,85 703,80 648,80 648,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 300785 - 301827" locus_tag="TESG_03458" id="clusterblast-1_h11_4_16" points="712,85 717,80 730,80 730,90 717,90 712,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 303065 - 304482" locus_tag="TESG_03459" id="clusterblast-1_h11_4_17" points="752,90 773,90 778,85 773,80 752,80 752,90 " class="clusterblast-orf"  />
+</g>
+</svg>

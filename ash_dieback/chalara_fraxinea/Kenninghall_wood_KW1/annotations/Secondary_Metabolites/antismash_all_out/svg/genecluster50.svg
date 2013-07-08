@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="90" width="768.0" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -30 819.2 60"  >
+<g  >
+<line y1="60" x2="778.0" style="stroke:grey; stroke-width:2; " x1="10" y2="60"  />
+</g>
+<g id="a50_000"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="10,60 15,55 26,55 26,65 15,65 10,60 "  />
+</g>
+<g id="a50_001"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="186,60 191,55 228,55 228,65 191,65 186,60 "  />
+</g>
+<g id="a50_002"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="236,60 241,55 257,55 257,65 241,65 236,60 "  />
+</g>
+<g id="a50_003"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="262,65 275,65 280,60 275,55 262,55 262,65 "  />
+</g>
+<g id="a50_004"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="289,65 303,65 308,60 303,55 289,55 289,65 "  />
+</g>
+<g id="a50_005"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="323,65 336,65 341,60 336,55 323,55 323,65 "  />
+</g>
+<g id="a50_006"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="352,60 357,55 361,55 361,65 357,65 352,60 "  />
+</g>
+<g id="a50_007"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="392,65 410,65 415,60 410,55 392,55 392,65 "  />
+</g>
+<g id="a50_008"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="503,60 508,55 511,55 511,65 508,65 503,60 "  />
+</g>
+<g id="a50_009"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="525,65 529,60 525,55 525,65 "  />
+</g>
+<g id="a50_0010"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="541,60 546,55 560,55 560,65 546,65 541,60 "  />
+</g>
+<g id="a50_0011"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="567,65 614,65 619,60 614,55 567,55 567,65 "  />
+</g>
+<g id="a50_0012"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="661,60 666,55 676,55 676,65 666,65 661,60 "  />
+</g>
+<g id="a50_0013"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="707,65 738,65 743,60 738,55 707,55 707,65 "  />
+</g>
+<g id="a50_0014"  >
+<polygon style="stroke:black; stroke-width:1; fill:grey; " points="762,65 773,65 778,60 773,55 762,55 762,65 "  />
+</g>
+<g  >
+<line y1="0" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="0"  />
+</g>
+<g id="b50_000"  >
+<defs  >
+<linearGradient id="other_domain50_1"  >
+<stop stop-color="#929292" stop-opacity="1" offset="0%"  />
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="other_line50_1"  >
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="0%"  />
+<stop stop-color="#929292" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#other_line50_1); stroke-width:1; fill:url(#other_domain50_1); " rx="8" height="15" width="217.388429752" y="-8" x="140.115702479"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="222.809917355" fill="#0B0B0B"  >
+Aminotran__</text>
+</g>
+<g id="b50_000"  >
+<defs  >
+<linearGradient id="other_domain50_1"  >
+<stop stop-color="#929292" stop-opacity="1" offset="0%"  />
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<defs  >
+<linearGradient id="other_line50_1"  >
+<stop stop-color="#DBDBDB" stop-opacity="1" offset="0%"  />
+<stop stop-color="#929292" stop-opacity="1" offset="100%"  />
+</linearGradient>
+</defs>
+<rect style="stroke:url(#other_line50_1); stroke-width:1; fill:url(#other_domain50_1); " rx="8" height="15" width="217.388429752" y="-8" x="140.115702479"  />
+<text style="font-size:8px; font-family:MS Reference Sans Serif; font-weight:bold; " y="3" x="222.809917355" fill="#0B0B0B"  >
+Aminotran__</text>
+</g>
+</svg>

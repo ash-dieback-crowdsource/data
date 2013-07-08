@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 227 - 1850" locus_tag="CHAFR746836_0038550.1" class="clusterblast-orf" points="189,35 194,30 250,30 250,40 194,40 189,35 " id="clusterblast-1_q49_2_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 2628 - 3596" locus_tag="CHAFR746836_0038560.1" class="clusterblast-orf" points="280,40 311,40 316,35 311,30 280,30 280,40 " id="clusterblast-1_q49_2_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5587 - 7498" locus_tag="CHAFR746836_0038570.1" class="clusterblast-orf" points="392,35 397,30 465,30 465,40 397,40 392,35 " id="clusterblast-1_q49_2_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 7719 - 10993" locus_tag="CHAFR746836_0038580.1" class="clusterblast-orf" points="473,40 592,40 597,35 592,30 473,30 473,40 " id="clusterblast-1_q49_2_3"  />
+</g>
+<g class="clusterblast-cluster" description="Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC 9..." label="GL630006.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL630006.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC 9...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_p450_monooxygenase[br]Location: 2147762 - 2149239" locus_tag="CMQ_4620" id="clusterblast-1_h49_2_0" points="10,85 15,80 66,80 66,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="1-aminocyclopropane-1-carboxylate_oxidase[br]Location: 2149721 - 2150968" locus_tag="CMQ_4827" id="clusterblast-1_h49_2_1" points="84,85 89,80 131,80 131,90 89,90 84,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="oxoglutarate/iron-dependent_oxygenase[br]Location: 2151385 - 2153037" locus_tag="CMQ_4817" id="clusterblast-1_h49_2_2" points="147,85 152,80 210,80 210,90 152,90 147,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="nonribosomal_peptide_synthetase_11[br]Location: 2154441 - 2154770" locus_tag="CMQ_4686" id="clusterblast-1_h49_2_3" points="263,85 268,80 276,80 276,90 268,90 263,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="methyltransferase_type_11_domain_containing[br]Location: 2156932 - 2157678" locus_tag="CMQ_4750" id="clusterblast-1_h49_2_4" points="358,90 381,90 386,85 381,80 358,80 358,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="ABC_multidrug_transporter_mdr1[br]Location: 2158741 - 2162491" locus_tag="CMQ_4844" id="clusterblast-1_h49_2_5" points="426,85 431,80 569,80 569,90 431,90 426,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="aristolochene_synthase[br]Location: 2165606 - 2166601&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038560.1&lt;/b&gt;&lt;br&gt;Percentage identity: 61%&lt;br&gt;Percentage coverage: 79%&lt;br&gt;BLAST bit score: 317&lt;br&gt;E-value: 9e-106" locus_tag="CMQ_4272" id="clusterblast-1_h49_2_6" points="687,85 692,80 725,80 725,90 692,90 687,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="short_chain_dehydrogenase_reductase[br]Location: 2167025 - 2167990&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038580.1&lt;/b&gt;&lt;br&gt;Percentage identity: 50%&lt;br&gt;Percentage coverage: 35%&lt;br&gt;BLAST bit score: 291&lt;br&gt;E-value: 3e-89" locus_tag="CMQ_4666" id="clusterblast-1_h49_2_7" points="741,90 773,90 778,85 773,80 741,80 741,90 " class="clusterblast-orf"  />
+</g>
+</svg>

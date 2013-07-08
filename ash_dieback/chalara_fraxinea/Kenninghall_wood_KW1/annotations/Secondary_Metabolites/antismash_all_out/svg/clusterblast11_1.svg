@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5189 - 6389" locus_tag="CHAFR746836_0080190.1" class="clusterblast-orf" points="304,35 309,30 319,30 319,40 309,40 304,35 " id="clusterblast-1_q11_1_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7072 - 8707" locus_tag="CHAFR746836_0080200.1" class="clusterblast-orf" points="328,35 333,30 349,30 349,40 333,40 328,35 " id="clusterblast-1_q11_1_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 9665 - 11576" locus_tag="CHAFR746836_0080210.1" class="clusterblast-orf" points="361,35 366,30 385,30 385,40 366,40 361,35 " id="clusterblast-1_q11_1_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 12176 - 14455" locus_tag="CHAFR746836_0080220.1" class="clusterblast-orf" points="393,40 417,40 422,35 417,30 393,30 393,40 " id="clusterblast-1_q11_1_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 16174 - 17543" locus_tag="CHAFR746836_0080230.1" class="clusterblast-orf" points="444,40 457,40 462,35 457,30 444,30 444,40 " id="clusterblast-1_q11_1_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 17828 - 19091" locus_tag="CHAFR746836_0080240.1" class="clusterblast-orf" points="465,35 470,30 482,30 482,40 470,40 465,35 " id="clusterblast-1_q11_1_5"  />
+</g>
+<g class="clusterblast-cluster" description="Trichoderma virens Gv29-8 TRIVIscaffold 75, whole genome..." label="ABDF02000075.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+ABDF02000075.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Trichoderma virens Gv29-8 TRIVIscaffold 75, whole genome...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="glycoside_hydrolase_family_71_protein[br]Location: 167249 - 169350" locus_tag="TRIVIDRAFT_70149" id="clusterblast-1_h11_1_0" points="10,90 31,90 36,85 31,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 169958 - 171041" locus_tag="TRIVIDRAFT_202300" id="clusterblast-1_h11_1_1" points="44,85 49,80 58,80 58,90 49,90 44,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 171401 - 172224" locus_tag="TRIVIDRAFT_51604" id="clusterblast-1_h11_1_2" points="63,90 68,90 73,85 68,80 63,80 63,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 174384 - 175401" locus_tag="TRIVIDRAFT_51661" id="clusterblast-1_h11_1_3" points="101,85 106,80 114,80 114,90 106,90 101,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 177332 - 178664" locus_tag="TRIVIDRAFT_70145" id="clusterblast-1_h11_1_4" points="139,90 151,90 156,85 151,80 139,80 139,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 179879 - 185682" locus_tag="TRIVIDRAFT_23442" id="clusterblast-1_h11_1_5" points="171,90 241,90 246,85 241,80 171,80 171,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 186255 - 191218" locus_tag="TRIVIDRAFT_202307" id="clusterblast-1_h11_1_6" points="253,85 258,80 316,80 316,90 258,90 253,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 192249 - 196846" locus_tag="TRIVIDRAFT_192417" id="clusterblast-1_h11_1_7" points="330,90 384,90 389,85 384,80 330,80 330,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 198005 - 199659" locus_tag="TRIVIDRAFT_51630" id="clusterblast-1_h11_1_8" points="403,90 420,90 425,85 420,80 403,80 403,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 199941 - 200483" locus_tag="TRIVIDRAFT_223368" id="clusterblast-1_h11_1_9" points="428,90 430,90 435,85 430,80 428,80 428,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="non-ribosomal_peptide_synthetase[br]Location: 200783 - 208190" locus_tag="TRIVIDRAFT_223369" id="clusterblast-1_h11_1_10" points="439,90 529,90 534,85 529,80 439,80 439,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 208930 - 211667" locus_tag="TRIVIDRAFT_112807" id="clusterblast-1_h11_1_11" points="543,85 548,80 578,80 578,90 548,90 543,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 215349 - 216350" locus_tag="TRIVIDRAFT_153345" id="clusterblast-1_h11_1_12" points="625,85 630,80 638,80 638,90 630,90 625,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hypothetical_protein[br]Location: 217689 - 219715&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0080200.1&lt;/b&gt;&lt;br&gt;Percentage identity: 47%&lt;br&gt;Percentage coverage: 95%&lt;br&gt;BLAST bit score: 496&lt;br&gt;E-value: 2e-168" locus_tag="TRIVIDRAFT_192420" id="clusterblast-1_h11_1_13" points="655,85 660,80 681,80 681,90 660,90 655,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 220372 - 220764" locus_tag="TRIVIDRAFT_51664" id="clusterblast-1_h11_1_14" points="690,85 695,80 695,80 695,90 695,90 690,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="hypothetical_protein[br]Location: 221248 - 223223&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0080220.1&lt;/b&gt;&lt;br&gt;Percentage identity: 46%&lt;br&gt;Percentage coverage: 90%&lt;br&gt;BLAST bit score: 477&lt;br&gt;E-value: 2e-162" locus_tag="TRIVIDRAFT_192422" id="clusterblast-1_h11_1_15" points="701,85 706,80 726,80 726,90 706,90 701,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 224668 - 225519" locus_tag="TRIVIDRAFT_137343" id="clusterblast-1_h11_1_16" points="745,90 751,90 756,85 751,80 745,80 745,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 226217 - 227220" locus_tag="TRIVIDRAFT_70133" id="clusterblast-1_h11_1_17" points="765,85 770,80 778,80 778,90 770,90 765,85 " class="clusterblast-orf"  />
+</g>
+</svg>

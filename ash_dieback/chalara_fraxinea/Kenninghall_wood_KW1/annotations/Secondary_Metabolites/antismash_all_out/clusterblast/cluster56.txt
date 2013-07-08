@@ -1,0 +1,151 @@
+ClusterBlast scores for scaffold_951.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0047790.1	673	3787	+	unannotated orf	
+CHAFR746836_0047800.1	5163	6824	-	unannotated orf	
+CHAFR746836_0047810.1	7821	10682	+	unannotated orf	
+CHAFR746836_0047820.1	13855	14662	+	unannotated orf	
+CHAFR746836_0047830.1	16209	17379	+	unannotated orf	
+CHAFR746836_0047840.1	19067	19519	+	unannotated orf	
+CHAFR746836_0047850.1	25063	26142	+	unannotated orf	
+CHAFR746836_0047860.1	27072	33543	-	unannotated orf	
+CHAFR746836_0047870.1	35240	36153	+	unannotated orf	
+CHAFR746836_0047880.1	36833	38621	-	unannotated orf	
+CHAFR746836_0047890.1	39860	40772	-	unannotated orf	
+CHAFR746836_0047900.1	41162	41504	+	unannotated orf	
+CHAFR746836_0047910.1	47709	49836	+	unannotated orf	
+CHAFR746836_0047920.1	53801	55386	-	unannotated orf	
+
+
+Significant hits: 
+1. ABDF02000001.1_c5	Trichoderma virens Gv29-8 TRIVIscaffold_1, whole genome shotgun sequence.
+2. GL629765.1_c3	Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC_140, whole genome shotgun sequence.
+3. ACJE01000016.1_c3	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+4. AFQF01003644.1_c1	Fusarium oxysporum Fo5176 contig03839, whole genome shotgun sequence.
+
+
+Details:
+
+>>
+1. ABDF02000001.1_c5
+Source: Trichoderma virens Gv29-8 TRIVIscaffold_1, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1592
+
+Table of genes, locations, strands and annotations of subject cluster:
+TRIVIDRAFT_79607	EHK27473.1	2335516	2336080	+	hypothetical_protein
+TRIVIDRAFT_130490	EHK27474.1	2336854	2337375	-	hypothetical_protein
+TRIVIDRAFT_33492	EHK27475.1	2338670	2341776	+	hypothetical_protein
+TRIVIDRAFT_73345	EHK27476.1	2342370	2345109	-	hypothetical_protein
+TRIVIDRAFT_34222	EHK27477.1	2347705	2349244	+	hypothetical_protein
+TRIVIDRAFT_63229	EHK27478.1	2349708	2350815	+	hypothetical_protein
+TRIVIDRAFT_140294	EHK27479.1	2350831	2354700	+	hypothetical_protein
+TRIVIDRAFT_55364	EHK27480.1	2355360	2359137	+	non-ribosomal_peptide_synthetase
+TRIVIDRAFT_140098	EHK27481.1	2359376	2359585	-	hypothetical_protein
+TRIVIDRAFT_63231	EHK27482.1	2360117	2360603	-	hypothetical_protein
+TRIVIDRAFT_110996	EHK27516.1	2360965	2362014	+	hypothetical_protein
+TRIVIDRAFT_110996	EHK27517.1	2360965	2361723	+	hypothetical_protein
+TRIVIDRAFT_188322	EHK27483.1	2362434	2362899	+	hypothetical_protein
+TRIVIDRAFT_86017	EHK27484.1	2363275	2364282	-	hypothetical_protein
+TRIVIDRAFT_8518	EHK27485.1	2364670	2365388	+	hypothetical_protein
+TRIVIDRAFT_86018	EHK27486.1	2365684	2366309	-	hypothetical_protein
+TRIVIDRAFT_63237	EHK27487.1	2367429	2368668	+	hypothetical_protein
+TRIVIDRAFT_197327	EHK27488.1	2368858	2370090	-	hypothetical_protein
+TRIVIDRAFT_34353	EHK27489.1	2371199	2375125	+	hypothetical_protein
+TRIVIDRAFT_211505	EHK27490.1	2376155	2376733	-	hypothetical_protein
+TRIVIDRAFT_185517	EHK27491.1	2377215	2377454	-	hypothetical_protein
+TRIVIDRAFT_185517	EHK27492.1	2377509	2377688	-	hypothetical_protein
+TRIVIDRAFT_86022	EHK27493.1	2378600	2379479	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0047800.1	TRIVIDRAFT_34222	54	484	93.153526971	4e-166	
+CHAFR746836_0047810.1	TRIVIDRAFT_73345	63	1108	101.449275362	0.0	
+
+
+
+>>
+2. GL629765.1_c3
+Source: Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC_140, whole genome shotgun sequence.
+Type: t3pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1449
+
+Table of genes, locations, strands and annotations of subject cluster:
+CMQ_1517	EFX04589.1	2306412	2310075	+	histone_acetyltransferase_mst2
+CMQ_1478	EFX04550.1	2311165	2313062	+	eh_domain_protein
+CMQ_713	EFX03785.1	2314528	2321331	+	nucleoporin_nup189
+CMQ_1536	EFX04608.1	2321803	2322693	-	peroxisomal_biogenesis_factor
+CMQ_1371	EFX04443.1	2323925	2325037	+	fructose-bisphosphatase
+CMQ_404	EFX03476.1	2326255	2326784	+	hypothetical_protein
+CMQ_1627	EFX04699.1	2327342	2329060	+	major_facilitator_superfamily_transporter
+CMQ_376	EFX03448.1	2329372	2330773	-	a_chain_crystal_structure_of_a_type_3_polyketide
+CMQ_679	EFX03751.1	2331726	2334467	-	er_hsp70_chaperone
+CMQ_983	EFX04055.1	2335380	2335805	+	hypothetical_protein
+CMQ_954	EFX04026.1	2335926	2337593	-	vesicle-mediated_transport_protein
+CMQ_961	EFX04033.1	2336743	2337599	+	hypercellular_protein
+CMQ_1394	EFX04466.1	2338058	2339260	+	nucleotide-binding_protein
+CMQ_1588	EFX04660.1	2339681	2340884	-	hypothetical_protein
+CMQ_1728	EFX04800.1	2342042	2348931	-	hypothetical_protein
+CMQ_419	EFX03491.1	2349582	2353844	-	pab-dependent_poly-specific_ribonuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0047860.1	CMQ_713	37	906	94.5945945946	0.0	
+CHAFR746836_0047880.1	CMQ_1478	60	543	95.2468007313	0.0	
+
+
+
+>>
+3. ACJE01000016.1_c3
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+Type: siderophore-butyrprots
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 980
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASPNIDRAFT_45401	EHA20737.1	1372283	1374523	+	hypothetical_protein
+ASPNIDRAFT_133835	EHA20738.1	1375022	1376737	-	hypothetical_protein
+ASPNIDRAFT_193171	EHA20739.1	1377590	1379185	+	Hypothetical_protein
+ASPNIDRAFT_193589	EHA20740.1	1379983	1380866	+	hypothetical_protein
+ASPNIDRAFT_204783	EHA20741.1	1381796	1383999	-	hypothetical_protein
+ASPNIDRAFT_51199	EHA20742.1	1384921	1386991	-	hypothetical_protein
+ASPNIDRAFT_214353	EHA20743.1	1388645	1389829	+	hypothetical_protein
+ASPNIDRAFT_45394	EHA20744.1	1390966	1391971	-	hypothetical_protein
+ASPNIDRAFT_193539	EHA20745.1	1392840	1394604	+	hypothetical_protein
+ASPNIDRAFT_55013	EHA20746.1	1395024	1398964	-	Hypothetical_protein
+ASPNIDRAFT_45391	EHA20747.1	1401226	1402271	+	hypothetical_protein
+ASPNIDRAFT_214348	EHA20748.1	1407011	1409325	+	hypothetical_protein
+ASPNIDRAFT_45389	EHA20749.1	1410518	1417270	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0047860.1	ASPNIDRAFT_45389	37	813	83.7327893932	0.0	
+CHAFR746836_0047870.1	ASPNIDRAFT_193589	42	167	113.807531381	5e-49	
+
+
+
+>>
+4. AFQF01003644.1_c1
+Source: Fusarium oxysporum Fo5176 contig03839, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 354
+
+Table of genes, locations, strands and annotations of subject cluster:
+FOXB_14742	EGU74726.1	716	2163	+	hypothetical_protein
+FOXB_14743	EGU74727.1	2331	3883	-	hypothetical_protein
+FOXB_14744	EGU74728.1	5114	5764	-	hypothetical_protein
+FOXB_14745	EGU74729.1	6771	7821	+	hypothetical_protein
+FOXB_14746	EGU74730.1	8066	10203	-	hypothetical_protein
+FOXB_14747	EGU74731.1	12829	13795	+	hypothetical_protein
+FOXB_14748	EGU74732.1	13882	17203	-	hypothetical_protein
+FOXB_14749	EGU74733.1	17992	20624	+	hypothetical_protein
+FOXB_14750	EGU74734.1	20684	22902	-	hypothetical_protein
+FOXB_14751	EGU74735.1	23625	24132	+	hypothetical_protein
+FOXB_14752	EGU74736.1	24248	31550	-	hypothetical_protein
+FOXB_14753	EGU74737.1	32234	33263	+	hypothetical_protein
+FOXB_14754	EGU74738.1	33654	37393	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0047800.1	FOXB_14745	39	213	63.0705394191	5e-63	
+CHAFR746836_0047830.1	FOXB_14742	31	141	101.652892562	2e-36	
+

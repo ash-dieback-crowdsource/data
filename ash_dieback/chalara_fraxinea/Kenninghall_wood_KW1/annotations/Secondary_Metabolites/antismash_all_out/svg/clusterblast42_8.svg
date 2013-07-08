@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 21692 - 23171" locus_tag="CHAFR746836_0031020.1" class="clusterblast-orf" points="10,35 15,30 25,30 25,40 15,40 10,35 " id="clusterblast-1_q42_8_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 24117 - 25593" locus_tag="CHAFR746836_0031030.1" class="clusterblast-orf" points="35,35 40,30 50,30 50,40 40,40 35,35 " id="clusterblast-1_q42_8_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 26212 - 40332" locus_tag="CHAFR746836_0031040.1" class="clusterblast-orf" points="56,40 198,40 203,35 198,30 56,30 56,40 " id="clusterblast-1_q42_8_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 45285 - 47271" locus_tag="CHAFR746836_0031050.1" class="clusterblast-orf" points="255,40 270,40 275,35 270,30 255,30 255,40 " id="clusterblast-1_q42_8_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 49060 - 49584" locus_tag="CHAFR746836_0031060.1" class="clusterblast-orf" points="294,40 295,40 300,35 295,30 294,30 294,40 " id="clusterblast-1_q42_8_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 51570 - 54053" locus_tag="CHAFR746836_0031070.1" class="clusterblast-orf" points="320,40 341,40 346,35 341,30 320,30 320,40 " id="clusterblast-1_q42_8_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 83506 - 87093" locus_tag="CHAFR746836_0031080.1" class="clusterblast-orf" points="652,40 685,40 690,35 685,30 652,30 652,40 " id="clusterblast-1_q42_8_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 93748 - 95553" locus_tag="CHAFR746836_0031090.1" class="clusterblast-orf" points="759,40 773,40 778,35 773,30 759,30 759,40 " id="clusterblast-1_q42_8_7"  />
+</g>
+<g class="clusterblast-cluster" description="Glarea lozoyensis 74030 Seq116, whole genome shotgun seq..." label="AGUE01000116.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+AGUE01000116.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Glarea lozoyensis 74030 Seq116, whole genome shotgun seq...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 134048 - 136071" locus_tag="M7I_4647" id="clusterblast-1_h42_8_0" points="148,90 164,90 169,85 164,80 148,80 148,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_DNA_damage-responsive_transcriptional[br]Location: 138746 - 141629" locus_tag="M7I_4648" id="clusterblast-1_h42_8_1" points="196,90 221,90 226,85 221,80 196,80 196,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_alcohol_oxidase[br]Location: 145098 - 147073" locus_tag="M7I_4649" id="clusterblast-1_h42_8_2" points="262,90 278,90 283,85 278,80 262,80 262,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Peroxisomal_2,4-dienoyl-CoA_reductase[br]Location: 151593 - 152375" locus_tag="M7I_4650" id="clusterblast-1_h42_8_3" points="330,90 333,90 338,85 333,80 330,80 330,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 152817 - 153473" locus_tag="M7I_4651" id="clusterblast-1_h42_8_4" points="343,85 348,80 349,80 349,90 348,90 343,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="putative_Lovastatin_nonaketide_synthase[br]Location: 154564 - 166578&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0031040.1&lt;/b&gt;&lt;br&gt;Percentage identity: 43%&lt;br&gt;Percentage coverage: 57%&lt;br&gt;BLAST bit score: 1849&lt;br&gt;E-value: 0.0" locus_tag="M7I_4652" id="clusterblast-1_h42_8_5" points="361,85 366,80 486,80 486,90 366,90 361,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="putative_protein_TOXD[br]Location: 169583 - 170563&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0031030.1&lt;/b&gt;&lt;br&gt;Percentage identity: 48%&lt;br&gt;Percentage coverage: 48%&lt;br&gt;BLAST bit score: 136&lt;br&gt;E-value: 4e-36" locus_tag="M7I_4653" id="clusterblast-1_h42_8_6" points="517,85 522,80 527,80 527,90 522,90 517,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Uncharacterized_transporter_C3H1.06c[br]Location: 170827 - 172858" locus_tag="M7I_4654" id="clusterblast-1_h42_8_7" points="530,90 546,90 551,85 546,80 530,80 530,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Sphingoid_long-chain_base_transporter[br]Location: 174445 - 175461" locus_tag="M7I_4655" id="clusterblast-1_h42_8_8" points="568,90 573,90 578,85 573,80 568,80 568,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 176487 - 176720" locus_tag="M7I_4656" id="clusterblast-1_h42_8_9" points="589,85 591,80 591,90 589,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_multidrug_resistance_protein_mdtD[br]Location: 176736 - 177896" locus_tag="M7I_4657" id="clusterblast-1_h42_8_10" points="591,90 598,90 603,85 598,80 591,80 591,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Chaperone_protein_DnaJ[br]Location: 180321 - 181189" locus_tag="M7I_4658" id="clusterblast-1_h42_8_11" points="629,90 633,90 638,85 633,80 629,80 629,90 " class="clusterblast-orf"  />
+</g>
+</svg>

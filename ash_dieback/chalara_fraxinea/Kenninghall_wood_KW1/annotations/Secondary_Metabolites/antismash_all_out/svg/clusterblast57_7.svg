@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 18826 - 24323" locus_tag="CHAFR746836_0048040.1" class="clusterblast-orf" points="194,35 199,30 306,30 306,40 199,40 194,35 " id="clusterblast-1_q57_7_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 27327 - 29289" locus_tag="CHAFR746836_0048050.1" class="clusterblast-orf" points="368,35 373,30 408,30 408,40 373,40 368,35 " id="clusterblast-1_q57_7_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 31909 - 32971" locus_tag="CHAFR746836_0048060.1" class="clusterblast-orf" points="462,40 479,40 484,35 479,30 462,30 462,40 " id="clusterblast-1_q57_7_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 33755 - 35353" locus_tag="CHAFR746836_0048070.1" class="clusterblast-orf" points="500,35 505,30 532,30 532,40 505,40 500,35 " id="clusterblast-1_q57_7_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 36309 - 38321" locus_tag="CHAFR746836_0048080.1" class="clusterblast-orf" points="552,40 588,40 593,35 588,30 552,30 552,40 " id="clusterblast-1_q57_7_4"  />
+</g>
+<g class="clusterblast-cluster" description="Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Sc..." label="GL698711.1_c7"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL698711.1_c7</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Sc...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="vacuolar_protein_8[br]Location: 5178751 - 5180829" locus_tag="MAA_01337" id="clusterblast-1_h57_7_0" points="10,90 47,90 52,85 47,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="mitochondrial_inner_membrane_protease_subunit_1,[br]Location: 5181755 - 5182090" locus_tag="MAA_01338" id="clusterblast-1_h57_7_1" points="71,85 76,80 78,80 78,90 76,90 71,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="translation_initiation_factor_IF-3[br]Location: 5182464 - 5183300" locus_tag="MAA_01339" id="clusterblast-1_h57_7_2" points="86,90 98,90 103,85 98,80 86,80 86,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5183585 - 5184178" locus_tag="MAA_01340" id="clusterblast-1_h57_7_3" points="109,85 114,80 121,80 121,90 114,90 109,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5184748 - 5186294" locus_tag="MAA_01341" id="clusterblast-1_h57_7_4" points="133,85 138,80 164,80 164,90 138,90 133,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450_51A[br]Location: 5187235 - 5188898" locus_tag="MAA_01342" id="clusterblast-1_h57_7_5" points="184,85 189,80 218,80 218,90 189,90 184,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="ent-kaurene_oxidase[br]Location: 5190380 - 5191891" locus_tag="MAA_01343" id="clusterblast-1_h57_7_6" points="248,85 253,80 279,80 279,90 253,90 248,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="oxidoreductase[br]Location: 5192603 - 5193316" locus_tag="MAA_01344" id="clusterblast-1_h57_7_7" points="294,90 303,90 308,85 303,80 294,80 294,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="aldose_1-epimerase_family_protein,_putative[br]Location: 5194180 - 5195270" locus_tag="MAA_01345" id="clusterblast-1_h57_7_8" points="326,90 343,90 348,85 343,80 326,80 326,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="polyketide_synthase,_putative[br]Location: 5195944 - 5203760&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048040.1&lt;/b&gt;&lt;br&gt;Percentage identity: 35%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 1118&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048050.1&lt;/b&gt;&lt;br&gt;Percentage identity: 54%&lt;br&gt;Percentage coverage: 97%&lt;br&gt;BLAST bit score: 619&lt;br&gt;E-value: 0.0" locus_tag="MAA_01346" id="clusterblast-1_h57_7_9" points="362,85 367,80 522,80 522,90 367,90 362,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="zinc-binding_dehydrogenase_family[br]Location: 5204390 - 5205628&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048060.1&lt;/b&gt;&lt;br&gt;Percentage identity: 47%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 337&lt;br&gt;E-value: 5e-112" locus_tag="MAA_01347" id="clusterblast-1_h57_7_10" points="535,90 556,90 561,85 556,80 535,80 535,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="FAD_binding_domain_protein[br]Location: 5205755 - 5208089" locus_tag="MAA_01348" id="clusterblast-1_h57_7_11" points="563,85 568,80 611,80 611,90 568,90 563,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="LaeA-like_methyltransferase,_putative[br]Location: 5208748 - 5209812" locus_tag="MAA_01349" id="clusterblast-1_h57_7_12" points="625,90 642,90 647,85 642,80 625,80 625,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="MFS_transporter,_putative[br]Location: 5210227 - 5212319" locus_tag="MAA_01350" id="clusterblast-1_h57_7_13" points="655,85 660,80 698,80 698,90 660,90 655,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="Cytochrome_P450_family_protein[br]Location: 5212939 - 5214552" locus_tag="MAA_01351" id="clusterblast-1_h57_7_14" points="711,90 739,90 744,85 739,80 711,80 711,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 5214698 - 5216194" locus_tag="MAA_01352" id="clusterblast-1_h57_7_15" points="747,85 752,80 778,80 778,90 752,90 747,85 " class="clusterblast-orf"  />
+</g>
+</svg>

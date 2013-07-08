@@ -1,0 +1,171 @@
+ClusterBlast scores for scaffold_822.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0038550.1	227	1850	-	unannotated orf	
+CHAFR746836_0038560.1	2628	3596	+	unannotated orf	
+CHAFR746836_0038570.1	5587	7498	-	unannotated orf	
+CHAFR746836_0038580.1	7719	10993	+	unannotated orf	
+
+
+Significant hits: 
+1. GL698720.1_c2	Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_010, whole genome shotgun sequence.
+2. GL630006.1_c2	Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC_97, whole genome shotgun sequence.
+3. JH126400.1_c5	Cordyceps militaris CM01 unplaced genomic scaffold CCM_S00002, whole genome shotgun sequence.
+4. AP007171.1_c2	Aspergillus oryzae RIB40 DNA, SC011.
+5. GG697392.1_c1	Glomerella graminicola M1.001 genomic scaffold supercont1.62, whole genome shotgun sequence.
+
+
+Details:
+
+>>
+1. GL698720.1_c2
+Source: Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Scf_010, whole genome shotgun sequence.
+Type: t1pks-terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 963
+
+Table of genes, locations, strands and annotations of subject cluster:
+MAA_06567	EFY97784.1	90129	91920	+	glucose-methanol-choline_(gmc)_oxidoreductase,
+MAA_06568	EFY97785.1	93777	95147	-	C6_transcription_factor_(AflR),_putative
+MAA_06569	EFY97786.1	95306	100594	+	AMP_dependent_CoA_ligase,_putative
+MAA_06570	EFY97787.1	101329	103707	+	hypothetical_protein
+MAA_06571	EFY97788.1	104119	105093	-	short-chain_dehydrogenase,_putative
+MAA_06572	EFY97789.1	105593	106387	+	NAD-dependent_epimerase/dehydratase,_putative
+MAA_06573	EFY97790.1	107143	108240	-	hypothetical_protein
+MAA_06574	EFY97791.1	108826	109929	-	beta_lactamase_domain,_putative
+MAA_06575	EFY97792.1	110962	116524	+	polyketide_synthase,_putative
+MAA_06576	EFY97793.1	117426	122076	-	multidrug_resistance_protein_MDR,_putative
+MAA_06577	EFY97794.1	125144	126627	+	farnesyl-diphosphate_farnesyltransferase
+MAA_06578	EFY97795.1	127557	130496	-	hypothetical_protein
+MAA_06579	EFY97796.1	135219	136546	+	benzoate_4-monooxygenase_cytochrome_P450
+MAA_06580	EFY97797.1	136853	138398	-	hydroxymethylglutaryl-CoA_synthase
+MAA_06581	EFY97798.1	138908	140251	+	Aristolochene_Synthase
+MAA_06582	EFY97799.1	144445	145572	+	aldo-keto_reductase_(AKR13),_putative
+MAA_06583	EFY97800.1	146330	147859	-	feruloyl_esterase,_putative
+MAA_06584	EFY97801.1	149825	150754	+	HC-toxin_synthetase
+MAA_06585	EFY97802.1	155039	156646	-	cytochrome_P450_4F12
+MAA_06586	EFY97803.1	157455	159065	-	cytochrome_P450
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0038550.1	MAA_06580	65	636	99.1452991453	0.0	
+CHAFR746836_0038560.1	MAA_06581	53	327	99.6732026144	2e-109	
+
+
+
+>>
+2. GL630006.1_c2
+Source: Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC_97, whole genome shotgun sequence.
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 608
+
+Table of genes, locations, strands and annotations of subject cluster:
+CMQ_4620	EFW98768.1	2147762	2149239	-	cytochrome_p450_monooxygenase
+CMQ_4827	EFW98975.1	2149721	2150968	-	1-aminocyclopropane-1-carboxylate_oxidase
+CMQ_4817	EFW98965.1	2151385	2153037	-	oxoglutarate/iron-dependent_oxygenase
+CMQ_4686	EFW98834.1	2154441	2154770	-	nonribosomal_peptide_synthetase_11
+CMQ_4750	EFW98898.1	2156932	2157678	+	methyltransferase_type_11_domain_containing
+CMQ_4844	EFW98992.1	2158741	2162491	-	ABC_multidrug_transporter_mdr1
+CMQ_4272	EFW98420.1	2165606	2166601	-	aristolochene_synthase
+CMQ_4666	EFW98814.1	2167025	2167990	+	short_chain_dehydrogenase_reductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0038560.1	CMQ_4272	61	317	79.4117647059	9e-106	
+CHAFR746836_0038580.1	CMQ_4666	50	291	35.8916478555	3e-89	
+
+
+
+>>
+3. JH126400.1_c5
+Source: Cordyceps militaris CM01 unplaced genomic scaffold CCM_S00002, whole genome shotgun sequence.
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 526
+
+Table of genes, locations, strands and annotations of subject cluster:
+CCM_03042	EGX94771.1	3535657	3537372	+	mitochondrial_DnaJ_chaperone_(Mdj1),_putative
+CCM_03043	EGX94772.1	3537894	3538720	-	DnaJ_domain_protein
+CCM_03044	EGX94773.1	3540223	3542151	+	amino_acid_transporter
+CCM_03045	EGX94774.1	3542612	3544390	-	formate_dehydrogenase
+CCM_03046	EGX94775.1	3548293	3549516	-	secretory_lipase,_putative
+CCM_03047	EGX94776.1	3550071	3551285	-	Protein_kinase-like_domain
+CCM_03048	EGX94777.1	3552203	3554216	-	Cytochrome_P450
+CCM_03049	EGX94778.1	3554571	3555730	-	gibberellin_3-beta_hydroxylase,_putative
+CCM_03050	EGX94779.1	3556961	3557703	-	aristolochene_synthase,_putative
+CCM_03051	EGX94780.1	3558468	3559497	+	NAD(P)-binding_domain
+CCM_03052	EGX94781.1	3559748	3561895	-	benzoate_4-monooxygenase_cytochrome_P450
+CCM_03053	EGX94782.1	3571862	3573487	+	transferase_family_protein
+CCM_03054	EGX94783.1	3573734	3575577	-	cytochrome_P450,_putative
+CCM_03055	EGX94784.1	3576055	3578020	+	O-acetylhomoserine/O-acetylserine_sulfhydrylase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0038560.1	CCM_03050	52	240	74.1830065359	8e-77	
+CHAFR746836_0038580.1	CCM_03051	50	286	35.4401805869	4e-87	
+
+
+
+>>
+4. AP007171.1_c2
+Source: Aspergillus oryzae RIB40 DNA, SC011.
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 925
+
+Table of genes, locations, strands and annotations of subject cluster:
+AO090011000094	BAE64647.1	271774	272917	+	
+AO090011000095	BAE64648.1	274198	275205	+	
+AO090011000096	BAE64649.1	277123	278016	-	
+AO090011000097	BAE64650.1	280214	282070	-	
+AO090011000098	BAE64651.1	283156	283504	-	
+AO090011000099	BAE64652.1	284536	286384	-	
+AO090011000100	BAE64653.1	287266	288616	+	
+AO090011000101	BAE64654.1	288916	291007	-	
+AO090011000102	BAE64655.1	291277	292404	+	
+AO090011000103	BAE64656.1	292746	293902	+	
+AO090011000104	BAE64657.1	296607	297865	+	
+AO090011000105	BAE64658.1	299220	300125	+	
+AO090011000106	BAE64659.1	300249	300803	+	
+AO090011000107	BAE64660.1	302791	303875	+	
+AO090011000108	BAE64661.1	305320	305922	+	
+AO090011000109	BAE64662.1	306785	308262	+	
+AO090011000110	BAE64663.1	308746	310075	-	
+AO090011000111	BAE64664.1	311173	312906	+	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0038560.1	AO090011000103	52	338	100.980392157	3e-113	
+CHAFR746836_0038580.1	AO090011000097	49	459	54.7404063205	4e-150	
+CHAFR746836_0038580.1	AO090011000102	50	128	15.5756207675	5e-32	
+
+
+
+>>
+5. GG697392.1_c1
+Source: Glomerella graminicola M1.001 genomic scaffold supercont1.62, whole genome shotgun sequence.
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 824
+
+Table of genes, locations, strands and annotations of subject cluster:
+GLRG_10529	EFQ35385.1	96771	98051	-	glucan_1,3-beta-glucosidase
+GLRG_10530	EFQ35386.1	99144	100280	-	methyltransferase_domain-containing_protein
+GLRG_10531	EFQ35387.1	100977	102140	+	hypothetical_protein
+GLRG_10532	EFQ35388.1	102406	104216	-	cytochrome_P450_monooxygenase
+GLRG_10533	EFQ35389.1	104629	106128	+	2-nitropropane_dioxygenase
+GLRG_10534	EFQ35390.1	106543	108587	-	cytochrome_P450
+GLRG_10535	EFQ35391.1	109088	110679	-	hydroxymethylglutaryl-CoA_synthase
+GLRG_10536	EFQ35392.1	111184	112809	+	cytochrome_P450_monooxygenase
+GLRG_10537	EFQ35393.1	113355	120836	-	beta-ketoacyl_synthase_domain-containing
+GLRG_10538	EFQ35394.1	121801	123950	-	major_facilitator_superfamily_transporter
+GLRG_10539	EFQ35395.1	124636	126051	+	transferase
+GLRG_10540	EFQ35396.1	126184	127023	+	enoyl-CoA_hydratase/isomerase
+GLRG_10541	EFQ35397.1	129703	130257	+	hypothetical_protein
+GLRG_10542	EFQ35398.1	130348	131965	-	hypothetical_protein
+GLRG_10543	EFQ35399.1	132617	133270	-	methyltransferase_domain-containing_protein
+GLRG_10544	EFQ35400.1	134619	136627	+	GMC_oxidoreductase
+GLRG_10545	EFQ35401.1	136809	138632	-	FAD_binding_domain-containing_protein
+GLRG_10546	EFQ35402.1	139248	140589	+	tat_pathway_signal_sequence
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0038550.1	GLRG_10535	55	526	100.427350427	0.0	
+CHAFR746836_0038580.1	GLRG_10538	33	298	63.8826185102	1e-88	
+

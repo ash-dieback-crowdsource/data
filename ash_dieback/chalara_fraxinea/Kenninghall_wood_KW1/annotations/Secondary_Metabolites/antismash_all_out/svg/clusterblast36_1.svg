@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 78016 - 79242" locus_tag="CHAFR746836_0016770.1" class="clusterblast-orf" points="228,35 233,30 253,30 253,40 233,40 228,35 " id="clusterblast-1_q36_1_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 81171 - 82179" locus_tag="CHAFR746836_0016780.1" class="clusterblast-orf" points="294,40 311,40 316,35 311,30 294,30 294,40 " id="clusterblast-1_q36_1_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 82820 - 84436" locus_tag="CHAFR746836_0016790.1" class="clusterblast-orf" points="329,40 358,40 363,35 358,30 329,30 329,40 " id="clusterblast-1_q36_1_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 86969 - 88192" locus_tag="CHAFR746836_0016800.1" class="clusterblast-orf" points="417,35 422,30 443,30 443,40 422,40 417,35 " id="clusterblast-1_q36_1_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 89104 - 90705" locus_tag="CHAFR746836_0016810.1" class="clusterblast-orf" points="462,40 491,40 496,35 491,30 462,30 462,40 " id="clusterblast-1_q36_1_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 92624 - 93697" locus_tag="CHAFR746836_0016820.1" class="clusterblast-orf" points="537,35 542,30 559,30 559,40 542,40 537,35 " id="clusterblast-1_q36_1_5"  />
+</g>
+<g class="clusterblast-cluster" description="Glarea lozoyensis 74030 Seq222, whole genome shotgun seq..." label="AGUE01000222.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+AGUE01000222.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Glarea lozoyensis 74030 Seq222, whole genome shotgun seq...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 12391 - 12800" locus_tag="M7I_7469" id="clusterblast-1_h36_1_0" points="10,90 13,90 18,85 13,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Translin-associated_protein_X[br]Location: 14945 - 15493" locus_tag="M7I_7470" id="clusterblast-1_h36_1_1" points="64,90 70,90 75,85 70,80 64,80 64,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_fungistatic_metabolite[br]Location: 17560 - 19588" locus_tag="M7I_7471" id="clusterblast-1_h36_1_2" points="119,90 157,90 162,85 157,80 119,80 119,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_protein_sym-1[br]Location: 20213 - 20869" locus_tag="M7I_7472" id="clusterblast-1_h36_1_3" points="175,90 184,90 189,85 184,80 175,80 175,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="putative_Eukaryotic_translation_initiation[br]Location: 21634 - 22492" locus_tag="M7I_7473" id="clusterblast-1_h36_1_4" points="205,90 218,90 223,85 218,80 205,80 205,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 27724 - 28530" locus_tag="M7I_7474" id="clusterblast-1_h36_1_5" points="334,85 339,80 351,80 351,90 339,90 334,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="putative_squalene_synthase[br]Location: 32450 - 40566&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016810.1&lt;/b&gt;&lt;br&gt;Percentage identity: 75%&lt;br&gt;Percentage coverage: 59%&lt;br&gt;BLAST bit score: 434&lt;br&gt;E-value: 8e-139" locus_tag="M7I_7475" id="clusterblast-1_h36_1_6" points="434,85 439,80 606,80 606,90 439,90 434,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="putative_Solute_carrier_family_35_member_E3[br]Location: 42965 - 43965&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016770.1&lt;/b&gt;&lt;br&gt;Percentage identity: 84%&lt;br&gt;Percentage coverage: 81%&lt;br&gt;BLAST bit score: 489&lt;br&gt;E-value: 5e-173&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016800.1&lt;/b&gt;&lt;br&gt;Percentage identity: 34%&lt;br&gt;Percentage coverage: 84%&lt;br&gt;BLAST bit score: 162&lt;br&gt;E-value: 3e-45" locus_tag="M7I_7476" id="clusterblast-1_h36_1_7" points="656,85 661,80 678,80 678,90 661,90 656,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="putative_rhamnose_biosynthetic_enzyme_1[br]Location: 45413 - 46406&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016780.1&lt;/b&gt;&lt;br&gt;Percentage identity: 90%&lt;br&gt;Percentage coverage: 98%&lt;br&gt;BLAST bit score: 555&lt;br&gt;E-value: 0.0" locus_tag="M7I_7477" id="clusterblast-1_h36_1_8" points="708,90 724,90 729,85 724,80 708,80 708,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="putative_Uncharacterized_J_domain-containing[br]Location: 46995 - 48686&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0016790.1&lt;/b&gt;&lt;br&gt;Percentage identity: 81%&lt;br&gt;Percentage coverage: 103%&lt;br&gt;BLAST bit score: 791&lt;br&gt;E-value: 0.0" locus_tag="M7I_7478" id="clusterblast-1_h36_1_9" points="742,90 773,90 778,85 773,80 742,80 742,90 " class="clusterblast-orf"  />
+</g>
+</svg>

@@ -1,0 +1,212 @@
+ClusterBlast scores for scaffold_1457.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0084640.1	26281	31608	+	unannotated orf	
+CHAFR746836_0084650.1	38353	39581	+	unannotated orf	
+CHAFR746836_0084660.1	44228	48651	-	unannotated orf	
+CHAFR746836_0084670.1	50656	54036	+	unannotated orf	
+CHAFR746836_0084680.1	70727	72035	-	unannotated orf	
+CHAFR746836_0084690.1	72765	74194	+	unannotated orf	
+
+
+Significant hits: 
+1. NZ_CM000914.1_c10	Streptomyces clavuligerus ATCC 27064 plasmid pSCL4, whole genome shotgun sequence.
+2. NZ_GG657738.1_c12	Micromonospora sp. ATCC 39149 genomic scaffold supercont1.1, whole genome shotgun sequence.
+3. HM116536.1_c1	Streptomyces kanamyceticus strain KCTC 9225 FK506 gene cluster, partial sequence.
+
+
+Details:
+
+>>
+1. NZ_CM000914.1_c10
+Source: Streptomyces clavuligerus ATCC 27064 plasmid pSCL4, whole genome shotgun sequence.
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 154
+
+Table of genes, locations, strands and annotations of subject cluster:
+SCLAV_p1392	ZP_06776566.1	1589296	1590474	+	putative_O-methyltransferase
+SCLAV_p1393	ZP_06776567.1	1590494	1591039	-	GCN5-related_N-acetyltransferase
+SCLAV_p1394	ZP_06776568.1	1591185	1592360	+	CRP_family_transcriptional_regulator
+SCLAV_p1395	ZP_06776569.1	1592712	1593581	+	ABC_transporter_related_protein
+SCLAV_p1396	ZP_06776570.1	1593578	1594384	+	ABC_transporter_related_protein
+SCLAV_p1397	ZP_06776571.1	1594494	1595600	+	lipoprotein
+SCLAV_p1398	ZP_06776572.1	1595597	1597411	+	sulfatase
+SCLAV_p1399	ZP_06776573.1	1597392	1599719	+	Hypothetical_protein
+SCLAV_p1400	ZP_06776574.1	1599775	1600800	+	AraC_family_transcription_regulator
+SCLAV_p1401	ZP_06776575.1	1600974	1601390	+	Hypothetical_protein
+SCLAV_p1402	ZP_06776576.1	1601467	1602042	-	Actinohivin
+SCLAV_p1403	ZP_06776577.1	1602212	1603051	+	DNA-binding_protein
+SCLAV_p1404	ZP_06776578.1	1603111	1604877	-	Multicopper_oxidase,_type_2
+SCLAV_p1405	ZP_06776579.1	1605533	1607005	+	integrin-like_protein
+SCLAV_p1406	ZP_06776580.1	1607370	1608503	+	V8-like_Glu-specific_endopeptidase
+SCLAV_p1407	ZP_06776581.1	1608584	1609687	-	Pentalenene_synthase
+SCLAV_p1408	ZP_06776582.1	1609810	1610859	+	V8-like_Glu-specific_endopeptidase
+SCLAV_p1409	ZP_06776583.1	1610959	1612146	-	cytochrome_P450
+SCLAV_p1410	ZP_06776584.1	1612404	1612601	+	DUF397_domain-containing_protein
+SCLAV_p1411	ZP_06776585.1	1612761	1614086	-	Hypothetical_protein
+SCLAV_p1412	ZP_06776586.1	1614223	1615353	-	Putative_membrane_protein
+SCLAV_p1413	ZP_06776587.1	1615723	1616211	+	Hypothetical_protein
+SCLAV_p1414	ZP_06776588.1	1616426	1617613	+	Hypothetical_protein
+SCLAV_p1415	ZP_06776589.1	1618118	1619692	-	putative_hydrolase
+SCLAV_p1416	ZP_06776590.1	1620055	1620954	+	Hypothetical_protein
+SCLAV_p1417	ZP_06776591.1	1621223	1621918	-	Hypothetical_protein
+SCLAV_p1418	ZP_06776592.1	1622216	1622905	+	Putative_glucan_synthasis_protein
+SCLAV_p1419	ZP_06776593.1	1623055	1623540	-	putative_MarR_family_transcriptional_regulator
+SCLAV_p1420	ZP_06776594.1	1623588	1624445	+	short-chain_dehydrogenase/reductase_SDR
+SCLAV_p1421	ZP_06776595.1	1624545	1628207	-	Hypothetical_protein
+SCLAV_p1422	ZP_06776596.1	1628531	1629778	-	Putative_secreted_serine_protease
+SCLAV_p1423	ZP_06776597.1	1629932	1631353	-	putative_sulfatase
+SCLAV_p1424	ZP_06776598.1	1632188	1632865	+	Hypothetical_protein
+SCLAV_p1425	ZP_06776599.1	1633171	1633722	+	Hypothetical_protein
+SCLAV_p1426	ZP_06776600.1	1633980	1635464	-	Putative_non-ribosomal_synthetase
+SCLAV_p1427	ZP_06776601.1	1635461	1640443	-	Non-ribosomal_peptide_synthetase
+SCLAV_p1428	ZP_06776602.1	1640913	1642478	-	prenyltransferase/squalene_oxidase
+SCLAV_p1429	ZP_06776603.1	1642465	1643457	-	Terpene_synthase,_metal-binding_protein
+SCLAV_p1430	ZP_06776604.1	1643526	1643720	+	Hypothetical_protein
+SCLAV_p1431	ZP_06776605.1	1643838	1645346	-	Putative_surface_layer_protein
+SCLAV_p1432	ZP_06776606.1	1645466	1645642	-	Hypothetical_protein
+SCLAV_p1433	ZP_06776607.1	1645778	1651477	+	Putative_membrane_protein
+SCLAV_p1434	ZP_06776608.1	1651807	1652463	+	Hypothetical_protein
+SCLAV_p1435	ZP_06776609.1	1652574	1652987	-	integral_membrane_protein
+SCLAV_p1436	ZP_06776610.1	1653141	1653659	-	Putative_integral_membrane_protein
+SCLAV_p1437	ZP_06776611.1	1653871	1654266	+	Hypothetical_protein
+SCLAV_p1438	ZP_06776612.1	1654385	1655626	-	Sensor_protein
+SCLAV_p1439	ZP_06776613.1	1655623	1656252	-	Response_regulator_receiver
+SCLAV_p1440	ZP_06776614.1	1656481	1657941	+	Permease,_putative
+SCLAV_p1441	ZP_06776615.1	1657946	1658632	+	ABC-transporter
+SCLAV_p1442	ZP_06776616.1	1658718	1659416	-	Hypothetical_protein
+SCLAV_p1443	ZP_06776617.1	1660065	1661027	+	Integrin_alpha2_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0084670.1	SCLAV_p1427	33	66	12.6096491228	1e-09	
+CHAFR746836_0084680.1	SCLAV_p1420	34	88	43.35839599	1e-18	
+
+
+
+>>
+2. NZ_GG657738.1_c12
+Source: Micromonospora sp. ATCC 39149 genomic scaffold supercont1.1, whole genome shotgun sequence.
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 150
+
+Table of genes, locations, strands and annotations of subject cluster:
+MCAG_03506	ZP_04607249.1	4208273	4208914	+	GCN5_N-acetyltransferase
+MCAG_03507	ZP_04607250.1	4209082	4209882	+	hypothetical_protein
+MCAG_03508	ZP_04607251.1	4210391	4210618	-	hypothetical_protein
+MCAG_03509	ZP_04607252.1	4210862	4211494	+	hypothetical_protein
+MCAG_03510	ZP_04607253.1	4211633	4212532	-	transcriptional_regulator
+MCAG_03511	ZP_04607254.1	4212615	4213256	+	thioredoxin
+MCAG_03512	ZP_04607255.1	4213300	4213950	+	NAD-dependent_epimerase/dehydratase
+MCAG_03513	ZP_04607256.1	4214427	4215179	+	MerR-family_transcriptional_regulator
+MCAG_03514	ZP_04607257.1	4215176	4215922	+	hypothetical_protein
+MCAG_03515	ZP_04607258.1	4215869	4216123	-	hypothetical_protein
+MCAG_03516	ZP_04607259.1	4216452	4217147	+	conserved_hypothetical_protein
+MCAG_03517	ZP_04607260.1	4217630	4219912	+	xylanase-arabinofuranosidase_bifunctional
+MCAG_03518	ZP_04607261.1	4220694	4221620	+	conserved_hypothetical_protein
+MCAG_03519	ZP_04607262.1	4221623	4221838	+	hypothetical_protein
+MCAG_03520	ZP_04607263.1	4221756	4222469	+	hypothetical_protein
+MCAG_03521	ZP_04607264.1	4222605	4222832	+	hypothetical_protein
+MCAG_03522	ZP_04607265.1	4222733	4223080	-	hypothetical_protein
+MCAG_03523	ZP_04607266.1	4223507	4224727	-	hypothetical_protein
+MCAG_03524	ZP_04607267.1	4225432	4227876	-	cytochrome_P450
+MCAG_03525	ZP_04607268.1	4228377	4235723	+	non-ribosomal_peptide_synthetase
+MCAG_03526	ZP_04607269.1	4236334	4238472	+	monooxygenase,_FAD-binding
+MCAG_03527	ZP_04607270.1	4238469	4239416	+	short-chain_dehydrogenase
+MCAG_03528	ZP_04607271.1	4239422	4239922	+	hypothetical_protein
+MCAG_03529	ZP_04607272.1	4240009	4241025	-	hypothetical_protein
+MCAG_03530	ZP_04607273.1	4241092	4241799	-	4'-phosphopantetheinyl_transferase
+MCAG_03531	ZP_04607274.1	4241796	4242116	-	hypothetical_protein
+MCAG_03532	ZP_04607275.1	4242426	4244150	-	glycosyl_transferase_family_39
+MCAG_03533	ZP_04607276.1	4244234	4245082	+	uroporphyrin-III_C/tetrapyrrole
+MCAG_03534	ZP_04607277.1	4246424	4248235	+	methionyl-tRNA_synthetase
+MCAG_03535	ZP_04607278.1	4248512	4249291	+	hypothetical_protein
+MCAG_03536	ZP_04607279.1	4249308	4250159	-	non-heme_chloroperoxidase
+MCAG_03537	ZP_04607280.1	4250307	4251554	-	hypothetical_protein
+MCAG_03538	ZP_04607281.1	4251720	4252637	+	hydrolase_tatD
+MCAG_03539	ZP_04607282.1	4252631	4253506	+	dimethyladenosine_transferase
+MCAG_03540	ZP_04607283.1	4254267	4254602	+	4-diphosphocytidyl-2-C-methyl-D-erythritol
+MCAG_03541	ZP_04607284.1	4254698	4256533	+	ABC_transporter_related
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0084670.1	MCAG_03525	33	89	16.6666666667	1e-16	
+CHAFR746836_0084680.1	MCAG_03527	36	61	21.0526315789	3e-09	
+
+
+
+>>
+3. HM116536.1_c1
+Source: Streptomyces kanamyceticus strain KCTC 9225 FK506 gene cluster, partial sequence.
+Type: t4pks-t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 126
+
+Table of genes, locations, strands and annotations of subject cluster:
+Tcs_SK_001	ADU56255.1	122	1297	+	probable_NAD-dependent_formate_dehdyrogenase
+Tcs_SK_002	ADU56256.1	1462	2061	-	hypothetical_protein
+Tcs_SK_003	ADU56257.1	2092	2319	+	hypothetical_protein
+Tcs_SK_004	ADU56258.1	2376	2990	-	putative_tetR-family_transcriptional_regulator
+Tcs_SK_005	ADU56259.1	2990	3838	-	putative_oxidoreductase
+Tcs_SK_006	ADU56260.1	4272	4940	-	TPR_repeat_protein
+Tcs_SK_007	ADU56261.1	5155	5286	-	hypothetical_protein
+Tcs_SK_008	ADU56262.1	5499	5891	-	putative_transcriptional_regulator
+Tcs_SK_009	ADU56263.1	5947	6102	-	hypothetical_protein
+Tcs_SK_010	ADU56264.1	6174	6557	+	FrnE
+Tcs_SK_011	ADU56265.1	6605	7249	+	FMN-dependent_NADH-azoreductase
+Tcs_SK_012	ADU56266.1	7392	8735	-	hypothetical_protein
+Tcs_SK_013	ADU56267.1	8757	9314	-	hypothetical_protein
+Tcs_SK_014	ADU56268.1	9500	9814	-	hypothetical_protein
+Tcs_SK_015	ADU56269.1	10018	10905	+	transcriptional_regulator,_LysR_family
+Tcs_SK_016	ADU56270.1	10954	11859	-	hypothetical_protein
+Tcs_SK_017	ADU56271.1	11856	12221	-	hypothetical_protein
+Tcs_SK_018	ADU56272.1	12606	13166	-	hypothetical_protein
+Tcs_SK_019	ADU56273.1	13194	15296	-	protein_kinase/transcriptional_regulator,_LuxR
+Tcs_SK_020	ADU56236.1	15815	17095	+	acyl_transferase_domain_protein
+Tcs_SK_021	ADU56237.1	17103	19493	+	polyketide_synthase_module-related_protein
+Tcs_SK_022	ADU56238.1	19490	20827	+	crotonyl-CoA_reductase
+Tcs_SK_023	ADU56239.1	20824	21984	+	acyl-CoA_dehydrogenase
+Tcs_SK_024	ADU56240.1	22063	22731	+	hydroxy-malonyl-ACP_O-methyltransferase
+Tcs_SK_025	ADU56241.1	22709	23797	-	glyceryl_transferase
+Tcs_SK_026	ADU56242.1	23808	24908	-	acyl-CoA_dehydrogenase
+Tcs_SK_027	ADU56243.1	24901	25161	-	acyl_carrier_protein
+Tcs_SK_028	ADU56244.1	25158	26009	-	glyceryl-ACP_oxidoreductase
+Tcs_SK_029	ADU56245.1	26030	27067	-	lysine_cyclodeaminase
+Tcs_SK_030	ADU56246.1	27071	37864	-	polyketide_synthase
+Tcs_SK_031	ADU56247.1	37869	60644	-	polyketide_synthase
+Tcs_SK_032	ADU56248.1	60907	61905	+	oxidase
+Tcs_SK_033	ADU56249.1	61902	66422	+	peptide_synthetase
+Tcs_SK_034	ADU56250.1	66425	85651	+	polyketide_synthase
+Tcs_SK_035	ADU56251.1	85648	86814	+	cytochrome_P450
+Tcs_SK_036	ADU56252.1	86953	87591	+	31-O-demethyl-FK506_methyltransferase
+Tcs_SK_037	ADU56253.1	87607	90411	-	cholesterol_oxidase_regulator
+Tcs_SK_038	ADU56254.1	90447	91214	-	thioesterase
+Tcs_SK_039	ADU56274.1	91211	91552	-	crotonyl-CoA_reductase
+Tcs_SK_040	ADU56275.1	91622	91762	+	hypothetical_protein
+Tcs_SK_041	ADU56276.1	91805	92641	-	hypothetical_protein
+Tcs_SK_042	ADU56277.1	92633	93091	+	putative_lipase
+Tcs_SK_043	ADU56278.1	93108	93458	+	hypothetical_protein
+Tcs_SK_044	ADU56279.1	93449	93610	+	putative_membrane_protein
+Tcs_SK_045	ADU56280.1	93839	94795	-	hypothetical_protein
+Tcs_SK_046	ADU56281.1	95308	95718	+	hypothetical_protein
+Tcs_SK_047	ADU56282.1	95722	96012	-	hypothetical_protein
+Tcs_SK_048	ADU56283.1	96025	96180	+	hypothetical_protein
+Tcs_SK_049	ADU56284.1	96232	97302	-	hypothetical_protein
+Tcs_SK_050	ADU56285.1	97410	98402	+	putative_regulatory_protein
+Tcs_SK_051	ADU56286.1	98492	99445	-	putative_zinc-binding_dehydrogenase
+Tcs_SK_052	ADU56287.1	99518	100102	+	regulatory_protein_TetR
+Tcs_SK_053	ADU56288.1	100266	100676	+	hypothetical_protein
+Tcs_SK_054	ADU56289.1	100877	101311	-	hypothetical_protein
+Tcs_SK_055	ADU56290.1	101319	101444	+	hypothetical_protein
+Tcs_SK_056	ADU56291.1	101444	101617	+	hypothetical_protein
+Tcs_SK_057	ADU56292.1	101704	102945	-	hypothetical_protein
+Tcs_SK_058	ADU56293.1	103057	103203	-	putative_integral_membrane_protein
+Tcs_SK_059	ADU56294.1	103190	103831	+	hypothetical_protein
+Tcs_SK_060	ADU56295.1	103898	105037	-	sensor_protein
+Tcs_SK_061	ADU56296.1	105077	105241	-	sensor_protein
+Tcs_SK_062	ADU56297.1	105259	105585	-	putative_two-component_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CHAFR746836_0084670.1	Tcs_SK_031	31	54	12.7192982456	6e-06	
+CHAFR746836_0084680.1	Tcs_SK_005	37	72	27.5689223058	4e-13	
+

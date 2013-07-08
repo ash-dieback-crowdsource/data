@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 12682 - 14106" locus_tag="CHAFR746836_0048090.1" class="clusterblast-orf" points="272,35 277,30 293,30 293,40 277,40 272,35 " id="clusterblast-1_q58_7_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 15778 - 17791" locus_tag="CHAFR746836_0048100.1" class="clusterblast-orf" points="319,40 344,40 349,35 344,30 319,30 319,40 " id="clusterblast-1_q58_7_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 18075 - 18962" locus_tag="CHAFR746836_0048110.1" class="clusterblast-orf" points="354,35 359,30 367,30 367,40 359,40 354,35 " id="clusterblast-1_q58_7_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 20277 - 28682" locus_tag="CHAFR746836_0048120.1" class="clusterblast-orf" points="387,40 510,40 515,35 510,30 387,30 387,40 " id="clusterblast-1_q58_7_3"  />
+</g>
+<g class="clusterblast-cluster" description="Aspergillus kawachii IFO 4308 DNA, contig: scaffold00007, wh..." label="DF126453.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+DF126453.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Aspergillus kawachii IFO 4308 DNA, contig: scaffold00007, wh...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="WD_domain-containing_protein[br]Location: 496743 - 499367" locus_tag="AKAW_03467" id="clusterblast-1_h58_7_0" points="10,90 44,90 49,85 44,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="MFS_monosaccharide_transporter[br]Location: 492040 - 493955" locus_tag="AKAW_03466" id="clusterblast-1_h58_7_1" points="92,85 97,80 121,80 121,90 97,90 92,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 491285 - 491566" locus_tag="AKAW_03465" id="clusterblast-1_h58_7_2" points="128,85 133,80 133,80 133,90 133,90 128,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="dihydrolipoamide_dehydrogenase[br]Location: 486888 - 488680" locus_tag="AKAW_03464" id="clusterblast-1_h58_7_3" points="172,90 195,90 200,85 195,80 172,80 172,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="oxidoreductase,_short-chain[br]Location: 484955 - 486031" locus_tag="AKAW_03463" id="clusterblast-1_h58_7_4" points="213,85 218,80 229,80 229,90 218,90 213,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="efflux_pump_antibiotic_resistance_protein[br]Location: 481857 - 483530" locus_tag="AKAW_03462" id="clusterblast-1_h58_7_5" points="251,85 256,80 276,80 276,90 256,90 251,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hypothetical_protein[br]Location: 480139 - 480603&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048090.1&lt;/b&gt;&lt;br&gt;Percentage identity: 33%&lt;br&gt;Percentage coverage: 30%&lt;br&gt;BLAST bit score: 83&lt;br&gt;E-value: 2e-17" locus_tag="AKAW_03461" id="clusterblast-1_h58_7_6" points="295,85 300,80 302,80 302,90 300,90 295,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="hypothetical_protein[br]Location: 478233 - 479240&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048110.1&lt;/b&gt;&lt;br&gt;Percentage identity: 35%&lt;br&gt;Percentage coverage: 103%&lt;br&gt;BLAST bit score: 150&lt;br&gt;E-value: 1e-42" locus_tag="AKAW_03460" id="clusterblast-1_h58_7_7" points="316,85 321,80 331,80 331,90 321,90 316,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="polyketide_synthase[br]Location: 469720 - 477881&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0048120.1&lt;/b&gt;&lt;br&gt;Percentage identity: 31%&lt;br&gt;Percentage coverage: 107%&lt;br&gt;BLAST bit score: 1224&lt;br&gt;E-value: 0.0" locus_tag="AKAW_03459" id="clusterblast-1_h58_7_8" points="337,90 456,90 461,85 456,80 337,80 337,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 468815 - 469514" locus_tag="AKAW_03458" id="clusterblast-1_h58_7_9" points="464,85 469,80 475,80 475,90 469,90 464,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="monoxygenase[br]Location: 467124 - 468370" locus_tag="AKAW_03457" id="clusterblast-1_h58_7_10" points="482,90 495,90 500,85 495,80 482,80 482,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="phosphoglucomutase[br]Location: 464045 - 466539" locus_tag="AKAW_03456" id="clusterblast-1_h58_7_11" points="509,85 514,80 547,80 547,90 514,90 509,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="fatty_acid_desaturase[br]Location: 461661 - 463408" locus_tag="AKAW_03455" id="clusterblast-1_h58_7_12" points="557,90 579,90 584,85 579,80 557,80 557,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="40S_ribosomal_protein_S10a[br]Location: 459970 - 460559" locus_tag="AKAW_03454" id="clusterblast-1_h58_7_13" points="600,90 604,90 609,85 604,80 600,80 600,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="CCCH_zinc_finger_domain_protein[br]Location: 457586 - 459603" locus_tag="AKAW_03453" id="clusterblast-1_h58_7_14" points="615,85 620,80 646,80 646,90 620,90 615,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 455922 - 456995" locus_tag="AKAW_03452" id="clusterblast-1_h58_7_15" points="655,85 660,80 671,80 671,90 660,90 655,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="nuclear_condensin_complex_subunit_Smc4[br]Location: 451182 - 455775" locus_tag="AKAW_03451" id="clusterblast-1_h58_7_16" points="673,90 738,90 743,85 738,80 673,80 673,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="oxidoreductase,_2OG-Fe(II)_oxygenase_family[br]Location: 448932 - 450515" locus_tag="AKAW_03450" id="clusterblast-1_h58_7_17" points="753,90 773,90 778,85 773,80 753,80 753,90 " class="clusterblast-orf"  />
+</g>
+</svg>

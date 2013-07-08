@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 227 - 1850" locus_tag="CHAFR746836_0038550.1" class="clusterblast-orf" points="299,35 304,30 327,30 327,40 304,40 299,35 " id="clusterblast-1_q49_5_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 2628 - 3596" locus_tag="CHAFR746836_0038560.1" class="clusterblast-orf" points="341,40 353,40 358,35 353,30 341,30 341,40 " id="clusterblast-1_q49_5_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5587 - 7498" locus_tag="CHAFR746836_0038570.1" class="clusterblast-orf" points="392,35 397,30 426,30 426,40 397,40 392,35 " id="clusterblast-1_q49_5_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 7719 - 10993" locus_tag="CHAFR746836_0038580.1" class="clusterblast-orf" points="430,40 482,40 487,35 482,30 430,30 430,40 " id="clusterblast-1_q49_5_3"  />
+</g>
+<g class="clusterblast-cluster" description="Glomerella graminicola M1.001 genomic scaffold supercont1.62..." label="GG697392.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GG697392.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Glomerella graminicola M1.001 genomic scaffold supercont1.62...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="glucan_1,3-beta-glucosidase[br]Location: 96771 - 98051" locus_tag="GLRG_10529" id="clusterblast-1_h49_5_0" points="10,85 15,80 32,80 32,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="methyltransferase_domain-containing_protein[br]Location: 99144 - 100280" locus_tag="GLRG_10530" id="clusterblast-1_h49_5_1" points="51,85 56,80 71,80 71,90 56,90 51,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 100977 - 102140" locus_tag="GLRG_10531" id="clusterblast-1_h49_5_2" points="83,90 99,90 104,85 99,80 83,80 83,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450_monooxygenase[br]Location: 102406 - 104216" locus_tag="GLRG_10532" id="clusterblast-1_h49_5_3" points="108,85 113,80 140,80 140,90 113,90 108,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="2-nitropropane_dioxygenase[br]Location: 104629 - 106128" locus_tag="GLRG_10533" id="clusterblast-1_h49_5_4" points="147,90 169,90 174,85 169,80 147,80 147,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450[br]Location: 106543 - 108587" locus_tag="GLRG_10534" id="clusterblast-1_h49_5_5" points="181,85 186,80 217,80 217,90 186,90 181,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hydroxymethylglutaryl-CoA_synthase[br]Location: 109088 - 110679&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038550.1&lt;/b&gt;&lt;br&gt;Percentage identity: 55%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 526&lt;br&gt;E-value: 0.0" locus_tag="GLRG_10535" id="clusterblast-1_h49_5_6" points="225,85 230,80 253,80 253,90 230,90 225,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450_monooxygenase[br]Location: 111184 - 112809" locus_tag="GLRG_10536" id="clusterblast-1_h49_5_7" points="262,90 286,90 291,85 286,80 262,80 262,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="beta-ketoacyl_synthase_domain-containing[br]Location: 113355 - 120836" locus_tag="GLRG_10537" id="clusterblast-1_h49_5_8" points="300,85 305,80 431,80 431,90 305,90 300,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="major_facilitator_superfamily_transporter[br]Location: 121801 - 123950&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038580.1&lt;/b&gt;&lt;br&gt;Percentage identity: 33%&lt;br&gt;Percentage coverage: 63%&lt;br&gt;BLAST bit score: 298&lt;br&gt;E-value: 1e-88" locus_tag="GLRG_10538" id="clusterblast-1_h49_5_9" points="448,85 453,80 486,80 486,90 453,90 448,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="transferase[br]Location: 124636 - 126051" locus_tag="GLRG_10539" id="clusterblast-1_h49_5_10" points="498,90 518,90 523,85 518,80 498,80 498,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="enoyl-CoA_hydratase/isomerase[br]Location: 126184 - 127023" locus_tag="GLRG_10540" id="clusterblast-1_h49_5_11" points="525,90 535,90 540,85 535,80 525,80 525,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 129703 - 130257" locus_tag="GLRG_10541" id="clusterblast-1_h49_5_12" points="587,90 591,90 596,85 591,80 587,80 587,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 130348 - 131965" locus_tag="GLRG_10542" id="clusterblast-1_h49_5_13" points="598,85 603,80 626,80 626,90 603,90 598,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="methyltransferase_domain-containing_protein[br]Location: 132617 - 133270" locus_tag="GLRG_10543" id="clusterblast-1_h49_5_14" points="638,85 643,80 649,80 649,90 643,90 638,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="GMC_oxidoreductase[br]Location: 134619 - 136627" locus_tag="GLRG_10544" id="clusterblast-1_h49_5_15" points="673,90 703,90 708,85 703,80 673,80 673,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="FAD_binding_domain-containing_protein[br]Location: 136809 - 138632" locus_tag="GLRG_10545" id="clusterblast-1_h49_5_16" points="711,85 716,80 743,80 743,90 716,90 711,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="tat_pathway_signal_sequence[br]Location: 139248 - 140589" locus_tag="GLRG_10546" id="clusterblast-1_h49_5_17" points="754,90 773,90 778,85 773,80 754,80 754,90 " class="clusterblast-orf"  />
+</g>
+</svg>

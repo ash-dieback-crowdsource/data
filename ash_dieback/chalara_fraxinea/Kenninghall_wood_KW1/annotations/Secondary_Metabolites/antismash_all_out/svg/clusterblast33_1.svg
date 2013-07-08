@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 1952 - 3041" locus_tag="CHAFR746836_0014820.1" class="clusterblast-orf" points="31,35 36,30 47,30 47,40 36,40 31,35 " id="clusterblast-1_q33_1_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 3432 - 5536" locus_tag="CHAFR746836_0014830.1" class="clusterblast-orf" points="53,35 58,30 85,30 85,40 58,40 53,35 " id="clusterblast-1_q33_1_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 6363 - 7400" locus_tag="CHAFR746836_0014840.1" class="clusterblast-orf" points="97,40 108,40 113,35 108,30 97,30 97,40 " id="clusterblast-1_q33_1_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 8509 - 10054" locus_tag="CHAFR746836_0014850.1" class="clusterblast-orf" points="130,40 148,40 153,35 148,30 130,30 130,40 " id="clusterblast-1_q33_1_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 11892 - 13041" locus_tag="CHAFR746836_0014860.1" class="clusterblast-orf" points="181,40 193,40 198,35 193,30 181,30 181,40 " id="clusterblast-1_q33_1_4"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 13745 - 15282" locus_tag="CHAFR746836_0014870.1" class="clusterblast-orf" points="209,40 227,40 232,35 227,30 209,30 209,40 " id="clusterblast-1_q33_1_5"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 16775 - 17524" locus_tag="CHAFR746836_0014880.1" class="clusterblast-orf" points="255,40 261,40 266,35 261,30 255,30 255,40 " id="clusterblast-1_q33_1_6"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 18152 - 18880" locus_tag="CHAFR746836_0014890.1" class="clusterblast-orf" points="275,40 281,40 286,35 281,30 275,30 275,40 " id="clusterblast-1_q33_1_7"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 20430 - 22148" locus_tag="CHAFR746836_0014900.1" class="clusterblast-orf" points="310,40 331,40 336,35 331,30 310,30 310,40 " id="clusterblast-1_q33_1_8"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 22271 - 23378" locus_tag="CHAFR746836_0014910.1" class="clusterblast-orf" points="338,35 343,30 354,30 354,40 343,40 338,35 " id="clusterblast-1_q33_1_9"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 46131 - 47915" locus_tag="CHAFR746836_0014920.1" class="clusterblast-orf" points="698,40 720,40 725,35 720,30 698,30 698,40 " id="clusterblast-1_q33_1_10"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 48731 - 49958" locus_tag="CHAFR746836_0014930.1" class="clusterblast-orf" points="738,40 751,40 756,35 751,30 738,30 738,40 " id="clusterblast-1_q33_1_11"  />
+</g>
+<g class="clusterblast-cluster" description="Penicillium aethiopicum strain IBT 5753 viridicatumtoxin bio..." label="GU574477.1_c1"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GU574477.1_c1</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Penicillium aethiopicum strain IBT 5753 viridicatumtoxin bio...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 442 - 1230" locus_tag="ADI24940.1" id="clusterblast-1_h33_1_0" points="10,90 16,90 21,85 16,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 1729 - 2172" locus_tag="ADI24941.1" id="clusterblast-1_h33_1_1" points="29,90 31,90 36,85 31,80 29,80 29,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 4973 - 5647" locus_tag="ADI24942.1" id="clusterblast-1_h33_1_2" points="78,90 83,90 88,85 83,80 78,80 78,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtR2[br]Location: 6236 - 8992" locus_tag="ADI24939.1" id="clusterblast-1_h33_1_3" points="97,85 102,80 139,80 139,90 102,90 97,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtL[br]Location: 12194 - 13763" locus_tag="ADI24938.1" id="clusterblast-1_h33_1_4" points="187,90 206,90 211,85 206,80 187,80 187,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="VrtK[br]Location: 14679 - 16525&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014920.1&lt;/b&gt;&lt;br&gt;Percentage identity: 32%&lt;br&gt;Percentage coverage: 100%&lt;br&gt;BLAST bit score: 251&lt;br&gt;E-value: 6e-75" locus_tag="ADI24937.1" id="clusterblast-1_h33_1_5" points="225,90 248,90 253,85 248,80 225,80 225,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtJ[br]Location: 17107 - 18355" locus_tag="ADI24936.1" id="clusterblast-1_h33_1_6" points="261,90 275,90 280,85 275,80 261,80 261,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="VrtI[br]Location: 18542 - 20138&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0014930.1&lt;/b&gt;&lt;br&gt;Percentage identity: 34%&lt;br&gt;Percentage coverage: 24%&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 8e-08" locus_tag="ADI24935.1" id="clusterblast-1_h33_1_7" points="283,85 288,80 307,80 307,90 288,90 283,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtA[br]Location: 20532 - 26109" locus_tag="ADI24926.1" id="clusterblast-1_h33_1_8" points="313,90 392,90 397,85 392,80 313,80 313,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtB[br]Location: 26553 - 28864" locus_tag="ADI24927.1" id="clusterblast-1_h33_1_9" points="404,85 409,80 439,80 439,90 409,90 404,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtC[br]Location: 29194 - 30645" locus_tag="ADI24928.1" id="clusterblast-1_h33_1_10" points="444,90 461,90 466,85 461,80 444,80 444,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtD[br]Location: 31049 - 32254" locus_tag="ADI24929.1" id="clusterblast-1_h33_1_11" points="472,85 477,80 490,80 490,90 477,90 472,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtE[br]Location: 32536 - 34433" locus_tag="ADI24930.1" id="clusterblast-1_h33_1_12" points="495,85 500,80 523,80 523,90 500,90 495,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtF[br]Location: 34845 - 35561" locus_tag="ADI24931.1" id="clusterblast-1_h33_1_13" points="529,85 534,80 540,80 540,90 534,90 529,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtG[br]Location: 35872 - 36795" locus_tag="ADI24932.1" id="clusterblast-1_h33_1_14" points="545,90 554,90 559,85 554,80 545,80 545,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtH[br]Location: 36951 - 38255" locus_tag="ADI24934.1" id="clusterblast-1_h33_1_15" points="561,85 566,80 581,80 581,90 566,90 561,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="VrtR1[br]Location: 38460 - 40607" locus_tag="ADI24933.1" id="clusterblast-1_h33_1_16" points="584,85 589,80 617,80 617,90 589,90 584,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 40894 - 42867" locus_tag="ADI24943.1" id="clusterblast-1_h33_1_17" points="621,90 646,90 651,85 646,80 621,80 621,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 43160 - 44658" locus_tag="ADI24944.1" id="clusterblast-1_h33_1_18" points="655,85 660,80 678,80 678,90 660,90 655,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 45248 - 46969" locus_tag="ADI24945.1" id="clusterblast-1_h33_1_19" points="687,85 692,80 713,80 713,90 692,90 687,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 48987 - 49874" locus_tag="ADI24946.1" id="clusterblast-1_h33_1_20" points="743,90 752,90 757,85 752,80 743,80 743,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unknown[br]Location: 50142 - 51253" locus_tag="ADI24947.1" id="clusterblast-1_h33_1_21" points="761,85 766,80 778,80 778,90 766,90 761,85 " class="clusterblast-orf"  />
+</g>
+</svg>

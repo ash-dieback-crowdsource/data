@@ -1,0 +1,17 @@
+ClusterBlast scores for scaffold_543.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CHAFR746836_0018730.1	1502	2717	+	unannotated orf	
+CHAFR746836_0018740.1	5434	6658	+	unannotated orf	
+CHAFR746836_0018750.1	8194	15527	-	unannotated orf	
+CHAFR746836_0018760.1	16107	17386	+	unannotated orf	
+CHAFR746836_0018770.1	18113	19107	+	unannotated orf	
+CHAFR746836_0018780.1	21941	23810	+	unannotated orf	
+CHAFR746836_0018790.1	25428	26120	+	unannotated orf	
+CHAFR746836_0018800.1	28320	30189	-	unannotated orf	
+
+
+Significant hits: 
+
+
+Details:

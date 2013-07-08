@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 227 - 1850" locus_tag="CHAFR746836_0038550.1" class="clusterblast-orf" points="334,35 339,30 352,30 352,40 339,40 334,35 " id="clusterblast-1_q49_1_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 2628 - 3596" locus_tag="CHAFR746836_0038560.1" class="clusterblast-orf" points="360,40 366,40 371,35 366,30 360,30 360,40 " id="clusterblast-1_q49_1_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 5587 - 7498" locus_tag="CHAFR746836_0038570.1" class="clusterblast-orf" points="393,35 398,30 415,30 415,40 398,40 393,35 " id="clusterblast-1_q49_1_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 7719 - 10993" locus_tag="CHAFR746836_0038580.1" class="clusterblast-orf" points="417,40 448,40 453,35 448,30 417,30 417,40 " id="clusterblast-1_q49_1_3"  />
+</g>
+<g class="clusterblast-cluster" description="Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Sc..." label="GL698720.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+GL698720.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Metarhizium anisopliae ARSEF 23 unplaced genomic scaffold Sc...</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="glucose-methanol-choline_(gmc)_oxidoreductase,[br]Location: 90129 - 91920" locus_tag="MAA_06567" id="clusterblast-1_h49_1_0" points="10,90 24,90 29,85 24,80 10,80 10,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="C6_transcription_factor_(AflR),_putative[br]Location: 93777 - 95147" locus_tag="MAA_06568" id="clusterblast-1_h49_1_1" points="50,85 55,80 65,80 65,90 55,90 50,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="AMP_dependent_CoA_ligase,_putative[br]Location: 95306 - 100594" locus_tag="MAA_06569" id="clusterblast-1_h49_1_2" points="67,90 121,90 126,85 121,80 67,80 67,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 101329 - 103707" locus_tag="MAA_06570" id="clusterblast-1_h49_1_3" points="134,90 156,90 161,85 156,80 134,80 134,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="short-chain_dehydrogenase,_putative[br]Location: 104119 - 105093" locus_tag="MAA_06571" id="clusterblast-1_h49_1_4" points="165,85 170,80 176,80 176,90 170,90 165,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="NAD-dependent_epimerase/dehydratase,_putative[br]Location: 105593 - 106387" locus_tag="MAA_06572" id="clusterblast-1_h49_1_5" points="182,90 186,90 191,85 186,80 182,80 182,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 107143 - 108240" locus_tag="MAA_06573" id="clusterblast-1_h49_1_6" points="199,85 204,80 211,80 211,90 204,90 199,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="beta_lactamase_domain,_putative[br]Location: 108826 - 109929" locus_tag="MAA_06574" id="clusterblast-1_h49_1_7" points="218,85 223,80 230,80 230,90 223,90 218,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="polyketide_synthase,_putative[br]Location: 110962 - 116524" locus_tag="MAA_06575" id="clusterblast-1_h49_1_8" points="242,90 299,90 304,85 299,80 242,80 242,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="multidrug_resistance_protein_MDR,_putative[br]Location: 117426 - 122076" locus_tag="MAA_06576" id="clusterblast-1_h49_1_9" points="314,85 319,80 365,80 365,90 319,90 314,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="farnesyl-diphosphate_farnesyltransferase[br]Location: 125144 - 126627" locus_tag="MAA_06577" id="clusterblast-1_h49_1_10" points="400,90 411,90 416,85 411,80 400,80 400,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="hypothetical_protein[br]Location: 127557 - 130496" locus_tag="MAA_06578" id="clusterblast-1_h49_1_11" points="426,85 431,80 459,80 459,90 431,90 426,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="benzoate_4-monooxygenase_cytochrome_P450[br]Location: 135219 - 136546" locus_tag="MAA_06579" id="clusterblast-1_h49_1_12" points="512,90 522,90 527,85 522,80 512,80 512,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="hydroxymethylglutaryl-CoA_synthase[br]Location: 136853 - 138398&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038550.1&lt;/b&gt;&lt;br&gt;Percentage identity: 65%&lt;br&gt;Percentage coverage: 99%&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 0.0" locus_tag="MAA_06580" id="clusterblast-1_h49_1_13" points="530,85 535,80 547,80 547,90 535,90 530,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="Aristolochene_Synthase[br]Location: 138908 - 140251&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0038560.1&lt;/b&gt;&lt;br&gt;Percentage identity: 53%&lt;br&gt;Percentage coverage: 99%&lt;br&gt;BLAST bit score: 327&lt;br&gt;E-value: 2e-109" locus_tag="MAA_06581" id="clusterblast-1_h49_1_14" points="553,90 563,90 568,85 563,80 553,80 553,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="aldo-keto_reductase_(AKR13),_putative[br]Location: 144445 - 145572" locus_tag="MAA_06582" id="clusterblast-1_h49_1_15" points="615,90 622,90 627,85 622,80 615,80 615,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="feruloyl_esterase,_putative[br]Location: 146330 - 147859" locus_tag="MAA_06583" id="clusterblast-1_h49_1_16" points="636,85 641,80 653,80 653,90 641,90 636,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="HC-toxin_synthetase[br]Location: 149825 - 150754" locus_tag="MAA_06584" id="clusterblast-1_h49_1_17" points="675,90 680,90 685,85 680,80 675,80 675,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450_4F12[br]Location: 155039 - 156646" locus_tag="MAA_06585" id="clusterblast-1_h49_1_18" points="733,85 738,80 751,80 751,90 738,90 733,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="cytochrome_P450[br]Location: 157455 - 159065" locus_tag="MAA_06586" id="clusterblast-1_h49_1_19" points="760,85 765,80 778,80 778,90 765,90 760,85 " class="clusterblast-orf"  />
+</g>
+</svg>

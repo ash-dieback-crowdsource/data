@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="230" width="800" version="1.1" y="0" x="0" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 230"  >
+<g class="clusterblast-cluster" label="Query sequence"  >
+<text class="clusterblast-acc" y="10" x="5"  >
+Query sequence</text>
+<line y1="35" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="35"  />
+<polygon style="stroke:black; stroke-width:1; fill:red; " description="unannotated orf[br]Location: 7069 - 8172" locus_tag="CHAFR746836_0067810.1" class="clusterblast-orf" points="255,40 267,40 272,35 267,30 255,30 255,40 " id="clusterblast-1_q8_7_0"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="unannotated orf[br]Location: 9727 - 13318" locus_tag="CHAFR746836_0067820.1" class="clusterblast-orf" points="297,35 302,30 355,30 355,40 302,40 297,35 " id="clusterblast-1_q8_7_1"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="unannotated orf[br]Location: 14449 - 16282" locus_tag="CHAFR746836_0067830.1" class="clusterblast-orf" points="373,40 398,40 403,35 398,30 373,30 373,40 " id="clusterblast-1_q8_7_2"  />
+<polygon style="stroke:black; stroke-width:1; fill:yellow; " description="unannotated orf[br]Location: 18109 - 19056" locus_tag="CHAFR746836_0067840.1" class="clusterblast-orf" points="432,35 437,30 447,30 447,40 437,40 432,35 " id="clusterblast-1_q8_7_3"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="unannotated orf[br]Location: 20406 - 24215" locus_tag="CHAFR746836_0067850.1" class="clusterblast-orf" points="469,35 474,30 531,30 531,40 474,40 469,35 " id="clusterblast-1_q8_7_4"  />
+</g>
+<g class="clusterblast-cluster" description="Aspergillus oryzae RIB40 DNA, SC003." label="AP007155.1_c2"  >
+<text class="clusterblast-acc" y="60" x="5"  >
+AP007155.1_c2</text>
+<text class="clusterblast-desc" y="60" x="460.8"  >
+Aspergillus oryzae RIB40 DNA, SC003.</text>
+<line y1="85" x2="778.0" style="stroke:grey; stroke-width:1; " x1="10" y2="85"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2959561 - 2962331" locus_tag="AO090003001090" id="clusterblast-1_h8_7_0" points="10,85 15,80 54,80 54,90 15,90 10,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2962896 - 2968905" locus_tag="AO090003001091" id="clusterblast-1_h8_7_1" points="63,85 68,80 160,80 160,90 68,90 63,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2969638 - 2971105" locus_tag="AO090003001092" id="clusterblast-1_h8_7_2" points="172,85 177,80 195,80 195,90 177,90 172,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2974639 - 2976191" locus_tag="AO090003001094" id="clusterblast-1_h8_7_3" points="252,90 272,90 277,85 272,80 252,80 252,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2976739 - 2979771" locus_tag="AO090003001095" id="clusterblast-1_h8_7_4" points="286,85 291,80 335,80 335,90 291,90 286,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2980303 - 2981553" locus_tag="AO090003001096" id="clusterblast-1_h8_7_5" points="343,85 348,80 364,80 364,90 348,90 343,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:green; " description="[br]Location: 2982186 - 2986637&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067820.1&lt;/b&gt;&lt;br&gt;Percentage identity: 65%&lt;br&gt;Percentage coverage: 101%&lt;br&gt;BLAST bit score: 1592&lt;br&gt;E-value: 0.0" locus_tag="AO090003001097" id="clusterblast-1_h8_7_6" points="374,85 379,80 445,80 445,90 379,90 374,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:blue; " description="[br]Location: 2987334 - 2989208&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CHAFR746836_0067830.1&lt;/b&gt;&lt;br&gt;Percentage identity: 41%&lt;br&gt;Percentage coverage: 99%&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 3e-147" locus_tag="AO090003001098" id="clusterblast-1_h8_7_7" points="457,90 482,90 487,85 482,80 457,80 457,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2989828 - 2994081" locus_tag="AO090003001099" id="clusterblast-1_h8_7_8" points="497,90 560,90 565,85 560,80 497,80 497,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2994530 - 2996698" locus_tag="AO090003001100" id="clusterblast-1_h8_7_9" points="572,85 577,80 607,80 607,90 577,90 572,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2998625 - 2999157" locus_tag="AO090003001101" id="clusterblast-1_h8_7_10" points="638,90 642,90 647,85 642,80 638,80 638,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 2999256 - 3001394" locus_tag="AO090003001102" id="clusterblast-1_h8_7_11" points="649,90 678,90 683,85 678,80 649,80 649,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 3001774 - 3003523" locus_tag="AO090003001103" id="clusterblast-1_h8_7_12" points="689,85 694,80 717,80 717,90 694,90 689,85 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 3004004 - 3005587" locus_tag="AO090003001104" id="clusterblast-1_h8_7_13" points="725,90 745,90 750,85 745,80 725,80 725,90 " class="clusterblast-orf"  />
+<polygon style="stroke:black; stroke-width:1; fill:#FFFFFF; " description="[br]Location: 3006430 - 3007269" locus_tag="AO090003001106" id="clusterblast-1_h8_7_14" points="764,90 773,90 778,85 773,80 764,80 764,90 " class="clusterblast-orf"  />
+</g>
+</svg>
