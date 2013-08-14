@@ -1,0 +1,2 @@
+ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/reads/RNAseq/R1.fastq.gz
+ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/reads/RNAseq/R2.fastq.gz
