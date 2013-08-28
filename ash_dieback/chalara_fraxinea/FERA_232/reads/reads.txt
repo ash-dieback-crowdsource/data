@@ -1,0 +1,2 @@
+ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_232/reads/RNAseq/FERA_232_S2_L001_R1_001.fastq.gz
+ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_232/reads/RNAseq/FERA_232_S2_L001_R2_001.fastq.gz
