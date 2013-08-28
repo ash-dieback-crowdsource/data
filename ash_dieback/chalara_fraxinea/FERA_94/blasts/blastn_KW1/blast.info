@@ -1,0 +1,22 @@
+#metadata definition file for blast generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "blastn"
+version: "2.2.27"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "blastn -db KW1 -query FERA_94_trinity.fasta -out FERA_94.fasta.KW.blastn -num_alignments 100 -num_descriptions 100 -task blast"
+
+##database or reference sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: "data/ash_dieback/chalara_fraxinea/Kenninghall_wood_KW1/assemblies/RNAseq/KW1_mycelia_RNAseq_Trinity.fasta"
+
+##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+query: "data/ash_dieback/chalara_fraxinea/FERA_94/assemblies/FERA_94_trinity.fasta"
