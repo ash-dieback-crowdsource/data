@@ -1,0 +1,1 @@
+ftp-oadb.tsl.ac.uk/fraxinus_excelsior/Ashwellthorpe_ATU1/blastx/ATU1_Trinity.blastx.tar.gz
