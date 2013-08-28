@@ -1,0 +1,2 @@
+required: "program,version,os,run_parameters,target,query"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
