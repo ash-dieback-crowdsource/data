@@ -1,1 +1,0 @@
-ftp-oadb.tsl.ac.uk/fraxinus_excelsior/GIRM2/analysis/2013_SOL_MB0464__LSVM82-Qiagen_with_readgroup_realigned_with_depth_10.vcf

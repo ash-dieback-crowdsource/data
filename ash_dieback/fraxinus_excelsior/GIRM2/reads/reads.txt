@@ -1,2 +1,0 @@
-ftp-oadb.tsl.ac.uk/fraxinus_excelsior/GIRM2/reads/130204_0022_000000000-A2E70_1_SA-PE-030_1.sanfastq.gz
-ftp-oadb.tsl.ac.uk/fraxinus_excelsior/GIRM2/reads/130204_0022_000000000-A2E70_1_SA-PE-030_2.sanfastq.gz
