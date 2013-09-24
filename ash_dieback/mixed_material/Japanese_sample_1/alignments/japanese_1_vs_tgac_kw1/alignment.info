@@ -1,0 +1,33 @@
+#metadata definition file for alignments generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "tophat"
+version: "2.0.8"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "tophat -o $1 -r 200 --b2-very-sensitive -G Chalara_fraxinea_ass_s1v1_ann_v1.1.gene.gff"
+
+program: "gatk"
+version: "2.5-2-gf57256b"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+
+run_parameters: "java -jar /tsl/software/testing/picard/1.96/x86_64/bin//AddOrReplaceReadGroups.jar INPUT=accepted_hits.bam OUTPUT=sorted_accepted_hits_plus_read_groups.bam SORT_ORDER=coordinate RGID=FW1 RGLB=fox RGPL=Illumina RGPU=Illumina RGSM=fw1 && java -jar /tsl/software/testing/picard/1.96/x86_64/bin//MarkDuplicates.jar INPUT=sorted_accepted_hits_plus_read_groups.bam OUTPUT=mark_dup_sorted.bam REMOVE_DUPLICATES=true  METRICS_FILE=metrics.txt && java -jar /tsl/software/testing/picard/1.96/x86_64/bin//BuildBamIndex.jar INPUT=mark_dup_sorted.bam && rm sorted_accepted_hits_plus_read_groups.bam && java -jar /tsl/software/testing/picard/1.96/x86_64/bin//ReorderSam.jar INPUT=mark_dup_sorted.bam OUTPUT=mark_dup_reordered.bam REFERENCE=/usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa && java -jar /tsl/software/testing/picard/1.96/x86_64/bin//BuildBamIndex.jar INPUT=mark_dup_reordered.bam && rm mark_dup_sorted.bam && samtools view -bF 0x100 mark_dup_reordered.bam > mark_dup_reordered_primary.bam && rm mark_dup_reordered.bam && java -jar /tsl/software/testing/picard/1.96/x86_64/bin//BuildBamIndex.jar INPUT=mark_dup_reordered_primary.bam && java -jar /tsl/software/testing/gatk/1.90/x86_64/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar   -T RealignerTargetCreator   -R /usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa   -I mark_dup_reordered_primary.bam   -o target_intervals.list && java -jar /tsl/software/testing/gatk/1.90/x86_64/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar   -T IndelRealigner   -R /usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa   -I mark_dup_reordered_primary.bam   -targetIntervals target_intervals.list   -o realigned.bam && rm mark_dup_reordered_primary.bam && java -jar /tsl/software/testing/gatk/1.90/x86_64/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar   -T UnifiedGenotyper   -R /usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa   -I realigned.bam   -glm BOTH   -stand_call_conf 30   -stand_emit_conf 10   -o raw_calls.vcf && java -jar /tsl/software/testing/gatk/1.90/x86_64/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar   -T SelectVariants   -R /usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa   -V raw_calls.vcf   -selectType SNP   -o raw_snps.vcf && java -jar /tsl/software/testing/gatk/1.90/x86_64/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar   -T SelectVariants   -R /usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa   -V raw_calls.vcf   -selectType INDEL   -o raw_indels.vcf && java -jar /tsl/software/testing/gatk/1.90/x86_64/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar   -T VariantFiltration   -R /usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa   -V raw_snps.vcf   --filterExpression "QD < 2.0 || FS > 60.0 || MQ < 40.0 || HaplotypeScore > 13.0 || MappingQualityRankSum < -12.5 || ReadPosRankSum < -8.0"   --filterName "my_snp_filter"    -o filtered_snps.vcf && java -jar /tsl/software/testing/gatk/1.90/x86_64/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar   -T VariantFiltration   -R /usr/users/sl/macleand/facebook/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa   -V raw_snps.vcf   --filterExpression "QD < 2.0 || FS > 200.0 || ReadPosRankSum < -20.0"   --filterName "my_snp_filter"    -o filtered_indels.vcf"
+
+
+##database or reference sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: "/chalara_fraxinea/Kenninghall_wood_KW1/assemblies/gDNA/KW1_assembly_version1/Chalara_fraxinea_TGAC_s1v1_contigs.fa"
+
+##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+
+query: "ftp-oadb.tsl.ac.uk/mixed_material/Japan_JP1/lane3_ACAGTG_R1.fastq
+ftp-oadb.tsl.ac.uk/mixed_material/Japan_JP1/lane3_ACAGTG_R2.fastq"
