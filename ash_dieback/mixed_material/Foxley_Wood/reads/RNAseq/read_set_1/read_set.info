@@ -1,0 +1,21 @@
+#metadata definition file for reads generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "local_name,platform,read_length,molecule_type"
+optional: "paired_end, mate_pairs, insert_size, left_orientation, right_orientation"
+
+local_name: "FW1"
+platform: "Illumina GAII"
+read_length: "76"
+#DNA or RNA was sampled
+molecule_type: "RNA"
+##which pairing strategy (if any was used)
+paired_end: "true"
+mate_pairs: "false"
+insert_size: "200"
+left_orientation: FWD
+right_orientation: REV

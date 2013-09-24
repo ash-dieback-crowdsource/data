@@ -1,0 +1,2 @@
+ftp-oadb.tsl.ac.uk/mixed_material/Foxley/lane6_CAGATC_R1.fastq
+ftp-oadb.tsl.ac.uk/mixed_material/Foxley/lane6_CAGATC_R2.fastq
