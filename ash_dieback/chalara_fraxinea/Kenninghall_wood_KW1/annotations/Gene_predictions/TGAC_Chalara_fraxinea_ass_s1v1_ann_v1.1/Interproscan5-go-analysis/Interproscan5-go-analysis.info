@@ -1,0 +1,18 @@
+#metadata definition file for Interproscan5 go analysis data generated
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+required: "program,version,os,run_parameters,target"
+
+program: "InterProScan Web Services"
+version: "5"
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "osx"
+##program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "see https://github.com/shyamrallapalli/h_pseu_analysis/blob/Version02/Interpro5_scan_go_analysis/Interproscan5_go_analysis.md#go-annotation-of-the-tgac-chalara-fraxinea-protein-predictions"
+
+##database or reference sequences being annotated, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: "ash_dieback/chalara_fraxinea/Kenninghall_wood_KW1/annotations/Gene_predictions/TGAC_Chalara_fraxinea_ass_s1v1_ann_v1.1/Chalara_fraxinea_ass_s1v1_ann_v1.1.protein.faa"
+
