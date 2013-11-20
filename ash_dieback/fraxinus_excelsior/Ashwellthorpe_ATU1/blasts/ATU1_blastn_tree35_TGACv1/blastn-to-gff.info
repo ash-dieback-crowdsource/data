@@ -1,0 +1,16 @@
+#metadata definition file for alignments generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "blastn_to_gff"
+version: "https://github.com/shyamrallapalli/analysis_scripts/commits/fa848a52419290473c36306e1f828f60ee6741d0/blastn_to_gff/blastn-to-GFF.rb"
+
+## blastn output from RNA-seq assembly alignments to genome scaffolds is used to produce gff
+## RNA-seq assemblies with more than one identical matches are ignored for the first analysis
+
