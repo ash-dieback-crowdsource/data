@@ -1,0 +1,1 @@
+ftp-oadb.tsl.ac.uk/fraxinus_excelsior/Ashwellthorpe_ATU1/blastn/ATU1_RNA-seq_Trinity_tree35_Nornex_scaffolds_blastplus.blastn.gz
