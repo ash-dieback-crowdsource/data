@@ -1,0 +1,23 @@
+#metadata definition file for alignments generated in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "program,version,os,run_parameters,target,query"
+optional: ""
+
+program: "blastall"
+version: 2.2.22""
+#os the analysis ran on, one of linux, osx, windows will be sufficient
+os: "linux"
+# #program options used, command line options will do here (take out filenames and program name etc)
+run_parameters: "-p blastn -e 1E-20 -m 8 -v 1 -b 1"
+
+##database or reference sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+target: 
+target: "Fraxinus_excelsior/tree35/assemblies/gDNA/Fraxinus_excelsior_Nornex_s1v1/Fraxinus_excelsior_Nornex_s1v1"
+##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
+query: "Fraxinus_excelsior/Tree35_repeat/assemblies/mRNA/Tree35_repeat_principal_isoforms.fasta"
+
