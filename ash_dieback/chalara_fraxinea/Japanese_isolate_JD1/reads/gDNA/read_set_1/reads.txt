@@ -1,1 +1,6 @@
-To be updated
+ftp-oadb.tsl.ac.uk/chalara_fraxinea/Japanese_isolate_JD1/reads/gDNA/read_set_1/lib4666_ldi3830_noindex_r1.fastq.gz
+ftp-oadb.tsl.ac.uk/chalara_fraxinea/Japanese_isolate_JD1/reads/gDNA/read_set_1/lib4666_ldi3830_noindex_r2.fastq.gz
+
+md5sums:
+71d97ce9f48456a34f67fe7d034e4a8c  lib4666_ldi3830_noindex_r1.fastq.gz
+40815fdd585bef0f5b71b189044bbb28  lib4666_ldi3830_noindex_r2.fastq.gz
