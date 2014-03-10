@@ -1,0 +1,77 @@
+Contents
+=======
+
+We have 4 gff3 files in which the annotation is contained. Originally we had one file but due to constraints by GitHub in terms of size I had to chunk them in 50Mb sizes.
+
+The gene annotation files are:
+
+annotationTree35_v0.1.gff3_aa
+annotationTree35_v0.1.gff3_ab
+annotationTree35_v0.1.gff3_ac
+annotationTree35_v0.1.gff3_ad
+
+Below I explain how these gene annotation models were obtained.
+
+
+RNA-seq-based assemblies of transcripts 
+=======================================
+
+We utilised a RNA-seq run  (130923_SN7001150_0161_AH71W9ADXX; Paired end, non-strand specific) to generate the transcript assemblies.
+
+	Insert size average: 388 – 120 (60 each adaptor) = 268 bp (150 read length x 2)
+	Reads 108,775,429
+
+We run Bowtie to create the indexes (bowtie-2.0.6). R1.fastq and R2.fastq where divided into chunks of 1M reads each. TopHat was run in parallel for each chunk to identify splice junctions. 
+	tophat-2.07 
+	Options: --min-anchor-length 8 --max-multihits 20 --min-intron-length 70 --max-intron-length 500000 --min-coverage-intron 50 --max-coverage-intron 20000 --min-segment-intron 50 --max-segment-intron 20000
+
+Cufflinks (cufflinks-2.0.2) was run to create transcript assemblies using as reference annotation the best_candidates.pasa.gff3 file to guide RABT assembly. 
+
+Cuffmerge was then used to merge together all Cufflinks assemblies. For Cuffmerge we also used the best_candidates.pasa.gff3 file for reference annotation and included it in the final output
+	Options: -g ./best_candidates.pasa.gff3 -s path/Fraxinus_excelsior_Nornex_s1v1-scaffolds.fa ./assembly_GTF_list.txt
+	Total number of transcripts: 77,189
+
+PASA alignment of cufflinks assemblies 
+======================================
+
+PASA is a pipeline of utilities and is an acronym for Program to Assemble Spliced Alignments. PASA is an eukaryotic genome annotation tool that exploits spliced alignments of expressed transcript sequences to automatically model gene structures, and to maintain gene structure annotation consistent with the most recently available experimental sequence data. PASA also identifies and classifies all splicing variations supported by the transcript alignments.
+
+PASA is only one component of a larger eukayotic annotation pipeline. Comprehensive genome annotation relies on more than transcript sequence evidence. For PASA, given a number of EST, full length cDNA sequences and a genome, it tries to make a guess at which of these sequences belong to the same transcribed regions, and ultimately a guess at the coordinates for transcripts based on the fragmented EST data. All things done in PASA center around a MySQL database, which will contain all EST and mRNA sequences. 
+
+PASA performs these tasks:
+1.	Cleaning transcripts with seqclean utility. It discards polyadenilation, trim vector and low quality sequences
+2.	Mapping and aligning transcripts to the genome using GMAP
+3.	Validate nearly perfect alignments. Alignments are required to aligtn with a 95% identity. Each alignment is required to have a consensus splice sites at all inferred intro boundaries, including GT/GC donor with AG acceptor
+4.	Maximal assembly of spliced alignments with compatible transcripts, having identical gene structures in their region of overlap. Those assemblies containing at least one full length cDNA are FL-assemblies.
+5.	Groping alternatively spliced isoforms into clusters of assemblies
+6.	Automatic genome annotation. This is a comparison to the PASA alignment assemblies. Each alignment assembly is assigned a status identifier indicating whether it is likely to improve the annotation and the type of update that the assembly gives
+
+PASA assemblies 
+===============
+
+PASA created a total of 571,375 transcript assemblies
+
+After the assembly, the pipeline takes a look at the results, and decides which ones are good candidates for real transcripts.
+
+PASA best candidates 113,520 (mRNAs)
+
+The PASA alignment assemblies can be used to automatically extract protein coding regions to be used for automated transcript-based genome annotation and/or for generating a high quality data set for training ab initio gene predictors (ex. Augustus, SNAP, genemarkHMM, glimmerHMM, etc.). The TransDecoder software, bundled with PASA, is used to identify likely coding regions.
+
+We processed PASA’s output gene grouping and CDSs numbering, producing
+Genes    37,135
+mRNAs 	113,520
+
+We filtered these to check which of the best PASA mRNAs are full length proteins (full length cDNA). We extracted complete ORFs and created a gff3 file. This is an initial version 0.1 GFF3 formatted file that includes:
+
+
+Genes    	  		  26,839
+mRNAs  	 	 		  88,084
+Exons (distinct) 	         128,362
+Avg exons per gene 	               4.7
+CDSs (distinct)  		 114,873
+Avg CDSs per gene                      4.2
+Five’ UTRs (distinct)	  	  70,382
+Avg Five’ UTRs 		               2.6
+Three’ UTRs	 (distinct) 	  65,559
+Avg Three’ UTR 		               2.4
+
