@@ -1,0 +1,15 @@
+Regression analysis of transcript abundance on disease score (% damage to canopy) for 184 Danish accessions		
+		
+Unigene	Significance P value	Relationship with disease score
+comp41009_c0_seq2	8.37E-15	negative
+comp77910_c0_seq1	1.63E-14	positive
+comp81801_c0_seq2	4.59E-12	negative
+comp74338_c1_seq3	2.06E-11	positive
+comp82686_c0_seq10	3.53E-11	positive
+comp83399_c1_seq1	5.68E-11	negative
+comp51186_c0_seq2	2.92E-10	negative
+comp84998_c0_seq1	1.44E-09	negative
+comp80816_c0_seq2	2.17E-09	positive
+comp60777_c0_seq1	2.50E-09	positive
+comp85115_c0_seq1	8.18E-09	negative
+comp39432_c0_seq1	9.61E-09	negative
