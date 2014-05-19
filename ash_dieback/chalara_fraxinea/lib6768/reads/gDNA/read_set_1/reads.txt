@@ -1,4 +1,0 @@
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/lib6768/reads/gDNA/read_set_1/861_LIB6768_LDI5554_CCGTCC_L001_R1.fastq.gz
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/lib6768/reads/gDNA/read_set_1/861_LIB6768_LDI5554_CCGTCC_L001_R2.fastq.gz
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/lib6768/reads/gDNA/read_set_1/861_LIB6768_LDI5554_CCGTCC_L002_R1.fastq.gz
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/lib6768/reads/gDNA/read_set_1/861_LIB6768_LDI5554_CCGTCC_L002_R2.fastq.gz

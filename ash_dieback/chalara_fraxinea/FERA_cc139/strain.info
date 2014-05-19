@@ -1,0 +1,51 @@
+#metadata definition file for strains/isolates in the ash dieback project
+#please fill in all the items listed in the required list
+#please fill in as many items as possible in the optional list
+
+#lines beginning with # are comments and will be ignored
+
+
+required: "strain_identifier,geographical_location,host_species,host_tissue,host_species_taxid,fungus_species,fungus_species_taxid"
+optional: "collection_date,collector_name,collector_institution,source_strain_collection,references,ext_db,strain_links"
+
+#local name for strain
+strain_identifier: “FERA_cc139”
+
+#Geographical location as GPS coordinates or grid reference
+geographical_location: ""
+
+#Date of collection
+collection_date: “05/2013”
+
+#Name of collector
+collector_name: “Louisa_Williamson”
+
+#Institution of collector
+collector_institution: “The_Food_and_Environment_Research_Agency”
+
+#Host species
+host_species: "fraxinus_excelsior"
+#from NCBI
+host_species_taxid: “38873”
+
+#Host tissue
+host_tissue: “lesions_on_woody_material”
+
+
+#Fungus species (mostly this will be H. pseudoalbidus)
+fungus_species: "Hymenoscyphus pseudoalbidus"
+#from NCBI
+fungus_species_taxid: "746836"
+
+#Source strain collection (if applicable)
+source_strain_collection: ""
+#Publication(s) about the isolate (if applicable)
+references: ""
+
+#External links to databases (SRA, GenBank, etc.)
+ext_db: ""
+#External links to strain collections via strain names/identifiers/accessions.
+strain_links: ""
+
+
+
