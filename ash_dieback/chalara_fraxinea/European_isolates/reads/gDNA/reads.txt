@@ -1,0 +1,10 @@
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/GIR-M-2-Qiagen/130204_0022_000000000-A2E70_1_SA-PE-030_1.sanfastq.gz
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/GIR-M-2-Qiagen/130204_0022_000000000-A2E70_1_SA-PE-030_2.sanfastq.gz
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/LSVM82-Qiagen/130129_0020_000000000-A2Y2C_1_SA-PE-029_1.sanfastq.gz
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/LSVM82-Qiagen/130129_0020_000000000-A2Y2C_1_SA-PE-029_2.sanfastq.gz
+
+md5sums:
+8b5e8e929819be4e0d07b1b958037956  130204_0022_000000000-A2E70_1_SA-PE-030_1.sanfastq.gz
+582109eea80039b291253083f071ae45  130204_0022_000000000-A2E70_1_SA-PE-030_2.sanfastq.gz
+5ade823e81e926e8cbea315942c82f0e  130129_0020_000000000-A2Y2C_1_SA-PE-029_1.sanfastq.gz
+2cc69399b1ae0670a4954492af4616c1  130129_0020_000000000-A2Y2C_1_SA-PE-029_2.sanfastq.gz
