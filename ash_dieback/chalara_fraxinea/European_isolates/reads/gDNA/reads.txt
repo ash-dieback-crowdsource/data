@@ -1,10 +1,25 @@
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/GIR-M-2-Qiagen/130204_0022_000000000-A2E70_1_SA-PE-030_1.sanfastq.gz
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/GIR-M-2-Qiagen/130204_0022_000000000-A2E70_1_SA-PE-030_2.sanfastq.gz
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/LSVM82-Qiagen/130129_0020_000000000-A2Y2C_1_SA-PE-029_1.sanfastq.gz
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/European_isolates/reads/gDNA/LSVM82-Qiagen/130129_0020_000000000-A2Y2C_1_SA-PE-029_2.sanfastq.gz
+Raw reads are avaible at The European Nucleotide Archive (ENA) at following links
+Hymenoscyphus pseudoalbidus; 2008-125/2		http://www.ebi.ac.uk/ena/data/view/ERS480845
+Hymenoscyphus pseudoalbidus; 2008-139/1		http://www.ebi.ac.uk/ena/data/view/ERS480848
+Hymenoscyphus pseudoalbidus; 2008-142/5		http://www.ebi.ac.uk/ena/data/view/ERS480849
+Hymenoscyphus pseudoalbidus; 2008-148/4		http://www.ebi.ac.uk/ena/data/view/ERS480844
+Hymenoscyphus pseudoalbidus; 2008-152/4		http://www.ebi.ac.uk/ena/data/view/ERS480846
+Hymenoscyphus pseudoalbidus; 2008-81/6		http://www.ebi.ac.uk/ena/data/view/ERS480865
+Hymenoscyphus pseudoalbidus; 2009-86/3		http://www.ebi.ac.uk/ena/data/view/ERS480850
+Hymenoscyphus pseudoalbidus; 2010-189/4		http://www.ebi.ac.uk/ena/data/view/ERS480851
+Hymenoscyphus pseudoalbidus; 2010-189/5		http://www.ebi.ac.uk/ena/data/view/ERS480852
+Hymenoscyphus pseudoalbidus; 2011-11/1		http://www.ebi.ac.uk/ena/data/view/ERS480847
+Hymenoscyphus pseudoalbidus; 2012-24/1		http://www.ebi.ac.uk/ena/data/view/ERS480853
+Hymenoscyphus pseudoalbidus; 2012-38/2/2	http://www.ebi.ac.uk/ena/data/view/ERS480854
+Hymenoscyphus pseudoalbidus; 2012-42/1/1	http://www.ebi.ac.uk/ena/data/view/ERS480855
+Hymenoscyphus pseudoalbidus; CBS 122191		http://www.ebi.ac.uk/ena/data/view/ERS480860
+Hymenoscyphus pseudoalbidus; CBS 122503		http://www.ebi.ac.uk/ena/data/view/ERS480858
+Hymenoscyphus pseudoalbidus; CBS 122504		http://www.ebi.ac.uk/ena/data/view/ERS480856
+Hymenoscyphus pseudoalbidus; CBS 122505		http://www.ebi.ac.uk/ena/data/view/ERS480859
+Hymenoscyphus pseudoalbidus; CBS 122507		http://www.ebi.ac.uk/ena/data/view/ERS480857
+Hymenoscyphus pseudoalbidus; FON-M-1		http://www.ebi.ac.uk/ena/data/view/ERS480864
+Hymenoscyphus pseudoalbidus; GIR-M-2		http://www.ebi.ac.uk/ena/data/view/ERS480862
+Hymenoscyphus pseudoalbidus; LAN-M-1		http://www.ebi.ac.uk/ena/data/view/ERS480863
+Hymenoscyphus pseudoalbidus; LSVM82			http://www.ebi.ac.uk/ena/data/view/ERS480861
+Hymenoscyphus pseudoalbidus; MIG-M-1		http://www.ebi.ac.uk/ena/data/view/ERS480843
 
-md5sums:
-8b5e8e929819be4e0d07b1b958037956  130204_0022_000000000-A2E70_1_SA-PE-030_1.sanfastq.gz
-582109eea80039b291253083f071ae45  130204_0022_000000000-A2E70_1_SA-PE-030_2.sanfastq.gz
-5ade823e81e926e8cbea315942c82f0e  130129_0020_000000000-A2Y2C_1_SA-PE-029_1.sanfastq.gz
-2cc69399b1ae0670a4954492af4616c1  130129_0020_000000000-A2Y2C_1_SA-PE-029_2.sanfastq.gz
