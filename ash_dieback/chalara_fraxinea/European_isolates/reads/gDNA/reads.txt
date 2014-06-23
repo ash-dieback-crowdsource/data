@@ -23,3 +23,4 @@ Hymenoscyphus pseudoalbidus; LAN-M-1		http://www.ebi.ac.uk/ena/data/view/ERS4808
 Hymenoscyphus pseudoalbidus; LSVM82			http://www.ebi.ac.uk/ena/data/view/ERS480861
 Hymenoscyphus pseudoalbidus; MIG-M-1		http://www.ebi.ac.uk/ena/data/view/ERS480843
 
+Further details of ENA submission are available at http://www.ebi.ac.uk/ena/data/view/ERP006093
