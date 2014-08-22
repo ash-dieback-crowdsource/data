@@ -1,2 +1,2 @@
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane4/lane4_CAGATC_R1.fastq
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane4/lane4_CAGATC_R2.fastq
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane4/lane4_CAGATC_R1.fastq
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane4/lane4_CAGATC_R2.fastq

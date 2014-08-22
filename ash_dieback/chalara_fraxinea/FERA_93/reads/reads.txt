@@ -1,2 +1,2 @@
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_93/reads/RNAseq/FERA_93_S8_L001_R1_001.fastq.gz
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_93/reads/RNAseq/FERA_93_S8_L001_R2_001.fastq.gz
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_93/reads/FERA_93_S8_L001_R1_001.fastq.gz
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_93/reads/FERA_93_S8_L001_R2_001.fastq.gz

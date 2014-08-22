@@ -17,8 +17,8 @@ run_parameters: ""
 
 
 ##reads used in the assembly, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-reads: "ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_94/reads/RNAseq/FERA_94_S3_L001_R1_001.fastq.gz
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_94/reads/RNAseq/FERA_94_S3_L001_R2_001.fastq.gz"
+reads: "ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_94/reads/FERA_94_S3_L001_R1_001.fastq.gz
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_94/reads/FERA_94_S3_L001_R2_001.fastq.gz"
 
 ##information on any scaffold sequence used in the assembly that are not part of the reads. If possible, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
 scaffolds: ""

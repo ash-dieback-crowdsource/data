@@ -17,8 +17,8 @@ run_parameters: "abyss-pe c=10 np=200 k=202 lib="pe1 pe2" pe1="$READS_PE" pe2="$
 
 
 ##reads used in the assembly, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-reads: "ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/read_set_1/lib2569.fastq.tar.gz
-ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/read_set_2/lib2570.fastq.tar.gz"
+reads: "ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/gDNA/read_set_1/lib2569.fastq.tar.gz
+ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/gDNA/read_set_2/lib2570.fastq.tar.gz"
 
 ##information on any scaffold sequence used in the assembly that are not part of the reads. If possible, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
 scaffolds: ""

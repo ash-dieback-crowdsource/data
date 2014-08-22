@@ -1,1 +1,1 @@
-ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT1/blastx/AT1_Trinity-r2012-10-05.nr.blastx.tar.gz
+ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT1/blastx/AT1_Trinity-r2012-10-05.nr.blastx.tar.gz

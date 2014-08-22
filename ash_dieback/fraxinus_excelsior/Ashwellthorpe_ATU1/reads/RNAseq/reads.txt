@@ -1,2 +1,2 @@
-ftp-oadb.tsl.ac.uk/fraxinus_excelsior/Ashwellthorpe_ATU1/reads/RNAseq/lane6_NoIndex_R1.fastq
-ftp-oadb.tsl.ac.uk/fraxinus_excelsior/Ashwellthorpe_ATU1/reads/RNAseq/lane6_NoIndex_R2.fastq
+ftp://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/Ashwellthorpe_ATU1/reads/RNAseq/lane6_NoIndex_R1.fastq
+ftp://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/Ashwellthorpe_ATU1/reads/RNAseq/lane6_NoIndex_R2.fastq
