@@ -59,3 +59,7 @@ For proteins with Gene Ontology and PFAM domains, entries were appended to the a
 
 Currnet [Chalara_fraxinea_ass_s1v1_ann_v1.1.gene_domains.gff] (Chalara_fraxinea_ass_s1v1_ann_v1.1.gene_domains.gff) from this analysis replaces [previous gff with GO ids](https://github.com/ash-dieback-crowdsource/data/blob/bb7b68bd8a20cbf542a88f9a47340cfd2302cd7f/ash_dieback/chalara_fraxinea/Kenninghall_wood_KW1/annotations/Gene_predictions/TGAC_Chalara_fraxinea_ass_s1v1_ann_v1.1/Chalara_fraxinea_ass_s1v1_ann_v1.1.gene_goids.gff)
 
+#### Date: 2014 December 12
+### Update
+
+As the gff file created [Chalara_fraxinea_ass_s1v1_ann_v1.1.gene_domains.gff] (Chalara_fraxinea_ass_s1v1_ann_v1.1.gene_domains.gff) in this folder is the same as the [Chalara_fraxinea_ass_s1v1_ann_v1.1.gene.gff](../Chalara_fraxinea_ass_s1v1_ann_v1.1.gene.gff) file in the `TGAC_Chalara_fraxinea_ass_s1v1_ann_v1.1` folder, with added GO and PFAM information for respective genes; I have now replaced the original `Chalara_fraxinea_ass_s1v1_ann_v1.1.gene.gff` file with updated domain information file
