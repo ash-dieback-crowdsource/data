@@ -10,16 +10,16 @@ optional: "collection_date,collector_name,collector_institution,source_strain_co
 strain_identifier: "WW1"
 
 #Geographical location as GPS coordinates or grid reference
-geographical_location: ""
+geographical_location: "52.561320 0.838530"
 
 #Date of collection
 collection_date: 
 
 #Name of collector
-collector_name: ""
+collector_name: "Steve Collin"
 
 #Institution of collector
-collector_institution: ""
+collector_institution: "Norfolk Wildlife Trust"
 
 #Host species
 host_species: "Fraxinus excelsior"

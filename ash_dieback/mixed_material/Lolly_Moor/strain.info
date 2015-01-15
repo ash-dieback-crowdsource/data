@@ -10,7 +10,7 @@ optional: "collection_date,collector_name,collector_institution,source_strain_co
 strain_identifier: "LM1"
 
 #Geographical location as GPS coordinates or grid reference
-geographical_location: "52.613969,0.886402"
+geographical_location: "52.653172 0.946310"
 
 #Date of collection
 collection_date: 
