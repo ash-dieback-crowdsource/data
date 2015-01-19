@@ -33,6 +33,12 @@ You need to clone the ash-dieback-crowdsource/data repo on your local machine, b
     git clone git@github.com:ash-dieback-crowdsource/data.git
 ```
 
+Or you can choose to just to download the latest versions of the data (less to download):
+
+```git
+    git clone --depth 1 git@github.com:ash-dieback-crowdsource/data.git
+```
+
 After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `data folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
 
 ### adding data locally
