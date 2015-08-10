@@ -1,2 +1,2 @@
-ftp://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/GIRM2/reads/130204_0022_000000000-A2E70_1_SA-PE-030_1.sanfastq.gz
-ftp://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/GIRM2/reads/130204_0022_000000000-A2E70_1_SA-PE-030_2.sanfastq.gz
+http://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/GIRM2/reads/130204_0022_000000000-A2E70_1_SA-PE-030_1.sanfastq.gz
+http://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/GIRM2/reads/130204_0022_000000000-A2E70_1_SA-PE-030_2.sanfastq.gz

@@ -17,4 +17,4 @@ run_parameters: "hmmsearch --cpu 8 --tblout PfamA_out.tab --cut_ga Pfam-A.hmm be
 
 ##ORFs: "best_candidates.eclipsed_orfs_removed.pep (see Likely Coding Sequences)"
 
-##HMM library: Pfam-A HMMs (ftp://ftp.sanger.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz)
+##HMM library: Pfam-A HMMs (http://ftp.sanger.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz)

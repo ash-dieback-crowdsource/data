@@ -1,2 +1,2 @@
-ftp://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/reads/mRNA/read_set1/R1.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/reads/mRNA/read_set1/R2.fastq.gz
+http://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/reads/mRNA/read_set1/R1.fastq.gz
+http://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/reads/mRNA/read_set1/R2.fastq.gz

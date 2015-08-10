@@ -17,8 +17,8 @@ run_parameters: "all -s cha_ope_lmp.config -K 111 -p 200 -R -o cha_soap_ope_lmp_
 
 
 ##reads used in the assembly, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-reads: "ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/gDNA/read_set_2/lib2570.fastq.tar.gz
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/gDNA/read_set_3/lib8209.fastq.tar.gz"
+reads: "http://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/gDNA/read_set_2/lib2570.fastq.tar.gz
+http://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/gDNA/read_set_3/lib8209.fastq.tar.gz"
 
 ##information on any scaffold sequence used in the assembly that are not part of the reads. If possible, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
 scaffolds: ""

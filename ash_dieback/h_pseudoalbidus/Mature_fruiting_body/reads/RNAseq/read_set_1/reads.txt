@@ -1,2 +1,2 @@
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane5/lane5_ACAGTG_R1.fastq
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane5/lane5_ACAGTG_R2.fastq
+http://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane5/lane5_ACAGTG_R1.fastq
+http://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/reads/RNAseq/TSL_ID157_lane5/lane5_ACAGTG_R2.fastq

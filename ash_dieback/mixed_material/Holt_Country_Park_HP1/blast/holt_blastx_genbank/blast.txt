@@ -1,1 +1,0 @@
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/Holt_Country_Park_HP1/blastx/holt.nr.blastx.tar.gz

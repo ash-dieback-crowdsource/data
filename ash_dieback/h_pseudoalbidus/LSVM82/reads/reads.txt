@@ -1,2 +1,2 @@
-ftp://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/LSVM82/reads/130129_0020_000000000-A2Y2C_1_SA-PE-029_1.sanfastq.gz
-ftp://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/LSVM82/reads/130129_0020_000000000-A2Y2C_1_SA-PE-029_2.sanfastq.gz
+http://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/LSVM82/reads/130129_0020_000000000-A2Y2C_1_SA-PE-029_1.sanfastq.gz
+http://ftp-oadb.tsl.ac.uk/h_pseudoalbidus/LSVM82/reads/130129_0020_000000000-A2Y2C_1_SA-PE-029_2.sanfastq.gz

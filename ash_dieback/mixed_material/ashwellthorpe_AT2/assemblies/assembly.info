@@ -17,18 +17,18 @@ run_parameters: "Trinity.pl --seqType fq --left lane5_NoIndex_R1.fastq --right l
 
 
 ##reads used in the assembly, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-reads: "ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_001.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_002.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_003.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_004.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_005.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_006.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_001.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_002.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_003.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_004.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_005.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_006.fastq.gz"
+reads: "http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_001.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_002.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_003.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_004.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_005.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R1_006.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_001.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_002.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_003.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_004.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_005.fastq.gz
+http://ftp-oadb.tsl.ac.uk/mixed_material/ashwellthorpe_AT2/RNA_seq/lane5_NoIndex_L005_R2_006.fastq.gz"
 
 
 ##information on any scaffold sequence used in the assembly that are not part of the reads. If possible, should also be in crowdsource repository and should be described here with its repository address. See README for more info.

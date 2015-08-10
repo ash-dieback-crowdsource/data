@@ -1,2 +1,2 @@
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_233/reads/FERA_233_S4_L001_R1_001.fastq.gz
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_233/reads/FERA_233_S4_L001_R2_001.fastq.gz
+http://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_233/reads/FERA_233_S4_L001_R1_001.fastq.gz
+http://ftp-oadb.tsl.ac.uk/chalara_fraxinea/FERA_233/reads/FERA_233_S4_L001_R2_001.fastq.gz

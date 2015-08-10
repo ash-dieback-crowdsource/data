@@ -1,1 +1,1 @@
-ftp://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/blast/blastn/tree35_RNA-seq_Trinity_tree35_Nornex_scaffolds_blastplus.blastn.gz
+http://ftp-oadb.tsl.ac.uk/fraxinus_excelsior/tree35/blast/blastn/tree35_RNA-seq_Trinity_tree35_Nornex_scaffolds_blastplus.blastn.gz

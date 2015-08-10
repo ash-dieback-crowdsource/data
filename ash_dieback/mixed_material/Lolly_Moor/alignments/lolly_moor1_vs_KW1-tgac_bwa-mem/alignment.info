@@ -19,5 +19,5 @@ run_parameters: "bwa mem"
 target: "/chalara_fraxinea/Kenninghall_wood_KW1/assemblies/gDNA/KW1_assembly_version1/Chalara_fraxinea_TGAC_s1v1_scaffolds.fa"
 
 ##reads or query sequences, should also be in crowdsource repository and should be described here with its repository address. See README for more info.
-query: "ftp://ftp-oadb.tsl.ac.uk/mixed_material/Lollymoor_LM1/lane6_ACAGTG_R1.fastq
-ftp://ftp-oadb.tsl.ac.uk/mixed_material/Lollymoor_LM1/lane6_ACAGTG_R2.fastq"
+query: "http://ftp-oadb.tsl.ac.uk/mixed_material/Lollymoor_LM1/lane6_ACAGTG_R1.fastq
+http://ftp-oadb.tsl.ac.uk/mixed_material/Lollymoor_LM1/lane6_ACAGTG_R2.fastq"

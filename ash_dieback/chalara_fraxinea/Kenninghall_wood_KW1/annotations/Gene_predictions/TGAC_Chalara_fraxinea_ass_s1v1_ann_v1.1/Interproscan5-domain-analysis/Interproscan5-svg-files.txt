@@ -1,4 +1,4 @@
-ftp://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/annotations/Gene_predictions/TGAC_Chalara_fraxinea_ass_s1v1_ann_v1.1/Interproscan5-go-analysis/SVG-out/
+http://ftp-oadb.tsl.ac.uk/chalara_fraxinea/Kenninghall_wood_KW1/annotations/Gene_predictions/TGAC_Chalara_fraxinea_ass_s1v1_ann_v1.1/Interproscan5-go-analysis/SVG-out/
 
 CHAFR746836.1.1_0000010.1.svg
 CHAFR746836.1.1_0000020.1.svg
