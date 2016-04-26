@@ -1,2 +1,0 @@
-#sequence-id<tab>8A-signature<tab>stachelhaus-code<tab>3class-pred<tab>large-class-pred<tab>small-class-pred<tab>single-class-pred<tab>nearest stachelhaus code<tab>NRPS1pred-large-class-pred<tab>NRPS2pred-large-class-pred<tab>outside applicability domain?<tab>coords<tab>pfam-score
-CHAFR746836_0048600.1_A1	TYGAFDISLHEMCIVFTGEFSWYGASEVPLVSVQ	DIHCVTWLVK	hydrophobic-aliphatic	pro,pip	N/A	N/A	lys-b	pro,pip	pro	0	0:0	0.000000e+00

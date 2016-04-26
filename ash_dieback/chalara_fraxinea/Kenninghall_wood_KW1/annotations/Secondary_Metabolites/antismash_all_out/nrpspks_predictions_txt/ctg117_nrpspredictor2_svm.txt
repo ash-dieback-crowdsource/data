@@ -1,3 +1,0 @@
-#sequence-id<tab>8A-signature<tab>stachelhaus-code<tab>3class-pred<tab>large-class-pred<tab>small-class-pred<tab>single-class-pred<tab>nearest stachelhaus code<tab>NRPS1pred-large-class-pred<tab>NRPS2pred-large-class-pred<tab>outside applicability domain?<tab>coords<tab>pfam-score
-CHAFR746836_0060960.1_A1	GPRAFDVSIDCAHMGLGGEVIAYGPSECTVGCTI	DVDHGGAVGK	hydrophilic	N/A	N/A	N/A	glu	dhb,sal	dhpg,hpg	1	0:0	0.000000e+00
-CHAFR746836_0061050.1_A1	HSHAFDVAIMDTILAIGGEIQIYGPAEVGICLTM	DVMIAGIICK	N/A	N/A	N/A	N/A	pro	ser,thr,dhpg,hpg	pro	0	0:0	0.000000e+00

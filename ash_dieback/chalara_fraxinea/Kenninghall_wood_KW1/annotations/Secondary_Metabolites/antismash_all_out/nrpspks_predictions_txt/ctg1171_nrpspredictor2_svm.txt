@@ -1,2 +1,0 @@
-#sequence-id<tab>8A-signature<tab>stachelhaus-code<tab>3class-pred<tab>large-class-pred<tab>small-class-pred<tab>single-class-pred<tab>nearest stachelhaus code<tab>NRPS1pred-large-class-pred<tab>NRPS2pred-large-class-pred<tab>outside applicability domain?<tab>coords<tab>pfam-score
-CHAFR746836_0040090.1_A1	S-LV----IWERLMWFNGELNCYSASESHEIACG	--WLWNCEIK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	N/A	ala	phg	orn,lys,arg	gly,ala	1	0:0	0.000000e+00

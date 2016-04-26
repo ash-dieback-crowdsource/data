@@ -1,3 +1,0 @@
-#sequence-id<tab>8A-signature<tab>stachelhaus-code<tab>3class-pred<tab>large-class-pred<tab>small-class-pred<tab>single-class-pred<tab>nearest stachelhaus code<tab>NRPS1pred-large-class-pred<tab>NRPS2pred-large-class-pred<tab>outside applicability domain?<tab>coords<tab>pfam-score
-CHAFR746836_0063080.1_A1	L--TFDNSTWEAMLCVQGEINAYGPTENSVTSTF	DNWMCQAVTK	hydrophobic-aliphatic	N/A	N/A	N/A	phe	orn,lys,arg	orn,horn	0	0:0	0.000000e+00
-CHAFR746836_0063080.1_A2	A-HAFDVSISNTDLTLGGERNAYGPSECTPTSTI	DVSDTGAPTK	hydrophobic-aliphatic	N/A	N/A	N/A	arg	orn,lys,arg	asp,asn	0	0:0	0.000000e+00
